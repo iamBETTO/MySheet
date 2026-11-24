@@ -13,6 +13,9 @@ Each entry names the roadmap card it belongs to.
 - `scripts/site.mjs` now prepares the `gh-pages` branch; the site is live at https://iambetto.github.io/MySheet/.
 - Seen once in the full run: `website.spec.ts` "changes are saved on the device and survive a reload" failed
   (setting not checked after reload), then passed 40 of 40 on repeat. Likely a timing race; watch it.
+- Roadmap: decisions ms-d64 (website from this public repository, nothing personal in it), ms-d65 (work goes
+  straight to main), ms-d66 (placeholder icon stays for now). Offline App stays In progress: phone check and the
+  Claude page are left (plan step 5).
 
 ## 10 Nov 2026 — Offline App, steps 1–3 (`ms-v2-25`, decision ms-d63)
 - `plans/offline-app.md`. Moved from Someday into v0.3 so testers need no Claude account; Google Drive backup dropped.
