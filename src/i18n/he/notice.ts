@@ -1,0 +1,36 @@
+// Hebrew texts: notices (plans/translation.md, step 5). Drafted by Claude for the owner to check; keys match en/notice.ts.
+import type { Key } from '../text';
+import type { Message } from '../types';
+
+export const notice = {
+  "notice.unreadable": { one: "לא ניתן היה לקרוא רשומה שמורה אחת", other: "לא ניתן היה לקרוא {n} רשומות שמורות" },
+  "notice.setAside": { one: "היא הועברה הצידה, כך שכל השאר מוצג כרגיל.", other: "הן הועברו הצידה, כך שכל השאר מוצג כרגיל." },
+  "notice.copyKept": "עותק נשמר בבטחה, כך ששום דבר לא אבד. כדאי לספר ל-Claude כדי שיתקן את זה.",
+  "notice.downloadFirst": "כדאי להוריד עכשיו גיבוי בהגדרות, ואז לספר ל-Claude כדי שיתקן את זה.",
+  "notice.more": "…ועוד {n}.",
+  "notice.hide": "הסתרת ההודעה",
+  "notice.welcome": "טוב שחזרת",
+  "notice.since": "מאז הביקור האחרון שלך ב-{date}: {news}",
+  "notice.news": { one: "תנועה אחת: יצאו {out} ונכנסו {in}.", other: "{n} תנועות: יצאו {out} ונכנסו {in}." },
+  "notice.noNews": "עדיין אין תנועות חדשות. ייבוא הקבצים האחרונים שלך יעדכן את זה.",
+  "notice.seeNew": "מה חדש",
+  "notice.skip": "דילוג",
+  "notice.aTransaction": "תנועה מ-{date}: {name}",
+  "notice.unknownDay": "יום לא ידוע",
+  "notice.noName": "(ללא שם)",
+  "notice.quoted": "״{name}״",
+  "notice.aLink": "קישור בין שתי תנועות",
+  "notice.theMonth": "החודש {month}",
+  "notice.aValueOf": "שווי של {name}",
+  "notice.aLayout": "הסידור של דף",
+  "notice.theAccount": "החשבון {name}",
+  "notice.theType": "הקטגוריה {name}",
+  "notice.theRule": "הכלל {name}",
+  "notice.theHolding": "הנכס {name}",
+  "notice.theNote": "הפתק בלוח השנה {name}",
+  "notice.aLimit": "תקרת תקציב {name}",
+  "notice.aMonthLimit": "תקרה לחודש אחד {name}",
+  "notice.anImport": "רישום של ייבוא {name}",
+  "notice.aFileLayout": "מבנה קובץ שמור {name}",
+  "notice.yourSection": "החלק ״{section}״ בנתונים שלך",
+} satisfies Partial<Record<Key, Message>>;

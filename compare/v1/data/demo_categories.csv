@@ -1,0 +1,639 @@
+period,direction,category,amount,per_month
+last12,in,Bonus,2000,167
+last12,in,From family,1000,83
+last12,in,Salary,118500,9875
+last12,in,Tax refund,1000,83
+last12,out,ATM cash,3800,317
+last12,out,Bills,3600,300
+last12,out,Eating out,13850,1154
+last12,out,Groceries,13050,1088
+last12,out,Public transport,1200,100
+last12,out,Rent,45600,3800
+last12,out,Scooters,4680,390
+last12,out,Shopping,6300,525
+last12,out,Subscriptions,840,70
+last12,transfer,Moved to savings,-18000,-1500
+prev12,in,Bonus,2000,167
+prev12,in,From family,1200,100
+prev12,in,Salary,112500,9375
+prev12,in,Tax refund,1000,83
+prev12,out,ATM cash,3300,275
+prev12,out,Bills,3600,300
+prev12,out,Eating out,12800,1067
+prev12,out,Groceries,12200,1017
+prev12,out,Public transport,1200,100
+prev12,out,Rent,42900,3575
+prev12,out,Scooters,3600,300
+prev12,out,Shopping,5800,483
+prev12,out,Subscriptions,840,70
+prev12,transfer,Moved to savings,-18000,-1500
+2026,in,From family,1000,109
+2026,in,Salary,100000,10870
+2026,in,Tax refund,1000,109
+2026,out,ATM cash,3100,337
+2026,out,Bills,2550,277
+2026,out,Eating out,10750,1168
+2026,out,Groceries,9550,1038
+2026,out,Public transport,1000,109
+2026,out,Rent,38000,4130
+2026,out,Scooters,3660,398
+2026,out,Shopping,6000,652
+2026,out,Subscriptions,700,76
+2026,transfer,Moved to savings,-13500,-1467
+2025,in,Bonus,2000,167
+2025,in,From family,700,58
+2025,in,Salary,114000,9500
+2025,in,Tax refund,1000,83
+2025,out,ATM cash,3300,275
+2025,out,Bills,3600,300
+2025,out,Eating out,13100,1092
+2025,out,Groceries,13250,1104
+2025,out,Public transport,1200,100
+2025,out,Rent,43800,3650
+2025,out,Scooters,3920,327
+2025,out,Shopping,4000,333
+2025,out,Subscriptions,840,70
+2025,transfer,Moved to savings,-18000,-1500
+2024,in,Bonus,2000,167
+2024,in,From family,1600,133
+2024,in,Salary,108000,9000
+2024,in,Tax refund,1000,83
+2024,out,ATM cash,3600,300
+2024,out,Bills,3600,300
+2024,out,Eating out,11250,938
+2024,out,Groceries,12000,1000
+2024,out,Public transport,1200,100
+2024,out,Rent,42000,3500
+2024,out,Scooters,3080,257
+2024,out,Shopping,5400,450
+2024,out,Subscriptions,840,70
+2024,transfer,Moved to savings,-18000,-1500
+2023,in,Bonus,2000,167
+2023,in,From family,400,33
+2023,in,Salary,108000,9000
+2023,in,Tax refund,1000,83
+2023,out,ATM cash,4100,342
+2023,out,Bills,3600,300
+2023,out,Eating out,7650,638
+2023,out,Groceries,11450,954
+2023,out,Public transport,1200,100
+2023,out,Rent,42000,3500
+2023,out,Scooters,2160,180
+2023,out,Shopping,7400,617
+2023,out,Subscriptions,840,70
+2023,transfer,Moved to savings,-18000,-1500
+all,in,Bonus,8000,166
+all,in,From family,4400,91
+all,in,Salary,457000,9481
+all,in,Tax refund,4000,83
+all,out,ATM cash,14800,307
+all,out,Bills,14400,299
+all,out,Eating out,44100,915
+all,out,Groceries,48700,1010
+all,out,Public transport,4900,102
+all,out,Rent,176300,3658
+all,out,Scooters,13220,274
+all,out,Shopping,24800,515
+all,out,Subscriptions,3430,71
+all,transfer,Moved to savings,-72000,-1494
+m2022-10,in,Salary,9000,9000
+m2022-10,out,Bills,450,450
+m2022-10,out,Eating out,300,300
+m2022-10,out,Groceries,650,650
+m2022-10,out,Public transport,100,100
+m2022-10,out,Rent,3500,3500
+m2022-10,out,Scooters,160,160
+m2022-10,out,Shopping,1000,1000
+m2022-10,out,Subscriptions,70,70
+m2022-10,transfer,Moved to savings,-1500,-1500
+m2022-11,in,From family,500,500
+m2022-11,in,Salary,9000,9000
+m2022-11,out,ATM cash,200,200
+m2022-11,out,Bills,150,150
+m2022-11,out,Eating out,650,650
+m2022-11,out,Groceries,900,900
+m2022-11,out,Public transport,100,100
+m2022-11,out,Rent,3500,3500
+m2022-11,out,Scooters,140,140
+m2022-11,out,Shopping,800,800
+m2022-11,out,Subscriptions,70,70
+m2022-11,transfer,Moved to savings,-1500,-1500
+m2022-12,in,Bonus,2000,2000
+m2022-12,in,From family,200,200
+m2022-12,in,Salary,9000,9000
+m2022-12,out,ATM cash,500,500
+m2022-12,out,Bills,450,450
+m2022-12,out,Eating out,400,400
+m2022-12,out,Groceries,900,900
+m2022-12,out,Public transport,100,100
+m2022-12,out,Rent,3500,3500
+m2022-12,out,Scooters,100,100
+m2022-12,out,Shopping,200,200
+m2022-12,out,Subscriptions,70,70
+m2022-12,transfer,Moved to savings,-1500,-1500
+m2023-01,in,Salary,9000,9000
+m2023-01,out,ATM cash,500,500
+m2023-01,out,Bills,150,150
+m2023-01,out,Eating out,550,550
+m2023-01,out,Groceries,900,900
+m2023-01,out,Public transport,100,100
+m2023-01,out,Rent,3500,3500
+m2023-01,out,Scooters,140,140
+m2023-01,out,Shopping,500,500
+m2023-01,out,Subscriptions,70,70
+m2023-01,transfer,Moved to savings,-1500,-1500
+m2023-02,in,From family,200,200
+m2023-02,in,Salary,9000,9000
+m2023-02,out,ATM cash,700,700
+m2023-02,out,Bills,450,450
+m2023-02,out,Eating out,750,750
+m2023-02,out,Groceries,1000,1000
+m2023-02,out,Public transport,100,100
+m2023-02,out,Rent,3500,3500
+m2023-02,out,Scooters,180,180
+m2023-02,out,Shopping,400,400
+m2023-02,out,Subscriptions,70,70
+m2023-02,transfer,Moved to savings,-1500,-1500
+m2023-03,in,Salary,9000,9000
+m2023-03,out,ATM cash,1000,1000
+m2023-03,out,Bills,150,150
+m2023-03,out,Eating out,450,450
+m2023-03,out,Groceries,1050,1050
+m2023-03,out,Public transport,100,100
+m2023-03,out,Rent,3500,3500
+m2023-03,out,Scooters,120,120
+m2023-03,out,Shopping,500,500
+m2023-03,out,Subscriptions,70,70
+m2023-03,transfer,Moved to savings,-1500,-1500
+m2023-04,in,From family,200,200
+m2023-04,in,Salary,9000,9000
+m2023-04,in,Tax refund,1000,1000
+m2023-04,out,Bills,450,450
+m2023-04,out,Eating out,750,750
+m2023-04,out,Groceries,1000,1000
+m2023-04,out,Public transport,100,100
+m2023-04,out,Rent,3500,3500
+m2023-04,out,Scooters,120,120
+m2023-04,out,Shopping,200,200
+m2023-04,out,Subscriptions,70,70
+m2023-04,transfer,Moved to savings,-1500,-1500
+m2023-05,in,Salary,9000,9000
+m2023-05,out,ATM cash,500,500
+m2023-05,out,Bills,150,150
+m2023-05,out,Eating out,600,600
+m2023-05,out,Groceries,1000,1000
+m2023-05,out,Public transport,100,100
+m2023-05,out,Rent,3500,3500
+m2023-05,out,Scooters,140,140
+m2023-05,out,Shopping,100,100
+m2023-05,out,Subscriptions,70,70
+m2023-05,transfer,Moved to savings,-1500,-1500
+m2023-06,in,Salary,9000,9000
+m2023-06,out,Bills,450,450
+m2023-06,out,Eating out,450,450
+m2023-06,out,Groceries,900,900
+m2023-06,out,Public transport,100,100
+m2023-06,out,Rent,3500,3500
+m2023-06,out,Scooters,200,200
+m2023-06,out,Shopping,500,500
+m2023-06,out,Subscriptions,70,70
+m2023-06,transfer,Moved to savings,-1500,-1500
+m2023-07,in,Salary,9000,9000
+m2023-07,out,ATM cash,200,200
+m2023-07,out,Bills,150,150
+m2023-07,out,Eating out,650,650
+m2023-07,out,Groceries,1000,1000
+m2023-07,out,Public transport,100,100
+m2023-07,out,Rent,3500,3500
+m2023-07,out,Scooters,220,220
+m2023-07,out,Shopping,1200,1200
+m2023-07,out,Subscriptions,70,70
+m2023-07,transfer,Moved to savings,-1500,-1500
+m2023-08,in,Salary,9000,9000
+m2023-08,out,ATM cash,500,500
+m2023-08,out,Bills,450,450
+m2023-08,out,Eating out,950,950
+m2023-08,out,Groceries,1000,1000
+m2023-08,out,Public transport,100,100
+m2023-08,out,Rent,3500,3500
+m2023-08,out,Scooters,200,200
+m2023-08,out,Shopping,500,500
+m2023-08,out,Subscriptions,70,70
+m2023-08,transfer,Moved to savings,-1500,-1500
+m2023-09,in,Salary,9000,9000
+m2023-09,out,Bills,150,150
+m2023-09,out,Eating out,750,750
+m2023-09,out,Groceries,1000,1000
+m2023-09,out,Public transport,100,100
+m2023-09,out,Rent,3500,3500
+m2023-09,out,Scooters,220,220
+m2023-09,out,Shopping,700,700
+m2023-09,out,Subscriptions,70,70
+m2023-09,transfer,Moved to savings,-1500,-1500
+m2023-10,in,Salary,9000,9000
+m2023-10,out,Bills,450,450
+m2023-10,out,Eating out,700,700
+m2023-10,out,Groceries,900,900
+m2023-10,out,Public transport,100,100
+m2023-10,out,Rent,3500,3500
+m2023-10,out,Scooters,180,180
+m2023-10,out,Shopping,900,900
+m2023-10,out,Subscriptions,70,70
+m2023-10,transfer,Moved to savings,-1500,-1500
+m2023-11,in,Salary,9000,9000
+m2023-11,out,ATM cash,500,500
+m2023-11,out,Bills,150,150
+m2023-11,out,Eating out,550,550
+m2023-11,out,Groceries,850,850
+m2023-11,out,Public transport,100,100
+m2023-11,out,Rent,3500,3500
+m2023-11,out,Scooters,240,240
+m2023-11,out,Shopping,1200,1200
+m2023-11,out,Subscriptions,70,70
+m2023-11,transfer,Moved to savings,-1500,-1500
+m2023-12,in,Bonus,2000,2000
+m2023-12,in,Salary,9000,9000
+m2023-12,out,ATM cash,200,200
+m2023-12,out,Bills,450,450
+m2023-12,out,Eating out,500,500
+m2023-12,out,Groceries,850,850
+m2023-12,out,Public transport,100,100
+m2023-12,out,Rent,3500,3500
+m2023-12,out,Scooters,200,200
+m2023-12,out,Shopping,700,700
+m2023-12,out,Subscriptions,70,70
+m2023-12,transfer,Moved to savings,-1500,-1500
+m2024-01,in,From family,200,200
+m2024-01,in,Salary,9000,9000
+m2024-01,out,ATM cash,200,200
+m2024-01,out,Bills,150,150
+m2024-01,out,Eating out,600,600
+m2024-01,out,Groceries,850,850
+m2024-01,out,Public transport,100,100
+m2024-01,out,Rent,3500,3500
+m2024-01,out,Scooters,240,240
+m2024-01,out,Shopping,400,400
+m2024-01,out,Subscriptions,70,70
+m2024-01,transfer,Moved to savings,-1500,-1500
+m2024-02,in,From family,200,200
+m2024-02,in,Salary,9000,9000
+m2024-02,out,Bills,450,450
+m2024-02,out,Eating out,950,950
+m2024-02,out,Groceries,1150,1150
+m2024-02,out,Public transport,100,100
+m2024-02,out,Rent,3500,3500
+m2024-02,out,Scooters,240,240
+m2024-02,out,Shopping,500,500
+m2024-02,out,Subscriptions,70,70
+m2024-02,transfer,Moved to savings,-1500,-1500
+m2024-03,in,From family,200,200
+m2024-03,in,Salary,9000,9000
+m2024-03,out,ATM cash,400,400
+m2024-03,out,Bills,150,150
+m2024-03,out,Eating out,850,850
+m2024-03,out,Groceries,900,900
+m2024-03,out,Public transport,100,100
+m2024-03,out,Rent,3500,3500
+m2024-03,out,Scooters,240,240
+m2024-03,out,Shopping,100,100
+m2024-03,out,Subscriptions,70,70
+m2024-03,transfer,Moved to savings,-1500,-1500
+m2024-04,in,Salary,9000,9000
+m2024-04,in,Tax refund,1000,1000
+m2024-04,out,Bills,450,450
+m2024-04,out,Eating out,800,800
+m2024-04,out,Groceries,900,900
+m2024-04,out,Public transport,100,100
+m2024-04,out,Rent,3500,3500
+m2024-04,out,Scooters,220,220
+m2024-04,out,Shopping,200,200
+m2024-04,out,Subscriptions,70,70
+m2024-04,transfer,Moved to savings,-1500,-1500
+m2024-05,in,Salary,9000,9000
+m2024-05,out,ATM cash,500,500
+m2024-05,out,Bills,150,150
+m2024-05,out,Eating out,1000,1000
+m2024-05,out,Groceries,900,900
+m2024-05,out,Public transport,100,100
+m2024-05,out,Rent,3500,3500
+m2024-05,out,Scooters,200,200
+m2024-05,out,Shopping,400,400
+m2024-05,out,Subscriptions,70,70
+m2024-05,transfer,Moved to savings,-1500,-1500
+m2024-06,in,Salary,9000,9000
+m2024-06,out,ATM cash,400,400
+m2024-06,out,Bills,450,450
+m2024-06,out,Eating out,700,700
+m2024-06,out,Groceries,1200,1200
+m2024-06,out,Public transport,100,100
+m2024-06,out,Rent,3500,3500
+m2024-06,out,Scooters,300,300
+m2024-06,out,Shopping,300,300
+m2024-06,out,Subscriptions,70,70
+m2024-06,transfer,Moved to savings,-1500,-1500
+m2024-07,in,Salary,9000,9000
+m2024-07,out,ATM cash,1000,1000
+m2024-07,out,Bills,150,150
+m2024-07,out,Eating out,1000,1000
+m2024-07,out,Groceries,1200,1200
+m2024-07,out,Public transport,100,100
+m2024-07,out,Rent,3500,3500
+m2024-07,out,Scooters,260,260
+m2024-07,out,Shopping,100,100
+m2024-07,out,Subscriptions,70,70
+m2024-07,transfer,Moved to savings,-1500,-1500
+m2024-08,in,From family,500,500
+m2024-08,in,Salary,9000,9000
+m2024-08,out,Bills,450,450
+m2024-08,out,Eating out,1050,1050
+m2024-08,out,Groceries,1150,1150
+m2024-08,out,Public transport,100,100
+m2024-08,out,Rent,3500,3500
+m2024-08,out,Scooters,260,260
+m2024-08,out,Shopping,300,300
+m2024-08,out,Subscriptions,70,70
+m2024-08,transfer,Moved to savings,-1500,-1500
+m2024-09,in,Salary,9000,9000
+m2024-09,out,ATM cash,400,400
+m2024-09,out,Bills,150,150
+m2024-09,out,Eating out,1100,1100
+m2024-09,out,Groceries,1000,1000
+m2024-09,out,Public transport,100,100
+m2024-09,out,Rent,3500,3500
+m2024-09,out,Scooters,320,320
+m2024-09,out,Shopping,700,700
+m2024-09,out,Subscriptions,70,70
+m2024-09,transfer,Moved to savings,-1500,-1500
+m2024-10,in,From family,500,500
+m2024-10,in,Salary,9000,9000
+m2024-10,out,Bills,450,450
+m2024-10,out,Eating out,1050,1050
+m2024-10,out,Groceries,1100,1100
+m2024-10,out,Public transport,100,100
+m2024-10,out,Rent,3500,3500
+m2024-10,out,Scooters,300,300
+m2024-10,out,Shopping,700,700
+m2024-10,out,Subscriptions,70,70
+m2024-10,transfer,Moved to savings,-1500,-1500
+m2024-11,in,Salary,9000,9000
+m2024-11,out,ATM cash,500,500
+m2024-11,out,Bills,150,150
+m2024-11,out,Eating out,1200,1200
+m2024-11,out,Groceries,850,850
+m2024-11,out,Public transport,100,100
+m2024-11,out,Rent,3500,3500
+m2024-11,out,Scooters,260,260
+m2024-11,out,Shopping,700,700
+m2024-11,out,Subscriptions,70,70
+m2024-11,transfer,Moved to savings,-1500,-1500
+m2024-12,in,Bonus,2000,2000
+m2024-12,in,Salary,9000,9000
+m2024-12,out,ATM cash,200,200
+m2024-12,out,Bills,450,450
+m2024-12,out,Eating out,950,950
+m2024-12,out,Groceries,800,800
+m2024-12,out,Public transport,100,100
+m2024-12,out,Rent,3500,3500
+m2024-12,out,Scooters,240,240
+m2024-12,out,Shopping,1000,1000
+m2024-12,out,Subscriptions,70,70
+m2024-12,transfer,Moved to savings,-1500,-1500
+m2025-01,in,Salary,9500,9500
+m2025-01,out,Bills,150,150
+m2025-01,out,Eating out,950,950
+m2025-01,out,Groceries,950,950
+m2025-01,out,Public transport,100,100
+m2025-01,out,Rent,3500,3500
+m2025-01,out,Scooters,320,320
+m2025-01,out,Shopping,200,200
+m2025-01,out,Subscriptions,70,70
+m2025-01,transfer,Moved to savings,-1500,-1500
+m2025-02,in,Salary,9500,9500
+m2025-02,out,ATM cash,200,200
+m2025-02,out,Bills,450,450
+m2025-02,out,Eating out,950,950
+m2025-02,out,Groceries,950,950
+m2025-02,out,Public transport,100,100
+m2025-02,out,Rent,3500,3500
+m2025-02,out,Scooters,260,260
+m2025-02,out,Shopping,300,300
+m2025-02,out,Subscriptions,70,70
+m2025-02,transfer,Moved to savings,-1500,-1500
+m2025-03,in,From family,200,200
+m2025-03,in,Salary,9500,9500
+m2025-03,out,ATM cash,1000,1000
+m2025-03,out,Bills,150,150
+m2025-03,out,Eating out,1300,1300
+m2025-03,out,Groceries,1250,1250
+m2025-03,out,Public transport,100,100
+m2025-03,out,Rent,3500,3500
+m2025-03,out,Scooters,260,260
+m2025-03,out,Shopping,200,200
+m2025-03,out,Subscriptions,70,70
+m2025-03,transfer,Moved to savings,-1500,-1500
+m2025-04,in,Salary,9500,9500
+m2025-04,in,Tax refund,1000,1000
+m2025-04,out,ATM cash,500,500
+m2025-04,out,Bills,450,450
+m2025-04,out,Eating out,1250,1250
+m2025-04,out,Groceries,1100,1100
+m2025-04,out,Public transport,100,100
+m2025-04,out,Rent,3500,3500
+m2025-04,out,Scooters,300,300
+m2025-04,out,Shopping,500,500
+m2025-04,out,Subscriptions,70,70
+m2025-04,transfer,Moved to savings,-1500,-1500
+m2025-05,in,Salary,9500,9500
+m2025-05,out,Bills,150,150
+m2025-05,out,Eating out,1200,1200
+m2025-05,out,Groceries,1300,1300
+m2025-05,out,Public transport,100,100
+m2025-05,out,Rent,3500,3500
+m2025-05,out,Scooters,300,300
+m2025-05,out,Shopping,300,300
+m2025-05,out,Subscriptions,70,70
+m2025-05,transfer,Moved to savings,-1500,-1500
+m2025-06,in,Salary,9500,9500
+m2025-06,out,ATM cash,200,200
+m2025-06,out,Bills,450,450
+m2025-06,out,Eating out,750,750
+m2025-06,out,Groceries,850,850
+m2025-06,out,Public transport,100,100
+m2025-06,out,Rent,3500,3500
+m2025-06,out,Scooters,340,340
+m2025-06,out,Shopping,700,700
+m2025-06,out,Subscriptions,70,70
+m2025-06,transfer,Moved to savings,-1500,-1500
+m2025-07,in,Salary,9500,9500
+m2025-07,out,Bills,150,150
+m2025-07,out,Eating out,900,900
+m2025-07,out,Groceries,1150,1150
+m2025-07,out,Public transport,100,100
+m2025-07,out,Rent,3800,3800
+m2025-07,out,Scooters,320,320
+m2025-07,out,Shopping,100,100
+m2025-07,out,Subscriptions,70,70
+m2025-07,transfer,Moved to savings,-1500,-1500
+m2025-08,in,Salary,9500,9500
+m2025-08,out,ATM cash,500,500
+m2025-08,out,Bills,450,450
+m2025-08,out,Eating out,1050,1050
+m2025-08,out,Groceries,850,850
+m2025-08,out,Public transport,100,100
+m2025-08,out,Rent,3800,3800
+m2025-08,out,Scooters,320,320
+m2025-08,out,Shopping,600,600
+m2025-08,out,Subscriptions,70,70
+m2025-08,transfer,Moved to savings,-1500,-1500
+m2025-09,in,From family,500,500
+m2025-09,in,Salary,9500,9500
+m2025-09,out,ATM cash,200,200
+m2025-09,out,Bills,150,150
+m2025-09,out,Eating out,1250,1250
+m2025-09,out,Groceries,1050,1050
+m2025-09,out,Public transport,100,100
+m2025-09,out,Rent,3800,3800
+m2025-09,out,Scooters,380,380
+m2025-09,out,Shopping,500,500
+m2025-09,out,Subscriptions,70,70
+m2025-09,transfer,Moved to savings,-1500,-1500
+m2025-10,in,Salary,9500,9500
+m2025-10,out,ATM cash,500,500
+m2025-10,out,Bills,450,450
+m2025-10,out,Eating out,1100,1100
+m2025-10,out,Groceries,1000,1000
+m2025-10,out,Public transport,100,100
+m2025-10,out,Rent,3800,3800
+m2025-10,out,Scooters,380,380
+m2025-10,out,Shopping,100,100
+m2025-10,out,Subscriptions,70,70
+m2025-10,transfer,Moved to savings,-1500,-1500
+m2025-11,in,Salary,9500,9500
+m2025-11,out,ATM cash,200,200
+m2025-11,out,Bills,150,150
+m2025-11,out,Eating out,1350,1350
+m2025-11,out,Groceries,1400,1400
+m2025-11,out,Public transport,100,100
+m2025-11,out,Rent,3800,3800
+m2025-11,out,Scooters,380,380
+m2025-11,out,Shopping,300,300
+m2025-11,out,Subscriptions,70,70
+m2025-11,transfer,Moved to savings,-1500,-1500
+m2025-12,in,Bonus,2000,2000
+m2025-12,in,Salary,9500,9500
+m2025-12,out,Bills,450,450
+m2025-12,out,Eating out,1050,1050
+m2025-12,out,Groceries,1400,1400
+m2025-12,out,Public transport,100,100
+m2025-12,out,Rent,3800,3800
+m2025-12,out,Scooters,360,360
+m2025-12,out,Shopping,200,200
+m2025-12,out,Subscriptions,70,70
+m2025-12,transfer,Moved to savings,-1500,-1500
+m2026-01,in,Salary,10000,10000
+m2026-01,out,ATM cash,500,500
+m2026-01,out,Bills,150,150
+m2026-01,out,Eating out,1000,1000
+m2026-01,out,Groceries,800,800
+m2026-01,out,Public transport,100,100
+m2026-01,out,Rent,3800,3800
+m2026-01,out,Scooters,360,360
+m2026-01,out,Shopping,600,600
+m2026-01,out,Subscriptions,70,70
+m2026-01,transfer,Moved to savings,-1500,-1500
+m2026-02,in,Salary,10000,10000
+m2026-02,out,Bills,450,450
+m2026-02,out,Eating out,950,950
+m2026-02,out,Groceries,800,800
+m2026-02,out,Public transport,100,100
+m2026-02,out,Rent,3800,3800
+m2026-02,out,Scooters,380,380
+m2026-02,out,Shopping,700,700
+m2026-02,out,Subscriptions,70,70
+m2026-02,transfer,Moved to savings,-1500,-1500
+m2026-03,in,Salary,10000,10000
+m2026-03,out,ATM cash,500,500
+m2026-03,out,Bills,150,150
+m2026-03,out,Eating out,1250,1250
+m2026-03,out,Groceries,1300,1300
+m2026-03,out,Public transport,100,100
+m2026-03,out,Rent,3800,3800
+m2026-03,out,Scooters,400,400
+m2026-03,out,Shopping,500,500
+m2026-03,out,Subscriptions,70,70
+m2026-03,transfer,Moved to savings,-1500,-1500
+m2026-04,in,Salary,10000,10000
+m2026-04,in,Tax refund,1000,1000
+m2026-04,out,ATM cash,700,700
+m2026-04,out,Bills,450,450
+m2026-04,out,Eating out,1050,1050
+m2026-04,out,Groceries,1150,1150
+m2026-04,out,Public transport,100,100
+m2026-04,out,Rent,3800,3800
+m2026-04,out,Scooters,380,380
+m2026-04,out,Shopping,300,300
+m2026-04,out,Subscriptions,70,70
+m2026-04,transfer,Moved to savings,-1500,-1500
+m2026-05,in,Salary,10000,10000
+m2026-05,out,ATM cash,200,200
+m2026-05,out,Bills,150,150
+m2026-05,out,Eating out,1400,1400
+m2026-05,out,Groceries,1100,1100
+m2026-05,out,Public transport,100,100
+m2026-05,out,Rent,3800,3800
+m2026-05,out,Scooters,380,380
+m2026-05,out,Shopping,400,400
+m2026-05,out,Subscriptions,70,70
+m2026-05,transfer,Moved to savings,-1500,-1500
+m2026-06,in,Salary,10000,10000
+m2026-06,out,ATM cash,700,700
+m2026-06,out,Bills,450,450
+m2026-06,out,Eating out,1000,1000
+m2026-06,out,Groceries,1050,1050
+m2026-06,out,Public transport,100,100
+m2026-06,out,Rent,3800,3800
+m2026-06,out,Scooters,420,420
+m2026-06,out,Shopping,1300,1300
+m2026-06,out,Subscriptions,70,70
+m2026-06,transfer,Moved to savings,-1500,-1500
+m2026-07,in,From family,500,500
+m2026-07,in,Salary,10000,10000
+m2026-07,out,ATM cash,500,500
+m2026-07,out,Bills,150,150
+m2026-07,out,Eating out,1200,1200
+m2026-07,out,Groceries,1100,1100
+m2026-07,out,Public transport,100,100
+m2026-07,out,Rent,3800,3800
+m2026-07,out,Scooters,400,400
+m2026-07,out,Shopping,500,500
+m2026-07,out,Subscriptions,70,70
+m2026-07,transfer,Moved to savings,-1500,-1500
+m2026-08,in,From family,500,500
+m2026-08,in,Salary,10000,10000
+m2026-08,out,Bills,450,450
+m2026-08,out,Eating out,1150,1150
+m2026-08,out,Groceries,1000,1000
+m2026-08,out,Public transport,100,100
+m2026-08,out,Rent,3800,3800
+m2026-08,out,Scooters,420,420
+m2026-08,out,Shopping,1100,1100
+m2026-08,out,Subscriptions,70,70
+m2026-08,transfer,Moved to savings,-1500,-1500
+m2026-09,in,Salary,10000,10000
+m2026-09,out,Bills,150,150
+m2026-09,out,Eating out,1350,1350
+m2026-09,out,Groceries,950,950
+m2026-09,out,Public transport,100,100
+m2026-09,out,Rent,3800,3800
+m2026-09,out,Scooters,420,420
+m2026-09,out,Shopping,300,300
+m2026-09,out,Subscriptions,70,70
+m2026-09,transfer,Moved to savings,-1500,-1500
+m2026-10,in,Salary,10000,10000
+m2026-10,out,Eating out,400,400
+m2026-10,out,Groceries,300,300
+m2026-10,out,Public transport,100,100
+m2026-10,out,Rent,3800,3800
+m2026-10,out,Scooters,100,100
+m2026-10,out,Shopping,300,300
+m2026-10,out,Subscriptions,70,70

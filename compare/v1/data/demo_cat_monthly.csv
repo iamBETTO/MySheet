@@ -1,0 +1,433 @@
+month,category,amount
+2022-10,ATM cash,0
+2022-10,Bills,450
+2022-10,Eating out,300
+2022-10,Groceries,650
+2022-10,Public transport,100
+2022-10,Rent,3500
+2022-10,Scooters,160
+2022-10,Shopping,1000
+2022-10,Subscriptions,70
+2022-11,ATM cash,200
+2022-11,Bills,150
+2022-11,Eating out,650
+2022-11,Groceries,900
+2022-11,Public transport,100
+2022-11,Rent,3500
+2022-11,Scooters,140
+2022-11,Shopping,800
+2022-11,Subscriptions,70
+2022-12,ATM cash,500
+2022-12,Bills,450
+2022-12,Eating out,400
+2022-12,Groceries,900
+2022-12,Public transport,100
+2022-12,Rent,3500
+2022-12,Scooters,100
+2022-12,Shopping,200
+2022-12,Subscriptions,70
+2023-01,ATM cash,500
+2023-01,Bills,150
+2023-01,Eating out,550
+2023-01,Groceries,900
+2023-01,Public transport,100
+2023-01,Rent,3500
+2023-01,Scooters,140
+2023-01,Shopping,500
+2023-01,Subscriptions,70
+2023-02,ATM cash,700
+2023-02,Bills,450
+2023-02,Eating out,750
+2023-02,Groceries,1000
+2023-02,Public transport,100
+2023-02,Rent,3500
+2023-02,Scooters,180
+2023-02,Shopping,400
+2023-02,Subscriptions,70
+2023-03,ATM cash,1000
+2023-03,Bills,150
+2023-03,Eating out,450
+2023-03,Groceries,1050
+2023-03,Public transport,100
+2023-03,Rent,3500
+2023-03,Scooters,120
+2023-03,Shopping,500
+2023-03,Subscriptions,70
+2023-04,ATM cash,0
+2023-04,Bills,450
+2023-04,Eating out,750
+2023-04,Groceries,1000
+2023-04,Public transport,100
+2023-04,Rent,3500
+2023-04,Scooters,120
+2023-04,Shopping,200
+2023-04,Subscriptions,70
+2023-05,ATM cash,500
+2023-05,Bills,150
+2023-05,Eating out,600
+2023-05,Groceries,1000
+2023-05,Public transport,100
+2023-05,Rent,3500
+2023-05,Scooters,140
+2023-05,Shopping,100
+2023-05,Subscriptions,70
+2023-06,ATM cash,0
+2023-06,Bills,450
+2023-06,Eating out,450
+2023-06,Groceries,900
+2023-06,Public transport,100
+2023-06,Rent,3500
+2023-06,Scooters,200
+2023-06,Shopping,500
+2023-06,Subscriptions,70
+2023-07,ATM cash,200
+2023-07,Bills,150
+2023-07,Eating out,650
+2023-07,Groceries,1000
+2023-07,Public transport,100
+2023-07,Rent,3500
+2023-07,Scooters,220
+2023-07,Shopping,1200
+2023-07,Subscriptions,70
+2023-08,ATM cash,500
+2023-08,Bills,450
+2023-08,Eating out,950
+2023-08,Groceries,1000
+2023-08,Public transport,100
+2023-08,Rent,3500
+2023-08,Scooters,200
+2023-08,Shopping,500
+2023-08,Subscriptions,70
+2023-09,ATM cash,0
+2023-09,Bills,150
+2023-09,Eating out,750
+2023-09,Groceries,1000
+2023-09,Public transport,100
+2023-09,Rent,3500
+2023-09,Scooters,220
+2023-09,Shopping,700
+2023-09,Subscriptions,70
+2023-10,ATM cash,0
+2023-10,Bills,450
+2023-10,Eating out,700
+2023-10,Groceries,900
+2023-10,Public transport,100
+2023-10,Rent,3500
+2023-10,Scooters,180
+2023-10,Shopping,900
+2023-10,Subscriptions,70
+2023-11,ATM cash,500
+2023-11,Bills,150
+2023-11,Eating out,550
+2023-11,Groceries,850
+2023-11,Public transport,100
+2023-11,Rent,3500
+2023-11,Scooters,240
+2023-11,Shopping,1200
+2023-11,Subscriptions,70
+2023-12,ATM cash,200
+2023-12,Bills,450
+2023-12,Eating out,500
+2023-12,Groceries,850
+2023-12,Public transport,100
+2023-12,Rent,3500
+2023-12,Scooters,200
+2023-12,Shopping,700
+2023-12,Subscriptions,70
+2024-01,ATM cash,200
+2024-01,Bills,150
+2024-01,Eating out,600
+2024-01,Groceries,850
+2024-01,Public transport,100
+2024-01,Rent,3500
+2024-01,Scooters,240
+2024-01,Shopping,400
+2024-01,Subscriptions,70
+2024-02,ATM cash,0
+2024-02,Bills,450
+2024-02,Eating out,950
+2024-02,Groceries,1150
+2024-02,Public transport,100
+2024-02,Rent,3500
+2024-02,Scooters,240
+2024-02,Shopping,500
+2024-02,Subscriptions,70
+2024-03,ATM cash,400
+2024-03,Bills,150
+2024-03,Eating out,850
+2024-03,Groceries,900
+2024-03,Public transport,100
+2024-03,Rent,3500
+2024-03,Scooters,240
+2024-03,Shopping,100
+2024-03,Subscriptions,70
+2024-04,ATM cash,0
+2024-04,Bills,450
+2024-04,Eating out,800
+2024-04,Groceries,900
+2024-04,Public transport,100
+2024-04,Rent,3500
+2024-04,Scooters,220
+2024-04,Shopping,200
+2024-04,Subscriptions,70
+2024-05,ATM cash,500
+2024-05,Bills,150
+2024-05,Eating out,1000
+2024-05,Groceries,900
+2024-05,Public transport,100
+2024-05,Rent,3500
+2024-05,Scooters,200
+2024-05,Shopping,400
+2024-05,Subscriptions,70
+2024-06,ATM cash,400
+2024-06,Bills,450
+2024-06,Eating out,700
+2024-06,Groceries,1200
+2024-06,Public transport,100
+2024-06,Rent,3500
+2024-06,Scooters,300
+2024-06,Shopping,300
+2024-06,Subscriptions,70
+2024-07,ATM cash,1000
+2024-07,Bills,150
+2024-07,Eating out,1000
+2024-07,Groceries,1200
+2024-07,Public transport,100
+2024-07,Rent,3500
+2024-07,Scooters,260
+2024-07,Shopping,100
+2024-07,Subscriptions,70
+2024-08,ATM cash,0
+2024-08,Bills,450
+2024-08,Eating out,1050
+2024-08,Groceries,1150
+2024-08,Public transport,100
+2024-08,Rent,3500
+2024-08,Scooters,260
+2024-08,Shopping,300
+2024-08,Subscriptions,70
+2024-09,ATM cash,400
+2024-09,Bills,150
+2024-09,Eating out,1100
+2024-09,Groceries,1000
+2024-09,Public transport,100
+2024-09,Rent,3500
+2024-09,Scooters,320
+2024-09,Shopping,700
+2024-09,Subscriptions,70
+2024-10,ATM cash,0
+2024-10,Bills,450
+2024-10,Eating out,1050
+2024-10,Groceries,1100
+2024-10,Public transport,100
+2024-10,Rent,3500
+2024-10,Scooters,300
+2024-10,Shopping,700
+2024-10,Subscriptions,70
+2024-11,ATM cash,500
+2024-11,Bills,150
+2024-11,Eating out,1200
+2024-11,Groceries,850
+2024-11,Public transport,100
+2024-11,Rent,3500
+2024-11,Scooters,260
+2024-11,Shopping,700
+2024-11,Subscriptions,70
+2024-12,ATM cash,200
+2024-12,Bills,450
+2024-12,Eating out,950
+2024-12,Groceries,800
+2024-12,Public transport,100
+2024-12,Rent,3500
+2024-12,Scooters,240
+2024-12,Shopping,1000
+2024-12,Subscriptions,70
+2025-01,ATM cash,0
+2025-01,Bills,150
+2025-01,Eating out,950
+2025-01,Groceries,950
+2025-01,Public transport,100
+2025-01,Rent,3500
+2025-01,Scooters,320
+2025-01,Shopping,200
+2025-01,Subscriptions,70
+2025-02,ATM cash,200
+2025-02,Bills,450
+2025-02,Eating out,950
+2025-02,Groceries,950
+2025-02,Public transport,100
+2025-02,Rent,3500
+2025-02,Scooters,260
+2025-02,Shopping,300
+2025-02,Subscriptions,70
+2025-03,ATM cash,1000
+2025-03,Bills,150
+2025-03,Eating out,1300
+2025-03,Groceries,1250
+2025-03,Public transport,100
+2025-03,Rent,3500
+2025-03,Scooters,260
+2025-03,Shopping,200
+2025-03,Subscriptions,70
+2025-04,ATM cash,500
+2025-04,Bills,450
+2025-04,Eating out,1250
+2025-04,Groceries,1100
+2025-04,Public transport,100
+2025-04,Rent,3500
+2025-04,Scooters,300
+2025-04,Shopping,500
+2025-04,Subscriptions,70
+2025-05,ATM cash,0
+2025-05,Bills,150
+2025-05,Eating out,1200
+2025-05,Groceries,1300
+2025-05,Public transport,100
+2025-05,Rent,3500
+2025-05,Scooters,300
+2025-05,Shopping,300
+2025-05,Subscriptions,70
+2025-06,ATM cash,200
+2025-06,Bills,450
+2025-06,Eating out,750
+2025-06,Groceries,850
+2025-06,Public transport,100
+2025-06,Rent,3500
+2025-06,Scooters,340
+2025-06,Shopping,700
+2025-06,Subscriptions,70
+2025-07,ATM cash,0
+2025-07,Bills,150
+2025-07,Eating out,900
+2025-07,Groceries,1150
+2025-07,Public transport,100
+2025-07,Rent,3800
+2025-07,Scooters,320
+2025-07,Shopping,100
+2025-07,Subscriptions,70
+2025-08,ATM cash,500
+2025-08,Bills,450
+2025-08,Eating out,1050
+2025-08,Groceries,850
+2025-08,Public transport,100
+2025-08,Rent,3800
+2025-08,Scooters,320
+2025-08,Shopping,600
+2025-08,Subscriptions,70
+2025-09,ATM cash,200
+2025-09,Bills,150
+2025-09,Eating out,1250
+2025-09,Groceries,1050
+2025-09,Public transport,100
+2025-09,Rent,3800
+2025-09,Scooters,380
+2025-09,Shopping,500
+2025-09,Subscriptions,70
+2025-10,ATM cash,500
+2025-10,Bills,450
+2025-10,Eating out,1100
+2025-10,Groceries,1000
+2025-10,Public transport,100
+2025-10,Rent,3800
+2025-10,Scooters,380
+2025-10,Shopping,100
+2025-10,Subscriptions,70
+2025-11,ATM cash,200
+2025-11,Bills,150
+2025-11,Eating out,1350
+2025-11,Groceries,1400
+2025-11,Public transport,100
+2025-11,Rent,3800
+2025-11,Scooters,380
+2025-11,Shopping,300
+2025-11,Subscriptions,70
+2025-12,ATM cash,0
+2025-12,Bills,450
+2025-12,Eating out,1050
+2025-12,Groceries,1400
+2025-12,Public transport,100
+2025-12,Rent,3800
+2025-12,Scooters,360
+2025-12,Shopping,200
+2025-12,Subscriptions,70
+2026-01,ATM cash,500
+2026-01,Bills,150
+2026-01,Eating out,1000
+2026-01,Groceries,800
+2026-01,Public transport,100
+2026-01,Rent,3800
+2026-01,Scooters,360
+2026-01,Shopping,600
+2026-01,Subscriptions,70
+2026-02,ATM cash,0
+2026-02,Bills,450
+2026-02,Eating out,950
+2026-02,Groceries,800
+2026-02,Public transport,100
+2026-02,Rent,3800
+2026-02,Scooters,380
+2026-02,Shopping,700
+2026-02,Subscriptions,70
+2026-03,ATM cash,500
+2026-03,Bills,150
+2026-03,Eating out,1250
+2026-03,Groceries,1300
+2026-03,Public transport,100
+2026-03,Rent,3800
+2026-03,Scooters,400
+2026-03,Shopping,500
+2026-03,Subscriptions,70
+2026-04,ATM cash,700
+2026-04,Bills,450
+2026-04,Eating out,1050
+2026-04,Groceries,1150
+2026-04,Public transport,100
+2026-04,Rent,3800
+2026-04,Scooters,380
+2026-04,Shopping,300
+2026-04,Subscriptions,70
+2026-05,ATM cash,200
+2026-05,Bills,150
+2026-05,Eating out,1400
+2026-05,Groceries,1100
+2026-05,Public transport,100
+2026-05,Rent,3800
+2026-05,Scooters,380
+2026-05,Shopping,400
+2026-05,Subscriptions,70
+2026-06,ATM cash,700
+2026-06,Bills,450
+2026-06,Eating out,1000
+2026-06,Groceries,1050
+2026-06,Public transport,100
+2026-06,Rent,3800
+2026-06,Scooters,420
+2026-06,Shopping,1300
+2026-06,Subscriptions,70
+2026-07,ATM cash,500
+2026-07,Bills,150
+2026-07,Eating out,1200
+2026-07,Groceries,1100
+2026-07,Public transport,100
+2026-07,Rent,3800
+2026-07,Scooters,400
+2026-07,Shopping,500
+2026-07,Subscriptions,70
+2026-08,ATM cash,0
+2026-08,Bills,450
+2026-08,Eating out,1150
+2026-08,Groceries,1000
+2026-08,Public transport,100
+2026-08,Rent,3800
+2026-08,Scooters,420
+2026-08,Shopping,1100
+2026-08,Subscriptions,70
+2026-09,ATM cash,0
+2026-09,Bills,150
+2026-09,Eating out,1350
+2026-09,Groceries,950
+2026-09,Public transport,100
+2026-09,Rent,3800
+2026-09,Scooters,420
+2026-09,Shopping,300
+2026-09,Subscriptions,70

@@ -1,0 +1,2010 @@
+id,date,month,desc,category,direction,paid_with,amount
+d2009,2026-10-08,2026-10,Online store,Shopping,out,Card,-300
+d2008,2026-10-08,2026-10,Scooter rides,Scooters,out,Card,-20
+d2007,2026-10-06,2026-10,Scooter rides,Scooters,out,Card,-20
+d2006,2026-10-06,2026-10,Scooter rides,Scooters,out,Card,-20
+d2005,2026-10-05,2026-10,Rent · Landlord,Rent,out,Bank,-3800
+d2004,2026-10-05,2026-10,Burger Joint,Eating out,out,Card,-100
+d2003,2026-10-04,2026-10,Neighborhood Grocer,Groceries,out,Card,-200
+d2002,2026-10-04,2026-10,Fresh Market,Groceries,out,Card,-100
+d2001,2026-10-04,2026-10,Sushi Bar,Eating out,out,Card,-50
+d2000,2026-10-03,2026-10,Video streaming,Subscriptions,out,Card,-50
+d1999,2026-10-03,2026-10,Music app,Subscriptions,out,Card,-20
+d1998,2026-10-02,2026-10,Scooter rides,Scooters,out,Card,-20
+d1997,2026-10-02,2026-10,Scooter rides,Scooters,out,Card,-20
+d1996,2026-10-01,2026-10,Corner Café,Eating out,out,Card,-100
+d1995,2026-10-01,2026-10,Salary · Example Ltd,Salary,in,Bank,10000
+d1994,2026-10-01,2026-10,Burger Joint,Eating out,out,Card,-150
+d1993,2026-10-01,2026-10,Bus pass top-up,Public transport,out,Card,-100
+d1992,2026-09-29,2026-09,Falafel Stand,Eating out,out,Card,-150
+d1991,2026-09-28,2026-09,Neighborhood Grocer,Groceries,out,Card,-200
+d1990,2026-09-27,2026-09,Burger Joint,Eating out,out,Card,-100
+d1989,2026-09-27,2026-09,Scooter rides,Scooters,out,Card,-20
+d1988,2026-09-27,2026-09,Scooter rides,Scooters,out,Card,-20
+d1987,2026-09-26,2026-09,Scooter rides,Scooters,out,Card,-20
+d1986,2026-09-25,2026-09,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1985,2026-09-25,2026-09,Scooter rides,Scooters,out,Card,-20
+d1984,2026-09-24,2026-09,Sushi Bar,Eating out,out,Card,-100
+d1983,2026-09-24,2026-09,Scooter rides,Scooters,out,Card,-20
+d1982,2026-09-22,2026-09,City Market,Groceries,out,Card,-150
+d1981,2026-09-22,2026-09,Burger Joint,Eating out,out,Card,-50
+d1980,2026-09-21,2026-09,Scooter rides,Scooters,out,Card,-20
+d1979,2026-09-20,2026-09,Pizza Place,Eating out,out,Card,-50
+d1978,2026-09-19,2026-09,Sushi Bar,Eating out,out,Card,-100
+d1977,2026-09-18,2026-09,Neighborhood Grocer,Groceries,out,Card,-200
+d1976,2026-09-18,2026-09,Scooter rides,Scooters,out,Card,-20
+d1975,2026-09-18,2026-09,Scooter rides,Scooters,out,Card,-20
+d1974,2026-09-18,2026-09,Scooter rides,Scooters,out,Card,-20
+d1973,2026-09-17,2026-09,Scooter rides,Scooters,out,Card,-20
+d1972,2026-09-16,2026-09,Scooter rides,Scooters,out,Card,-20
+d1971,2026-09-15,2026-09,Scooter rides,Scooters,out,Card,-20
+d1970,2026-09-15,2026-09,Scooter rides,Scooters,out,Card,-20
+d1969,2026-09-14,2026-09,Neighborhood Grocer,Groceries,out,Card,-150
+d1968,2026-09-14,2026-09,Scooter rides,Scooters,out,Card,-20
+d1967,2026-09-13,2026-09,Scooter rides,Scooters,out,Card,-20
+d1966,2026-09-13,2026-09,Online store,Shopping,out,Card,-300
+d1965,2026-09-12,2026-09,Scooter rides,Scooters,out,Card,-20
+d1964,2026-09-10,2026-09,Corner Café,Eating out,out,Card,-100
+d1963,2026-09-10,2026-09,Internet · Home Net,Bills,out,Bank,-100
+d1962,2026-09-10,2026-09,Phone · Mobile Co.,Bills,out,Bank,-50
+d1961,2026-09-09,2026-09,Pizza Place,Eating out,out,Card,-50
+d1960,2026-09-08,2026-09,Pizza Place,Eating out,out,Card,-150
+d1959,2026-09-08,2026-09,Scooter rides,Scooters,out,Card,-20
+d1958,2026-09-07,2026-09,Burger Joint,Eating out,out,Card,-150
+d1957,2026-09-07,2026-09,Scooter rides,Scooters,out,Card,-20
+d1956,2026-09-05,2026-09,Rent · Landlord,Rent,out,Bank,-3800
+d1955,2026-09-05,2026-09,Sushi Bar,Eating out,out,Card,-150
+d1954,2026-09-05,2026-09,City Market,Groceries,out,Card,-150
+d1953,2026-09-04,2026-09,Falafel Stand,Eating out,out,Card,-50
+d1952,2026-09-03,2026-09,Video streaming,Subscriptions,out,Card,-50
+d1951,2026-09-03,2026-09,Scooter rides,Scooters,out,Card,-20
+d1950,2026-09-03,2026-09,Music app,Subscriptions,out,Card,-20
+d1949,2026-09-03,2026-09,Neighborhood Grocer,Groceries,out,Card,-100
+d1948,2026-09-03,2026-09,Burger Joint,Eating out,out,Card,-150
+d1947,2026-09-01,2026-09,Bus pass top-up,Public transport,out,Card,-100
+d1946,2026-09-01,2026-09,Scooter rides,Scooters,out,Card,-20
+d1945,2026-09-01,2026-09,Scooter rides,Scooters,out,Card,-20
+d1944,2026-09-01,2026-09,Salary · Example Ltd,Salary,in,Bank,10000
+d1943,2026-08-31,2026-08,Falafel Stand,Eating out,out,Card,-150
+d1942,2026-08-31,2026-08,Scooter rides,Scooters,out,Card,-20
+d1941,2026-08-30,2026-08,Scooter rides,Scooters,out,Card,-20
+d1940,2026-08-29,2026-08,Falafel Stand,Eating out,out,Card,-100
+d1939,2026-08-28,2026-08,Scooter rides,Scooters,out,Card,-20
+d1938,2026-08-27,2026-08,Corner Café,Eating out,out,Card,-150
+d1937,2026-08-26,2026-08,Clothing shop,Shopping,out,Card,-300
+d1936,2026-08-25,2026-08,Scooter rides,Scooters,out,Card,-20
+d1935,2026-08-25,2026-08,Scooter rides,Scooters,out,Card,-20
+d1934,2026-08-25,2026-08,City Market,Groceries,out,Card,-150
+d1933,2026-08-25,2026-08,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1932,2026-08-23,2026-08,Scooter rides,Scooters,out,Card,-20
+d1931,2026-08-22,2026-08,Falafel Stand,Eating out,out,Card,-50
+d1930,2026-08-22,2026-08,Scooter rides,Scooters,out,Card,-20
+d1929,2026-08-21,2026-08,Fresh Market,Groceries,out,Card,-200
+d1928,2026-08-21,2026-08,Corner Café,Eating out,out,Card,-150
+d1927,2026-08-21,2026-08,Sushi Bar,Eating out,out,Card,-100
+d1926,2026-08-21,2026-08,Scooter rides,Scooters,out,Card,-20
+d1925,2026-08-20,2026-08,Scooter rides,Scooters,out,Card,-20
+d1924,2026-08-20,2026-08,Scooter rides,Scooters,out,Card,-20
+d1923,2026-08-19,2026-08,Falafel Stand,Eating out,out,Card,-100
+d1922,2026-08-18,2026-08,Scooter rides,Scooters,out,Card,-20
+d1921,2026-08-17,2026-08,Scooter rides,Scooters,out,Card,-20
+d1920,2026-08-17,2026-08,City Market,Groceries,out,Card,-150
+d1919,2026-08-17,2026-08,Corner Café,Eating out,out,Card,-50
+d1918,2026-08-15,2026-08,Scooter rides,Scooters,out,Card,-20
+d1917,2026-08-14,2026-08,Burger Joint,Eating out,out,Card,-100
+d1916,2026-08-13,2026-08,Clothing shop,Shopping,out,Card,-500
+d1915,2026-08-13,2026-08,Electronics shop,Shopping,out,Card,-300
+d1914,2026-08-13,2026-08,Scooter rides,Scooters,out,Card,-20
+d1913,2026-08-13,2026-08,Scooter rides,Scooters,out,Card,-20
+d1912,2026-08-12,2026-08,Electricity · Power Co.,Bills,out,Bank,-300
+d1911,2026-08-12,2026-08,Pizza Place,Eating out,out,Card,-50
+d1910,2026-08-12,2026-08,Scooter rides,Scooters,out,Card,-20
+d1909,2026-08-12,2026-08,Gift from family,From family,in,Bank,500
+d1908,2026-08-10,2026-08,Internet · Home Net,Bills,out,Bank,-100
+d1907,2026-08-10,2026-08,Burger Joint,Eating out,out,Card,-50
+d1906,2026-08-10,2026-08,Phone · Mobile Co.,Bills,out,Bank,-50
+d1905,2026-08-10,2026-08,Scooter rides,Scooters,out,Card,-20
+d1904,2026-08-09,2026-08,Scooter rides,Scooters,out,Card,-20
+d1903,2026-08-08,2026-08,Scooter rides,Scooters,out,Card,-20
+d1902,2026-08-07,2026-08,Neighborhood Grocer,Groceries,out,Card,-200
+d1901,2026-08-06,2026-08,Neighborhood Grocer,Groceries,out,Card,-200
+d1900,2026-08-06,2026-08,Burger Joint,Eating out,out,Card,-100
+d1899,2026-08-05,2026-08,Rent · Landlord,Rent,out,Bank,-3800
+d1898,2026-08-05,2026-08,Scooter rides,Scooters,out,Card,-20
+d1897,2026-08-04,2026-08,Scooter rides,Scooters,out,Card,-20
+d1896,2026-08-03,2026-08,Video streaming,Subscriptions,out,Card,-50
+d1895,2026-08-03,2026-08,Music app,Subscriptions,out,Card,-20
+d1894,2026-08-01,2026-08,Bus pass top-up,Public transport,out,Card,-100
+d1893,2026-08-01,2026-08,Fresh Market,Groceries,out,Card,-100
+d1892,2026-08-01,2026-08,Salary · Example Ltd,Salary,in,Bank,10000
+d1891,2026-07-31,2026-07,Corner Café,Eating out,out,Card,-50
+d1890,2026-07-31,2026-07,Scooter rides,Scooters,out,Card,-20
+d1889,2026-07-30,2026-07,Neighborhood Grocer,Groceries,out,Card,-200
+d1888,2026-07-30,2026-07,Scooter rides,Scooters,out,Card,-20
+d1887,2026-07-29,2026-07,Fresh Market,Groceries,out,Card,-200
+d1886,2026-07-29,2026-07,Sushi Bar,Eating out,out,Card,-100
+d1885,2026-07-28,2026-07,Scooter rides,Scooters,out,Card,-20
+d1884,2026-07-28,2026-07,Scooter rides,Scooters,out,Card,-20
+d1883,2026-07-27,2026-07,Sushi Bar,Eating out,out,Card,-100
+d1882,2026-07-27,2026-07,Scooter rides,Scooters,out,Card,-20
+d1881,2026-07-27,2026-07,Gift from family,From family,in,Bank,500
+d1880,2026-07-26,2026-07,Fresh Market,Groceries,out,Card,-200
+d1879,2026-07-25,2026-07,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1878,2026-07-25,2026-07,ATM withdrawal,ATM cash,out,Bank,-500
+d1877,2026-07-23,2026-07,Scooter rides,Scooters,out,Card,-20
+d1876,2026-07-22,2026-07,Scooter rides,Scooters,out,Card,-20
+d1875,2026-07-22,2026-07,Scooter rides,Scooters,out,Card,-20
+d1874,2026-07-21,2026-07,Falafel Stand,Eating out,out,Card,-150
+d1873,2026-07-20,2026-07,Corner Café,Eating out,out,Card,-50
+d1872,2026-07-20,2026-07,Corner Café,Eating out,out,Card,-100
+d1871,2026-07-20,2026-07,Sushi Bar,Eating out,out,Card,-100
+d1870,2026-07-19,2026-07,Scooter rides,Scooters,out,Card,-20
+d1869,2026-07-18,2026-07,Pizza Place,Eating out,out,Card,-50
+d1868,2026-07-18,2026-07,Clothing shop,Shopping,out,Card,-500
+d1867,2026-07-17,2026-07,Scooter rides,Scooters,out,Card,-20
+d1866,2026-07-16,2026-07,Scooter rides,Scooters,out,Card,-20
+d1865,2026-07-15,2026-07,Pizza Place,Eating out,out,Card,-100
+d1864,2026-07-15,2026-07,Neighborhood Grocer,Groceries,out,Card,-100
+d1863,2026-07-14,2026-07,Burger Joint,Eating out,out,Card,-100
+d1862,2026-07-12,2026-07,Sushi Bar,Eating out,out,Card,-100
+d1861,2026-07-12,2026-07,Scooter rides,Scooters,out,Card,-20
+d1860,2026-07-12,2026-07,Scooter rides,Scooters,out,Card,-20
+d1859,2026-07-12,2026-07,Scooter rides,Scooters,out,Card,-20
+d1858,2026-07-11,2026-07,Corner Café,Eating out,out,Card,-100
+d1857,2026-07-10,2026-07,Phone · Mobile Co.,Bills,out,Bank,-50
+d1856,2026-07-10,2026-07,Scooter rides,Scooters,out,Card,-20
+d1855,2026-07-10,2026-07,Internet · Home Net,Bills,out,Bank,-100
+d1854,2026-07-09,2026-07,Scooter rides,Scooters,out,Card,-20
+d1853,2026-07-09,2026-07,Scooter rides,Scooters,out,Card,-20
+d1852,2026-07-08,2026-07,City Market,Groceries,out,Card,-200
+d1851,2026-07-07,2026-07,Scooter rides,Scooters,out,Card,-20
+d1850,2026-07-05,2026-07,Rent · Landlord,Rent,out,Bank,-3800
+d1849,2026-07-05,2026-07,Scooter rides,Scooters,out,Card,-20
+d1848,2026-07-03,2026-07,Video streaming,Subscriptions,out,Card,-50
+d1847,2026-07-03,2026-07,Scooter rides,Scooters,out,Card,-20
+d1846,2026-07-03,2026-07,Music app,Subscriptions,out,Card,-20
+d1845,2026-07-02,2026-07,Fresh Market,Groceries,out,Card,-200
+d1844,2026-07-01,2026-07,Bus pass top-up,Public transport,out,Card,-100
+d1843,2026-07-01,2026-07,Falafel Stand,Eating out,out,Card,-100
+d1842,2026-07-01,2026-07,Salary · Example Ltd,Salary,in,Bank,10000
+d1841,2026-06-30,2026-06,Pizza Place,Eating out,out,Card,-150
+d1840,2026-06-29,2026-06,Online store,Shopping,out,Card,-500
+d1839,2026-06-28,2026-06,Fresh Market,Groceries,out,Card,-150
+d1838,2026-06-28,2026-06,Scooter rides,Scooters,out,Card,-20
+d1837,2026-06-28,2026-06,Burger Joint,Eating out,out,Card,-150
+d1836,2026-06-27,2026-06,ATM withdrawal,ATM cash,out,Bank,-200
+d1835,2026-06-27,2026-06,Falafel Stand,Eating out,out,Card,-50
+d1834,2026-06-27,2026-06,Scooter rides,Scooters,out,Card,-20
+d1833,2026-06-26,2026-06,Burger Joint,Eating out,out,Card,-50
+d1832,2026-06-26,2026-06,Scooter rides,Scooters,out,Card,-20
+d1831,2026-06-26,2026-06,Scooter rides,Scooters,out,Card,-20
+d1830,2026-06-26,2026-06,Scooter rides,Scooters,out,Card,-20
+d1829,2026-06-25,2026-06,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1828,2026-06-25,2026-06,Pizza Place,Eating out,out,Card,-50
+d1827,2026-06-25,2026-06,Scooter rides,Scooters,out,Card,-20
+d1826,2026-06-24,2026-06,City Market,Groceries,out,Card,-150
+d1825,2026-06-24,2026-06,Scooter rides,Scooters,out,Card,-20
+d1824,2026-06-23,2026-06,Pizza Place,Eating out,out,Card,-50
+d1823,2026-06-22,2026-06,Scooter rides,Scooters,out,Card,-20
+d1822,2026-06-22,2026-06,Scooter rides,Scooters,out,Card,-20
+d1821,2026-06-22,2026-06,Electronics shop,Shopping,out,Card,-500
+d1820,2026-06-21,2026-06,Scooter rides,Scooters,out,Card,-20
+d1819,2026-06-19,2026-06,Burger Joint,Eating out,out,Card,-50
+d1818,2026-06-19,2026-06,Scooter rides,Scooters,out,Card,-20
+d1817,2026-06-18,2026-06,Neighborhood Grocer,Groceries,out,Card,-100
+d1816,2026-06-18,2026-06,Pizza Place,Eating out,out,Card,-50
+d1815,2026-06-17,2026-06,Falafel Stand,Eating out,out,Card,-100
+d1814,2026-06-16,2026-06,Scooter rides,Scooters,out,Card,-20
+d1813,2026-06-15,2026-06,Pizza Place,Eating out,out,Card,-50
+d1812,2026-06-13,2026-06,Scooter rides,Scooters,out,Card,-20
+d1811,2026-06-12,2026-06,Electricity · Power Co.,Bills,out,Bank,-300
+d1810,2026-06-11,2026-06,City Market,Groceries,out,Card,-200
+d1809,2026-06-10,2026-06,Phone · Mobile Co.,Bills,out,Bank,-50
+d1808,2026-06-10,2026-06,Internet · Home Net,Bills,out,Bank,-100
+d1807,2026-06-08,2026-06,Corner Café,Eating out,out,Card,-50
+d1806,2026-06-08,2026-06,Scooter rides,Scooters,out,Card,-20
+d1805,2026-06-07,2026-06,Falafel Stand,Eating out,out,Card,-100
+d1804,2026-06-07,2026-06,Scooter rides,Scooters,out,Card,-20
+d1803,2026-06-06,2026-06,ATM withdrawal,ATM cash,out,Bank,-500
+d1802,2026-06-06,2026-06,Neighborhood Grocer,Groceries,out,Card,-100
+d1801,2026-06-05,2026-06,Rent · Landlord,Rent,out,Bank,-3800
+d1800,2026-06-05,2026-06,Clothing shop,Shopping,out,Card,-300
+d1799,2026-06-05,2026-06,Fresh Market,Groceries,out,Card,-150
+d1798,2026-06-05,2026-06,Fresh Market,Groceries,out,Card,-100
+d1797,2026-06-04,2026-06,City Market,Groceries,out,Card,-100
+d1796,2026-06-04,2026-06,Corner Café,Eating out,out,Card,-100
+d1795,2026-06-03,2026-06,Scooter rides,Scooters,out,Card,-20
+d1794,2026-06-03,2026-06,Music app,Subscriptions,out,Card,-20
+d1793,2026-06-03,2026-06,Scooter rides,Scooters,out,Card,-20
+d1792,2026-06-03,2026-06,Scooter rides,Scooters,out,Card,-20
+d1791,2026-06-03,2026-06,Video streaming,Subscriptions,out,Card,-50
+d1790,2026-06-02,2026-06,Scooter rides,Scooters,out,Card,-20
+d1789,2026-06-01,2026-06,Bus pass top-up,Public transport,out,Card,-100
+d1788,2026-06-01,2026-06,Scooter rides,Scooters,out,Card,-20
+d1787,2026-06-01,2026-06,Scooter rides,Scooters,out,Card,-20
+d1786,2026-06-01,2026-06,Salary · Example Ltd,Salary,in,Bank,10000
+d1785,2026-05-31,2026-05,City Market,Groceries,out,Card,-150
+d1784,2026-05-31,2026-05,Pizza Place,Eating out,out,Card,-100
+d1783,2026-05-30,2026-05,Falafel Stand,Eating out,out,Card,-100
+d1782,2026-05-28,2026-05,Corner Café,Eating out,out,Card,-150
+d1781,2026-05-28,2026-05,Scooter rides,Scooters,out,Card,-20
+d1780,2026-05-27,2026-05,City Market,Groceries,out,Card,-100
+d1779,2026-05-27,2026-05,Sushi Bar,Eating out,out,Card,-100
+d1778,2026-05-26,2026-05,City Market,Groceries,out,Card,-200
+d1777,2026-05-26,2026-05,Falafel Stand,Eating out,out,Card,-150
+d1776,2026-05-25,2026-05,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1775,2026-05-25,2026-05,Pizza Place,Eating out,out,Card,-150
+d1774,2026-05-25,2026-05,Neighborhood Grocer,Groceries,out,Card,-100
+d1773,2026-05-24,2026-05,Scooter rides,Scooters,out,Card,-20
+d1772,2026-05-24,2026-05,Scooter rides,Scooters,out,Card,-20
+d1771,2026-05-24,2026-05,Scooter rides,Scooters,out,Card,-20
+d1770,2026-05-22,2026-05,Neighborhood Grocer,Groceries,out,Card,-150
+d1769,2026-05-22,2026-05,Sushi Bar,Eating out,out,Card,-50
+d1768,2026-05-22,2026-05,Scooter rides,Scooters,out,Card,-20
+d1767,2026-05-22,2026-05,Scooter rides,Scooters,out,Card,-20
+d1766,2026-05-21,2026-05,Burger Joint,Eating out,out,Card,-150
+d1765,2026-05-19,2026-05,ATM withdrawal,ATM cash,out,Bank,-200
+d1764,2026-05-18,2026-05,Pizza Place,Eating out,out,Card,-100
+d1763,2026-05-18,2026-05,Pizza Place,Eating out,out,Card,-50
+d1762,2026-05-17,2026-05,City Market,Groceries,out,Card,-150
+d1761,2026-05-15,2026-05,Scooter rides,Scooters,out,Card,-20
+d1760,2026-05-15,2026-05,Online store,Shopping,out,Card,-100
+d1759,2026-05-14,2026-05,Electronics shop,Shopping,out,Card,-200
+d1758,2026-05-12,2026-05,Scooter rides,Scooters,out,Card,-20
+d1757,2026-05-11,2026-05,Scooter rides,Scooters,out,Card,-20
+d1756,2026-05-11,2026-05,Scooter rides,Scooters,out,Card,-20
+d1755,2026-05-10,2026-05,Internet · Home Net,Bills,out,Bank,-100
+d1754,2026-05-10,2026-05,Phone · Mobile Co.,Bills,out,Bank,-50
+d1753,2026-05-10,2026-05,Scooter rides,Scooters,out,Card,-20
+d1752,2026-05-09,2026-05,Scooter rides,Scooters,out,Card,-20
+d1751,2026-05-08,2026-05,Neighborhood Grocer,Groceries,out,Card,-150
+d1750,2026-05-07,2026-05,Scooter rides,Scooters,out,Card,-20
+d1749,2026-05-07,2026-05,Scooter rides,Scooters,out,Card,-20
+d1748,2026-05-06,2026-05,Scooter rides,Scooters,out,Card,-20
+d1747,2026-05-05,2026-05,Rent · Landlord,Rent,out,Bank,-3800
+d1746,2026-05-05,2026-05,Falafel Stand,Eating out,out,Card,-50
+d1745,2026-05-05,2026-05,Corner Café,Eating out,out,Card,-50
+d1744,2026-05-04,2026-05,Scooter rides,Scooters,out,Card,-20
+d1743,2026-05-04,2026-05,City Market,Groceries,out,Card,-100
+d1742,2026-05-03,2026-05,Pizza Place,Eating out,out,Card,-100
+d1741,2026-05-03,2026-05,Video streaming,Subscriptions,out,Card,-50
+d1740,2026-05-03,2026-05,Music app,Subscriptions,out,Card,-20
+d1739,2026-05-02,2026-05,Electronics shop,Shopping,out,Card,-100
+d1738,2026-05-02,2026-05,Falafel Stand,Eating out,out,Card,-100
+d1737,2026-05-02,2026-05,Scooter rides,Scooters,out,Card,-20
+d1736,2026-05-02,2026-05,Scooter rides,Scooters,out,Card,-20
+d1735,2026-05-01,2026-05,Bus pass top-up,Public transport,out,Card,-100
+d1734,2026-05-01,2026-05,Scooter rides,Scooters,out,Card,-20
+d1733,2026-05-01,2026-05,Salary · Example Ltd,Salary,in,Bank,10000
+d1732,2026-04-30,2026-04,ATM withdrawal,ATM cash,out,Bank,-500
+d1731,2026-04-30,2026-04,Fresh Market,Groceries,out,Card,-200
+d1730,2026-04-30,2026-04,Falafel Stand,Eating out,out,Card,-150
+d1729,2026-04-28,2026-04,Scooter rides,Scooters,out,Card,-20
+d1728,2026-04-28,2026-04,Scooter rides,Scooters,out,Card,-20
+d1727,2026-04-28,2026-04,Corner Café,Eating out,out,Card,-150
+d1726,2026-04-27,2026-04,Pizza Place,Eating out,out,Card,-150
+d1725,2026-04-27,2026-04,Fresh Market,Groceries,out,Card,-150
+d1724,2026-04-27,2026-04,Corner Café,Eating out,out,Card,-50
+d1723,2026-04-26,2026-04,Scooter rides,Scooters,out,Card,-20
+d1722,2026-04-25,2026-04,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1721,2026-04-25,2026-04,City Market,Groceries,out,Card,-100
+d1720,2026-04-22,2026-04,City Market,Groceries,out,Card,-200
+d1719,2026-04-22,2026-04,Scooter rides,Scooters,out,Card,-20
+d1718,2026-04-19,2026-04,Neighborhood Grocer,Groceries,out,Card,-150
+d1717,2026-04-19,2026-04,Sushi Bar,Eating out,out,Card,-50
+d1716,2026-04-19,2026-04,Scooter rides,Scooters,out,Card,-20
+d1715,2026-04-18,2026-04,Scooter rides,Scooters,out,Card,-20
+d1714,2026-04-18,2026-04,Sushi Bar,Eating out,out,Card,-150
+d1713,2026-04-17,2026-04,Scooter rides,Scooters,out,Card,-20
+d1712,2026-04-17,2026-04,Scooter rides,Scooters,out,Card,-20
+d1711,2026-04-16,2026-04,ATM withdrawal,ATM cash,out,Bank,-200
+d1710,2026-04-16,2026-04,City Market,Groceries,out,Card,-100
+d1709,2026-04-16,2026-04,Corner Café,Eating out,out,Card,-50
+d1708,2026-04-15,2026-04,Fresh Market,Groceries,out,Card,-150
+d1707,2026-04-15,2026-04,Scooter rides,Scooters,out,Card,-20
+d1706,2026-04-15,2026-04,Tax refund,Tax refund,in,Bank,1000
+d1705,2026-04-13,2026-04,Burger Joint,Eating out,out,Card,-50
+d1704,2026-04-12,2026-04,Electricity · Power Co.,Bills,out,Bank,-300
+d1703,2026-04-12,2026-04,Scooter rides,Scooters,out,Card,-20
+d1702,2026-04-11,2026-04,Sushi Bar,Eating out,out,Card,-100
+d1701,2026-04-11,2026-04,Sushi Bar,Eating out,out,Card,-50
+d1700,2026-04-11,2026-04,Scooter rides,Scooters,out,Card,-20
+d1699,2026-04-10,2026-04,Scooter rides,Scooters,out,Card,-20
+d1698,2026-04-10,2026-04,Scooter rides,Scooters,out,Card,-20
+d1697,2026-04-10,2026-04,Phone · Mobile Co.,Bills,out,Bank,-50
+d1696,2026-04-10,2026-04,Internet · Home Net,Bills,out,Bank,-100
+d1695,2026-04-09,2026-04,Scooter rides,Scooters,out,Card,-20
+d1694,2026-04-09,2026-04,Scooter rides,Scooters,out,Card,-20
+d1693,2026-04-07,2026-04,Online store,Shopping,out,Card,-100
+d1692,2026-04-07,2026-04,Scooter rides,Scooters,out,Card,-20
+d1691,2026-04-07,2026-04,Scooter rides,Scooters,out,Card,-20
+d1690,2026-04-06,2026-04,Clothing shop,Shopping,out,Card,-100
+d1689,2026-04-05,2026-04,Rent · Landlord,Rent,out,Bank,-3800
+d1688,2026-04-05,2026-04,Neighborhood Grocer,Groceries,out,Card,-100
+d1687,2026-04-05,2026-04,Sushi Bar,Eating out,out,Card,-50
+d1686,2026-04-04,2026-04,Corner Café,Eating out,out,Card,-50
+d1685,2026-04-03,2026-04,Music app,Subscriptions,out,Card,-20
+d1684,2026-04-03,2026-04,Scooter rides,Scooters,out,Card,-20
+d1683,2026-04-03,2026-04,Video streaming,Subscriptions,out,Card,-50
+d1682,2026-04-02,2026-04,Online store,Shopping,out,Card,-100
+d1681,2026-04-01,2026-04,Bus pass top-up,Public transport,out,Card,-100
+d1680,2026-04-01,2026-04,Scooter rides,Scooters,out,Card,-20
+d1679,2026-04-01,2026-04,Salary · Example Ltd,Salary,in,Bank,10000
+d1678,2026-03-31,2026-03,Scooter rides,Scooters,out,Card,-20
+d1677,2026-03-30,2026-03,Fresh Market,Groceries,out,Card,-200
+d1676,2026-03-30,2026-03,Scooter rides,Scooters,out,Card,-20
+d1675,2026-03-30,2026-03,Scooter rides,Scooters,out,Card,-20
+d1674,2026-03-27,2026-03,Sushi Bar,Eating out,out,Card,-50
+d1673,2026-03-27,2026-03,Scooter rides,Scooters,out,Card,-20
+d1672,2026-03-25,2026-03,Fresh Market,Groceries,out,Card,-150
+d1671,2026-03-25,2026-03,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1670,2026-03-24,2026-03,Scooter rides,Scooters,out,Card,-20
+d1669,2026-03-23,2026-03,Scooter rides,Scooters,out,Card,-20
+d1668,2026-03-23,2026-03,Scooter rides,Scooters,out,Card,-20
+d1667,2026-03-23,2026-03,Falafel Stand,Eating out,out,Card,-100
+d1666,2026-03-22,2026-03,City Market,Groceries,out,Card,-200
+d1665,2026-03-22,2026-03,Burger Joint,Eating out,out,Card,-150
+d1664,2026-03-22,2026-03,Pizza Place,Eating out,out,Card,-50
+d1663,2026-03-21,2026-03,Corner Café,Eating out,out,Card,-100
+d1662,2026-03-19,2026-03,Scooter rides,Scooters,out,Card,-20
+d1661,2026-03-17,2026-03,ATM withdrawal,ATM cash,out,Bank,-500
+d1660,2026-03-17,2026-03,City Market,Groceries,out,Card,-150
+d1659,2026-03-17,2026-03,Scooter rides,Scooters,out,Card,-20
+d1658,2026-03-17,2026-03,Scooter rides,Scooters,out,Card,-20
+d1657,2026-03-16,2026-03,Neighborhood Grocer,Groceries,out,Card,-100
+d1656,2026-03-16,2026-03,Scooter rides,Scooters,out,Card,-20
+d1655,2026-03-14,2026-03,Scooter rides,Scooters,out,Card,-20
+d1654,2026-03-13,2026-03,Scooter rides,Scooters,out,Card,-20
+d1653,2026-03-13,2026-03,Falafel Stand,Eating out,out,Card,-100
+d1652,2026-03-12,2026-03,Neighborhood Grocer,Groceries,out,Card,-200
+d1651,2026-03-12,2026-03,Neighborhood Grocer,Groceries,out,Card,-100
+d1650,2026-03-10,2026-03,Sushi Bar,Eating out,out,Card,-150
+d1649,2026-03-10,2026-03,Sushi Bar,Eating out,out,Card,-150
+d1648,2026-03-10,2026-03,Internet · Home Net,Bills,out,Bank,-100
+d1647,2026-03-10,2026-03,Phone · Mobile Co.,Bills,out,Bank,-50
+d1646,2026-03-09,2026-03,Scooter rides,Scooters,out,Card,-20
+d1645,2026-03-09,2026-03,Scooter rides,Scooters,out,Card,-20
+d1644,2026-03-08,2026-03,Scooter rides,Scooters,out,Card,-20
+d1643,2026-03-07,2026-03,Scooter rides,Scooters,out,Card,-20
+d1642,2026-03-05,2026-03,Rent · Landlord,Rent,out,Bank,-3800
+d1641,2026-03-05,2026-03,City Market,Groceries,out,Card,-200
+d1640,2026-03-04,2026-03,Sushi Bar,Eating out,out,Card,-150
+d1639,2026-03-04,2026-03,Sushi Bar,Eating out,out,Card,-50
+d1638,2026-03-04,2026-03,Falafel Stand,Eating out,out,Card,-100
+d1637,2026-03-03,2026-03,Scooter rides,Scooters,out,Card,-20
+d1636,2026-03-03,2026-03,Music app,Subscriptions,out,Card,-20
+d1635,2026-03-03,2026-03,Video streaming,Subscriptions,out,Card,-50
+d1634,2026-03-03,2026-03,Falafel Stand,Eating out,out,Card,-100
+d1633,2026-03-03,2026-03,Clothing shop,Shopping,out,Card,-500
+d1632,2026-03-01,2026-03,Bus pass top-up,Public transport,out,Card,-100
+d1631,2026-03-01,2026-03,Scooter rides,Scooters,out,Card,-20
+d1630,2026-03-01,2026-03,Scooter rides,Scooters,out,Card,-20
+d1629,2026-03-01,2026-03,Salary · Example Ltd,Salary,in,Bank,10000
+d1628,2026-02-28,2026-02,Scooter rides,Scooters,out,Card,-20
+d1627,2026-02-27,2026-02,Sushi Bar,Eating out,out,Card,-50
+d1626,2026-02-26,2026-02,Neighborhood Grocer,Groceries,out,Card,-200
+d1625,2026-02-26,2026-02,Scooter rides,Scooters,out,Card,-20
+d1624,2026-02-26,2026-02,Scooter rides,Scooters,out,Card,-20
+d1623,2026-02-25,2026-02,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1622,2026-02-25,2026-02,Scooter rides,Scooters,out,Card,-20
+d1621,2026-02-24,2026-02,Scooter rides,Scooters,out,Card,-20
+d1620,2026-02-24,2026-02,Corner Café,Eating out,out,Card,-100
+d1619,2026-02-24,2026-02,Burger Joint,Eating out,out,Card,-150
+d1618,2026-02-23,2026-02,Pizza Place,Eating out,out,Card,-50
+d1617,2026-02-21,2026-02,Scooter rides,Scooters,out,Card,-20
+d1616,2026-02-20,2026-02,Electronics shop,Shopping,out,Card,-300
+d1615,2026-02-19,2026-02,Fresh Market,Groceries,out,Card,-200
+d1614,2026-02-19,2026-02,City Market,Groceries,out,Card,-100
+d1613,2026-02-19,2026-02,Scooter rides,Scooters,out,Card,-20
+d1612,2026-02-19,2026-02,Scooter rides,Scooters,out,Card,-20
+d1611,2026-02-18,2026-02,Pizza Place,Eating out,out,Card,-150
+d1610,2026-02-18,2026-02,Scooter rides,Scooters,out,Card,-20
+d1609,2026-02-18,2026-02,Scooter rides,Scooters,out,Card,-20
+d1608,2026-02-17,2026-02,Neighborhood Grocer,Groceries,out,Card,-100
+d1607,2026-02-17,2026-02,Sushi Bar,Eating out,out,Card,-50
+d1606,2026-02-14,2026-02,Scooter rides,Scooters,out,Card,-20
+d1605,2026-02-13,2026-02,Scooter rides,Scooters,out,Card,-20
+d1604,2026-02-13,2026-02,Scooter rides,Scooters,out,Card,-20
+d1603,2026-02-13,2026-02,Electronics shop,Shopping,out,Card,-300
+d1602,2026-02-12,2026-02,Electricity · Power Co.,Bills,out,Bank,-300
+d1601,2026-02-12,2026-02,Electronics shop,Shopping,out,Card,-100
+d1600,2026-02-12,2026-02,Pizza Place,Eating out,out,Card,-50
+d1599,2026-02-11,2026-02,Corner Café,Eating out,out,Card,-50
+d1598,2026-02-10,2026-02,Internet · Home Net,Bills,out,Bank,-100
+d1597,2026-02-10,2026-02,Phone · Mobile Co.,Bills,out,Bank,-50
+d1596,2026-02-09,2026-02,Scooter rides,Scooters,out,Card,-20
+d1595,2026-02-08,2026-02,Scooter rides,Scooters,out,Card,-20
+d1594,2026-02-08,2026-02,Scooter rides,Scooters,out,Card,-20
+d1593,2026-02-07,2026-02,Scooter rides,Scooters,out,Card,-20
+d1592,2026-02-06,2026-02,Pizza Place,Eating out,out,Card,-150
+d1591,2026-02-05,2026-02,Rent · Landlord,Rent,out,Bank,-3800
+d1590,2026-02-04,2026-02,Neighborhood Grocer,Groceries,out,Card,-100
+d1589,2026-02-04,2026-02,Sushi Bar,Eating out,out,Card,-50
+d1588,2026-02-04,2026-02,Burger Joint,Eating out,out,Card,-100
+d1587,2026-02-03,2026-02,Video streaming,Subscriptions,out,Card,-50
+d1586,2026-02-03,2026-02,Scooter rides,Scooters,out,Card,-20
+d1585,2026-02-03,2026-02,Music app,Subscriptions,out,Card,-20
+d1584,2026-02-01,2026-02,Bus pass top-up,Public transport,out,Card,-100
+d1583,2026-02-01,2026-02,City Market,Groceries,out,Card,-100
+d1582,2026-02-01,2026-02,Scooter rides,Scooters,out,Card,-20
+d1581,2026-02-01,2026-02,Salary · Example Ltd,Salary,in,Bank,10000
+d1580,2026-01-31,2026-01,Neighborhood Grocer,Groceries,out,Card,-150
+d1579,2026-01-30,2026-01,City Market,Groceries,out,Card,-200
+d1578,2026-01-30,2026-01,Scooter rides,Scooters,out,Card,-20
+d1577,2026-01-28,2026-01,Sushi Bar,Eating out,out,Card,-50
+d1576,2026-01-28,2026-01,Scooter rides,Scooters,out,Card,-20
+d1575,2026-01-28,2026-01,Falafel Stand,Eating out,out,Card,-50
+d1574,2026-01-28,2026-01,Scooter rides,Scooters,out,Card,-20
+d1573,2026-01-27,2026-01,Scooter rides,Scooters,out,Card,-20
+d1572,2026-01-26,2026-01,Sushi Bar,Eating out,out,Card,-150
+d1571,2026-01-26,2026-01,Corner Café,Eating out,out,Card,-50
+d1570,2026-01-25,2026-01,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1569,2026-01-25,2026-01,Pizza Place,Eating out,out,Card,-100
+d1568,2026-01-25,2026-01,Scooter rides,Scooters,out,Card,-20
+d1567,2026-01-24,2026-01,City Market,Groceries,out,Card,-100
+d1566,2026-01-22,2026-01,Clothing shop,Shopping,out,Card,-100
+d1565,2026-01-22,2026-01,Corner Café,Eating out,out,Card,-50
+d1564,2026-01-22,2026-01,Scooter rides,Scooters,out,Card,-20
+d1563,2026-01-21,2026-01,Falafel Stand,Eating out,out,Card,-100
+d1562,2026-01-19,2026-01,Scooter rides,Scooters,out,Card,-20
+d1561,2026-01-19,2026-01,Scooter rides,Scooters,out,Card,-20
+d1560,2026-01-18,2026-01,Neighborhood Grocer,Groceries,out,Card,-100
+d1559,2026-01-18,2026-01,City Market,Groceries,out,Card,-150
+d1558,2026-01-17,2026-01,Corner Café,Eating out,out,Card,-100
+d1557,2026-01-16,2026-01,Scooter rides,Scooters,out,Card,-20
+d1556,2026-01-15,2026-01,Pizza Place,Eating out,out,Card,-100
+d1555,2026-01-14,2026-01,Sushi Bar,Eating out,out,Card,-150
+d1554,2026-01-14,2026-01,Scooter rides,Scooters,out,Card,-20
+d1553,2026-01-11,2026-01,ATM withdrawal,ATM cash,out,Bank,-500
+d1552,2026-01-11,2026-01,Scooter rides,Scooters,out,Card,-20
+d1551,2026-01-11,2026-01,Scooter rides,Scooters,out,Card,-20
+d1550,2026-01-10,2026-01,Internet · Home Net,Bills,out,Bank,-100
+d1549,2026-01-10,2026-01,Phone · Mobile Co.,Bills,out,Bank,-50
+d1548,2026-01-10,2026-01,Scooter rides,Scooters,out,Card,-20
+d1547,2026-01-09,2026-01,Scooter rides,Scooters,out,Card,-20
+d1546,2026-01-08,2026-01,Burger Joint,Eating out,out,Card,-100
+d1545,2026-01-08,2026-01,Scooter rides,Scooters,out,Card,-20
+d1544,2026-01-05,2026-01,City Market,Groceries,out,Card,-100
+d1543,2026-01-05,2026-01,Scooter rides,Scooters,out,Card,-20
+d1542,2026-01-05,2026-01,Rent · Landlord,Rent,out,Bank,-3800
+d1541,2026-01-04,2026-01,Online store,Shopping,out,Card,-500
+d1540,2026-01-03,2026-01,Video streaming,Subscriptions,out,Card,-50
+d1539,2026-01-03,2026-01,Scooter rides,Scooters,out,Card,-20
+d1538,2026-01-03,2026-01,Music app,Subscriptions,out,Card,-20
+d1537,2026-01-01,2026-01,Bus pass top-up,Public transport,out,Card,-100
+d1536,2026-01-01,2026-01,Scooter rides,Scooters,out,Card,-20
+d1535,2026-01-01,2026-01,Salary · Example Ltd,Salary,in,Bank,10000
+d1534,2025-12-31,2025-12,Scooter rides,Scooters,out,Card,-20
+d1533,2025-12-30,2025-12,City Market,Groceries,out,Card,-200
+d1532,2025-12-29,2025-12,Fresh Market,Groceries,out,Card,-200
+d1531,2025-12-28,2025-12,Burger Joint,Eating out,out,Card,-150
+d1530,2025-12-27,2025-12,Scooter rides,Scooters,out,Card,-20
+d1529,2025-12-25,2025-12,Neighborhood Grocer,Groceries,out,Card,-150
+d1528,2025-12-25,2025-12,Scooter rides,Scooters,out,Card,-20
+d1527,2025-12-25,2025-12,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1526,2025-12-24,2025-12,City Market,Groceries,out,Card,-150
+d1525,2025-12-24,2025-12,Pizza Place,Eating out,out,Card,-50
+d1524,2025-12-24,2025-12,Corner Café,Eating out,out,Card,-50
+d1523,2025-12-21,2025-12,Clothing shop,Shopping,out,Card,-200
+d1522,2025-12-21,2025-12,Corner Café,Eating out,out,Card,-150
+d1521,2025-12-21,2025-12,Scooter rides,Scooters,out,Card,-20
+d1520,2025-12-20,2025-12,Year-end bonus · Example Ltd,Bonus,in,Bank,2000
+d1519,2025-12-20,2025-12,Corner Café,Eating out,out,Card,-50
+d1518,2025-12-20,2025-12,Scooter rides,Scooters,out,Card,-20
+d1517,2025-12-17,2025-12,Scooter rides,Scooters,out,Card,-20
+d1516,2025-12-13,2025-12,Scooter rides,Scooters,out,Card,-20
+d1515,2025-12-12,2025-12,Fresh Market,Groceries,out,Card,-150
+d1514,2025-12-12,2025-12,Scooter rides,Scooters,out,Card,-20
+d1513,2025-12-12,2025-12,Scooter rides,Scooters,out,Card,-20
+d1512,2025-12-12,2025-12,Electricity · Power Co.,Bills,out,Bank,-300
+d1511,2025-12-11,2025-12,Corner Café,Eating out,out,Card,-50
+d1510,2025-12-11,2025-12,Scooter rides,Scooters,out,Card,-20
+d1509,2025-12-11,2025-12,City Market,Groceries,out,Card,-150
+d1508,2025-12-10,2025-12,Phone · Mobile Co.,Bills,out,Bank,-50
+d1507,2025-12-10,2025-12,Internet · Home Net,Bills,out,Bank,-100
+d1506,2025-12-09,2025-12,Scooter rides,Scooters,out,Card,-20
+d1505,2025-12-08,2025-12,Corner Café,Eating out,out,Card,-50
+d1504,2025-12-08,2025-12,Scooter rides,Scooters,out,Card,-20
+d1503,2025-12-07,2025-12,Falafel Stand,Eating out,out,Card,-150
+d1502,2025-12-07,2025-12,Burger Joint,Eating out,out,Card,-100
+d1501,2025-12-06,2025-12,Fresh Market,Groceries,out,Card,-200
+d1500,2025-12-06,2025-12,Scooter rides,Scooters,out,Card,-20
+d1499,2025-12-05,2025-12,Rent · Landlord,Rent,out,Bank,-3800
+d1498,2025-12-05,2025-12,Scooter rides,Scooters,out,Card,-20
+d1497,2025-12-04,2025-12,Pizza Place,Eating out,out,Card,-50
+d1496,2025-12-03,2025-12,Burger Joint,Eating out,out,Card,-100
+d1495,2025-12-03,2025-12,Video streaming,Subscriptions,out,Card,-50
+d1494,2025-12-03,2025-12,Scooter rides,Scooters,out,Card,-20
+d1493,2025-12-03,2025-12,Music app,Subscriptions,out,Card,-20
+d1492,2025-12-02,2025-12,Scooter rides,Scooters,out,Card,-20
+d1491,2025-12-02,2025-12,Scooter rides,Scooters,out,Card,-20
+d1490,2025-12-02,2025-12,Sushi Bar,Eating out,out,Card,-100
+d1489,2025-12-01,2025-12,City Market,Groceries,out,Card,-200
+d1488,2025-12-01,2025-12,Bus pass top-up,Public transport,out,Card,-100
+d1487,2025-12-01,2025-12,Scooter rides,Scooters,out,Card,-20
+d1486,2025-12-01,2025-12,Salary · Example Ltd,Salary,in,Bank,9500
+d1485,2025-11-30,2025-11,Scooter rides,Scooters,out,Card,-20
+d1484,2025-11-29,2025-11,Fresh Market,Groceries,out,Card,-200
+d1483,2025-11-29,2025-11,Pizza Place,Eating out,out,Card,-150
+d1482,2025-11-29,2025-11,Scooter rides,Scooters,out,Card,-20
+d1481,2025-11-29,2025-11,Scooter rides,Scooters,out,Card,-20
+d1480,2025-11-29,2025-11,Scooter rides,Scooters,out,Card,-20
+d1479,2025-11-28,2025-11,Scooter rides,Scooters,out,Card,-20
+d1478,2025-11-28,2025-11,Scooter rides,Scooters,out,Card,-20
+d1477,2025-11-27,2025-11,Sushi Bar,Eating out,out,Card,-50
+d1476,2025-11-27,2025-11,Neighborhood Grocer,Groceries,out,Card,-200
+d1475,2025-11-25,2025-11,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1474,2025-11-25,2025-11,Scooter rides,Scooters,out,Card,-20
+d1473,2025-11-24,2025-11,ATM withdrawal,ATM cash,out,Bank,-200
+d1472,2025-11-24,2025-11,Scooter rides,Scooters,out,Card,-20
+d1471,2025-11-23,2025-11,Fresh Market,Groceries,out,Card,-150
+d1470,2025-11-23,2025-11,Sushi Bar,Eating out,out,Card,-100
+d1469,2025-11-20,2025-11,Corner Café,Eating out,out,Card,-50
+d1468,2025-11-19,2025-11,Sushi Bar,Eating out,out,Card,-100
+d1467,2025-11-19,2025-11,Scooter rides,Scooters,out,Card,-20
+d1466,2025-11-19,2025-11,Scooter rides,Scooters,out,Card,-20
+d1465,2025-11-17,2025-11,Pizza Place,Eating out,out,Card,-100
+d1464,2025-11-17,2025-11,Scooter rides,Scooters,out,Card,-20
+d1463,2025-11-17,2025-11,Scooter rides,Scooters,out,Card,-20
+d1462,2025-11-16,2025-11,City Market,Groceries,out,Card,-100
+d1461,2025-11-15,2025-11,Sushi Bar,Eating out,out,Card,-100
+d1460,2025-11-15,2025-11,Falafel Stand,Eating out,out,Card,-150
+d1459,2025-11-13,2025-11,City Market,Groceries,out,Card,-200
+d1458,2025-11-13,2025-11,Scooter rides,Scooters,out,Card,-20
+d1457,2025-11-13,2025-11,Scooter rides,Scooters,out,Card,-20
+d1456,2025-11-12,2025-11,Scooter rides,Scooters,out,Card,-20
+d1455,2025-11-12,2025-11,Scooter rides,Scooters,out,Card,-20
+d1454,2025-11-11,2025-11,Corner Café,Eating out,out,Card,-100
+d1453,2025-11-10,2025-11,Internet · Home Net,Bills,out,Bank,-100
+d1452,2025-11-10,2025-11,Phone · Mobile Co.,Bills,out,Bank,-50
+d1451,2025-11-10,2025-11,Scooter rides,Scooters,out,Card,-20
+d1450,2025-11-08,2025-11,Burger Joint,Eating out,out,Card,-150
+d1449,2025-11-08,2025-11,Corner Café,Eating out,out,Card,-50
+d1448,2025-11-07,2025-11,Scooter rides,Scooters,out,Card,-20
+d1447,2025-11-06,2025-11,Falafel Stand,Eating out,out,Card,-150
+d1446,2025-11-05,2025-11,Fresh Market,Groceries,out,Card,-200
+d1445,2025-11-05,2025-11,Clothing shop,Shopping,out,Card,-300
+d1444,2025-11-05,2025-11,Rent · Landlord,Rent,out,Bank,-3800
+d1443,2025-11-03,2025-11,City Market,Groceries,out,Card,-200
+d1442,2025-11-03,2025-11,Falafel Stand,Eating out,out,Card,-100
+d1441,2025-11-03,2025-11,Video streaming,Subscriptions,out,Card,-50
+d1440,2025-11-03,2025-11,Music app,Subscriptions,out,Card,-20
+d1439,2025-11-02,2025-11,Scooter rides,Scooters,out,Card,-20
+d1438,2025-11-01,2025-11,City Market,Groceries,out,Card,-150
+d1437,2025-11-01,2025-11,Bus pass top-up,Public transport,out,Card,-100
+d1436,2025-11-01,2025-11,Salary · Example Ltd,Salary,in,Bank,9500
+d1435,2025-10-31,2025-10,Burger Joint,Eating out,out,Card,-50
+d1434,2025-10-31,2025-10,Scooter rides,Scooters,out,Card,-20
+d1433,2025-10-30,2025-10,Scooter rides,Scooters,out,Card,-20
+d1432,2025-10-28,2025-10,Fresh Market,Groceries,out,Card,-200
+d1431,2025-10-27,2025-10,Scooter rides,Scooters,out,Card,-20
+d1430,2025-10-26,2025-10,Scooter rides,Scooters,out,Card,-20
+d1429,2025-10-25,2025-10,Scooter rides,Scooters,out,Card,-20
+d1428,2025-10-25,2025-10,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1427,2025-10-24,2025-10,City Market,Groceries,out,Card,-100
+d1426,2025-10-23,2025-10,Scooter rides,Scooters,out,Card,-20
+d1425,2025-10-22,2025-10,Corner Café,Eating out,out,Card,-100
+d1424,2025-10-19,2025-10,Fresh Market,Groceries,out,Card,-150
+d1423,2025-10-19,2025-10,Corner Café,Eating out,out,Card,-100
+d1422,2025-10-19,2025-10,Scooter rides,Scooters,out,Card,-20
+d1421,2025-10-18,2025-10,Burger Joint,Eating out,out,Card,-150
+d1420,2025-10-18,2025-10,Neighborhood Grocer,Groceries,out,Card,-150
+d1419,2025-10-18,2025-10,Sushi Bar,Eating out,out,Card,-50
+d1418,2025-10-17,2025-10,Corner Café,Eating out,out,Card,-150
+d1417,2025-10-17,2025-10,Scooter rides,Scooters,out,Card,-20
+d1416,2025-10-16,2025-10,Online store,Shopping,out,Card,-100
+d1415,2025-10-15,2025-10,Scooter rides,Scooters,out,Card,-20
+d1414,2025-10-12,2025-10,Scooter rides,Scooters,out,Card,-20
+d1413,2025-10-12,2025-10,Scooter rides,Scooters,out,Card,-20
+d1412,2025-10-12,2025-10,Scooter rides,Scooters,out,Card,-20
+d1411,2025-10-12,2025-10,Electricity · Power Co.,Bills,out,Bank,-300
+d1410,2025-10-12,2025-10,Neighborhood Grocer,Groceries,out,Card,-100
+d1409,2025-10-10,2025-10,Internet · Home Net,Bills,out,Bank,-100
+d1408,2025-10-10,2025-10,Phone · Mobile Co.,Bills,out,Bank,-50
+d1407,2025-10-09,2025-10,City Market,Groceries,out,Card,-100
+d1406,2025-10-09,2025-10,Sushi Bar,Eating out,out,Card,-50
+d1405,2025-10-08,2025-10,Scooter rides,Scooters,out,Card,-20
+d1404,2025-10-07,2025-10,Burger Joint,Eating out,out,Card,-150
+d1403,2025-10-06,2025-10,ATM withdrawal,ATM cash,out,Bank,-500
+d1402,2025-10-06,2025-10,City Market,Groceries,out,Card,-200
+d1401,2025-10-06,2025-10,Scooter rides,Scooters,out,Card,-20
+d1400,2025-10-05,2025-10,Rent · Landlord,Rent,out,Bank,-3800
+d1399,2025-10-05,2025-10,Burger Joint,Eating out,out,Card,-150
+d1398,2025-10-04,2025-10,Scooter rides,Scooters,out,Card,-20
+d1397,2025-10-04,2025-10,Burger Joint,Eating out,out,Card,-150
+d1396,2025-10-03,2025-10,Video streaming,Subscriptions,out,Card,-50
+d1395,2025-10-03,2025-10,Music app,Subscriptions,out,Card,-20
+d1394,2025-10-02,2025-10,Scooter rides,Scooters,out,Card,-20
+d1393,2025-10-02,2025-10,Scooter rides,Scooters,out,Card,-20
+d1392,2025-10-02,2025-10,Scooter rides,Scooters,out,Card,-20
+d1391,2025-10-01,2025-10,Bus pass top-up,Public transport,out,Card,-100
+d1390,2025-10-01,2025-10,Scooter rides,Scooters,out,Card,-20
+d1389,2025-10-01,2025-10,Salary · Example Ltd,Salary,in,Bank,9500
+d1388,2025-09-30,2025-09,Sushi Bar,Eating out,out,Card,-50
+d1387,2025-09-28,2025-09,Online store,Shopping,out,Card,-200
+d1386,2025-09-27,2025-09,Pizza Place,Eating out,out,Card,-100
+d1385,2025-09-26,2025-09,Falafel Stand,Eating out,out,Card,-150
+d1384,2025-09-25,2025-09,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1383,2025-09-24,2025-09,Scooter rides,Scooters,out,Card,-20
+d1382,2025-09-24,2025-09,Scooter rides,Scooters,out,Card,-20
+d1381,2025-09-24,2025-09,City Market,Groceries,out,Card,-100
+d1380,2025-09-23,2025-09,ATM withdrawal,ATM cash,out,Bank,-200
+d1379,2025-09-23,2025-09,Fresh Market,Groceries,out,Card,-200
+d1378,2025-09-23,2025-09,Scooter rides,Scooters,out,Card,-20
+d1377,2025-09-22,2025-09,Electronics shop,Shopping,out,Card,-200
+d1376,2025-09-22,2025-09,Scooter rides,Scooters,out,Card,-20
+d1375,2025-09-21,2025-09,Fresh Market,Groceries,out,Card,-200
+d1374,2025-09-20,2025-09,Neighborhood Grocer,Groceries,out,Card,-200
+d1373,2025-09-20,2025-09,Falafel Stand,Eating out,out,Card,-100
+d1372,2025-09-20,2025-09,Scooter rides,Scooters,out,Card,-20
+d1371,2025-09-19,2025-09,Scooter rides,Scooters,out,Card,-20
+d1370,2025-09-19,2025-09,Scooter rides,Scooters,out,Card,-20
+d1369,2025-09-18,2025-09,Falafel Stand,Eating out,out,Card,-100
+d1368,2025-09-18,2025-09,Scooter rides,Scooters,out,Card,-20
+d1367,2025-09-17,2025-09,Pizza Place,Eating out,out,Card,-50
+d1366,2025-09-17,2025-09,Scooter rides,Scooters,out,Card,-20
+d1365,2025-09-17,2025-09,Scooter rides,Scooters,out,Card,-20
+d1364,2025-09-17,2025-09,Gift from family,From family,in,Bank,500
+d1363,2025-09-16,2025-09,Pizza Place,Eating out,out,Card,-100
+d1362,2025-09-16,2025-09,Scooter rides,Scooters,out,Card,-20
+d1361,2025-09-16,2025-09,Scooter rides,Scooters,out,Card,-20
+d1360,2025-09-15,2025-09,Scooter rides,Scooters,out,Card,-20
+d1359,2025-09-13,2025-09,Scooter rides,Scooters,out,Card,-20
+d1358,2025-09-12,2025-09,Pizza Place,Eating out,out,Card,-150
+d1357,2025-09-10,2025-09,Clothing shop,Shopping,out,Card,-100
+d1356,2025-09-10,2025-09,Internet · Home Net,Bills,out,Bank,-100
+d1355,2025-09-10,2025-09,Phone · Mobile Co.,Bills,out,Bank,-50
+d1354,2025-09-10,2025-09,Scooter rides,Scooters,out,Card,-20
+d1353,2025-09-08,2025-09,Corner Café,Eating out,out,Card,-50
+d1352,2025-09-08,2025-09,Falafel Stand,Eating out,out,Card,-50
+d1351,2025-09-08,2025-09,City Market,Groceries,out,Card,-100
+d1350,2025-09-07,2025-09,Neighborhood Grocer,Groceries,out,Card,-150
+d1349,2025-09-07,2025-09,Sushi Bar,Eating out,out,Card,-100
+d1348,2025-09-06,2025-09,Falafel Stand,Eating out,out,Card,-100
+d1347,2025-09-05,2025-09,Rent · Landlord,Rent,out,Bank,-3800
+d1346,2025-09-05,2025-09,Scooter rides,Scooters,out,Card,-20
+d1345,2025-09-04,2025-09,Burger Joint,Eating out,out,Card,-150
+d1344,2025-09-03,2025-09,Video streaming,Subscriptions,out,Card,-50
+d1343,2025-09-03,2025-09,Scooter rides,Scooters,out,Card,-20
+d1342,2025-09-03,2025-09,Scooter rides,Scooters,out,Card,-20
+d1341,2025-09-03,2025-09,Music app,Subscriptions,out,Card,-20
+d1340,2025-09-02,2025-09,Scooter rides,Scooters,out,Card,-20
+d1339,2025-09-01,2025-09,Bus pass top-up,Public transport,out,Card,-100
+d1338,2025-09-01,2025-09,Fresh Market,Groceries,out,Card,-100
+d1337,2025-09-01,2025-09,Salary · Example Ltd,Salary,in,Bank,9500
+d1336,2025-08-31,2025-08,Scooter rides,Scooters,out,Card,-20
+d1335,2025-08-31,2025-08,Burger Joint,Eating out,out,Card,-100
+d1334,2025-08-30,2025-08,City Market,Groceries,out,Card,-150
+d1333,2025-08-30,2025-08,Scooter rides,Scooters,out,Card,-20
+d1332,2025-08-27,2025-08,Scooter rides,Scooters,out,Card,-20
+d1331,2025-08-25,2025-08,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1330,2025-08-25,2025-08,Fresh Market,Groceries,out,Card,-200
+d1329,2025-08-25,2025-08,Pizza Place,Eating out,out,Card,-150
+d1328,2025-08-25,2025-08,Scooter rides,Scooters,out,Card,-20
+d1327,2025-08-24,2025-08,Neighborhood Grocer,Groceries,out,Card,-100
+d1326,2025-08-23,2025-08,Sushi Bar,Eating out,out,Card,-150
+d1325,2025-08-23,2025-08,Burger Joint,Eating out,out,Card,-150
+d1324,2025-08-23,2025-08,Neighborhood Grocer,Groceries,out,Card,-150
+d1323,2025-08-23,2025-08,Scooter rides,Scooters,out,Card,-20
+d1322,2025-08-23,2025-08,Scooter rides,Scooters,out,Card,-20
+d1321,2025-08-22,2025-08,Scooter rides,Scooters,out,Card,-20
+d1320,2025-08-22,2025-08,Burger Joint,Eating out,out,Card,-50
+d1319,2025-08-21,2025-08,Falafel Stand,Eating out,out,Card,-50
+d1318,2025-08-20,2025-08,Scooter rides,Scooters,out,Card,-20
+d1317,2025-08-17,2025-08,Scooter rides,Scooters,out,Card,-20
+d1316,2025-08-16,2025-08,Pizza Place,Eating out,out,Card,-50
+d1315,2025-08-14,2025-08,Corner Café,Eating out,out,Card,-50
+d1314,2025-08-12,2025-08,Electricity · Power Co.,Bills,out,Bank,-300
+d1313,2025-08-12,2025-08,Fresh Market,Groceries,out,Card,-150
+d1312,2025-08-12,2025-08,Scooter rides,Scooters,out,Card,-20
+d1311,2025-08-11,2025-08,Scooter rides,Scooters,out,Card,-20
+d1310,2025-08-11,2025-08,Scooter rides,Scooters,out,Card,-20
+d1309,2025-08-10,2025-08,Scooter rides,Scooters,out,Card,-20
+d1308,2025-08-10,2025-08,Online store,Shopping,out,Card,-100
+d1307,2025-08-10,2025-08,Internet · Home Net,Bills,out,Bank,-100
+d1306,2025-08-10,2025-08,Phone · Mobile Co.,Bills,out,Bank,-50
+d1305,2025-08-09,2025-08,Pizza Place,Eating out,out,Card,-50
+d1304,2025-08-09,2025-08,Neighborhood Grocer,Groceries,out,Card,-100
+d1303,2025-08-08,2025-08,Scooter rides,Scooters,out,Card,-20
+d1302,2025-08-06,2025-08,Falafel Stand,Eating out,out,Card,-100
+d1301,2025-08-06,2025-08,Burger Joint,Eating out,out,Card,-50
+d1300,2025-08-05,2025-08,Rent · Landlord,Rent,out,Bank,-3800
+d1299,2025-08-05,2025-08,Scooter rides,Scooters,out,Card,-20
+d1298,2025-08-03,2025-08,ATM withdrawal,ATM cash,out,Bank,-500
+d1297,2025-08-03,2025-08,Video streaming,Subscriptions,out,Card,-50
+d1296,2025-08-03,2025-08,Music app,Subscriptions,out,Card,-20
+d1295,2025-08-02,2025-08,Online store,Shopping,out,Card,-500
+d1294,2025-08-02,2025-08,Pizza Place,Eating out,out,Card,-100
+d1293,2025-08-02,2025-08,Scooter rides,Scooters,out,Card,-20
+d1292,2025-08-01,2025-08,Bus pass top-up,Public transport,out,Card,-100
+d1291,2025-08-01,2025-08,Salary · Example Ltd,Salary,in,Bank,9500
+d1290,2025-07-30,2025-07,Scooter rides,Scooters,out,Card,-20
+d1289,2025-07-30,2025-07,Scooter rides,Scooters,out,Card,-20
+d1288,2025-07-29,2025-07,Scooter rides,Scooters,out,Card,-20
+d1287,2025-07-29,2025-07,Scooter rides,Scooters,out,Card,-20
+d1286,2025-07-28,2025-07,Scooter rides,Scooters,out,Card,-20
+d1285,2025-07-27,2025-07,Sushi Bar,Eating out,out,Card,-100
+d1284,2025-07-25,2025-07,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1283,2025-07-25,2025-07,Fresh Market,Groceries,out,Card,-100
+d1282,2025-07-25,2025-07,Falafel Stand,Eating out,out,Card,-50
+d1281,2025-07-23,2025-07,Corner Café,Eating out,out,Card,-150
+d1280,2025-07-23,2025-07,Scooter rides,Scooters,out,Card,-20
+d1279,2025-07-22,2025-07,Neighborhood Grocer,Groceries,out,Card,-100
+d1278,2025-07-22,2025-07,Scooter rides,Scooters,out,Card,-20
+d1277,2025-07-22,2025-07,Scooter rides,Scooters,out,Card,-20
+d1276,2025-07-20,2025-07,Fresh Market,Groceries,out,Card,-200
+d1275,2025-07-19,2025-07,Scooter rides,Scooters,out,Card,-20
+d1274,2025-07-18,2025-07,Fresh Market,Groceries,out,Card,-200
+d1273,2025-07-18,2025-07,Falafel Stand,Eating out,out,Card,-150
+d1272,2025-07-18,2025-07,Scooter rides,Scooters,out,Card,-20
+d1271,2025-07-14,2025-07,Scooter rides,Scooters,out,Card,-20
+d1270,2025-07-13,2025-07,Neighborhood Grocer,Groceries,out,Card,-200
+d1269,2025-07-13,2025-07,Scooter rides,Scooters,out,Card,-20
+d1268,2025-07-12,2025-07,Sushi Bar,Eating out,out,Card,-100
+d1267,2025-07-12,2025-07,Neighborhood Grocer,Groceries,out,Card,-100
+d1266,2025-07-10,2025-07,Scooter rides,Scooters,out,Card,-20
+d1265,2025-07-10,2025-07,Corner Café,Eating out,out,Card,-100
+d1264,2025-07-10,2025-07,Internet · Home Net,Bills,out,Bank,-100
+d1263,2025-07-10,2025-07,Phone · Mobile Co.,Bills,out,Bank,-50
+d1262,2025-07-08,2025-07,Falafel Stand,Eating out,out,Card,-50
+d1261,2025-07-08,2025-07,Electronics shop,Shopping,out,Card,-100
+d1260,2025-07-07,2025-07,Corner Café,Eating out,out,Card,-50
+d1259,2025-07-07,2025-07,City Market,Groceries,out,Card,-100
+d1258,2025-07-06,2025-07,Pizza Place,Eating out,out,Card,-100
+d1257,2025-07-05,2025-07,Scooter rides,Scooters,out,Card,-20
+d1256,2025-07-05,2025-07,Neighborhood Grocer,Groceries,out,Card,-150
+d1255,2025-07-05,2025-07,Rent · Landlord,Rent,out,Bank,-3800
+d1254,2025-07-04,2025-07,Scooter rides,Scooters,out,Card,-20
+d1253,2025-07-03,2025-07,Falafel Stand,Eating out,out,Card,-50
+d1252,2025-07-03,2025-07,Video streaming,Subscriptions,out,Card,-50
+d1251,2025-07-03,2025-07,Music app,Subscriptions,out,Card,-20
+d1250,2025-07-01,2025-07,Bus pass top-up,Public transport,out,Card,-100
+d1249,2025-07-01,2025-07,Scooter rides,Scooters,out,Card,-20
+d1248,2025-07-01,2025-07,Salary · Example Ltd,Salary,in,Bank,9500
+d1247,2025-06-30,2025-06,Burger Joint,Eating out,out,Card,-50
+d1246,2025-06-29,2025-06,Scooter rides,Scooters,out,Card,-20
+d1245,2025-06-28,2025-06,Neighborhood Grocer,Groceries,out,Card,-100
+d1244,2025-06-27,2025-06,Scooter rides,Scooters,out,Card,-20
+d1243,2025-06-26,2025-06,Scooter rides,Scooters,out,Card,-20
+d1242,2025-06-25,2025-06,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1241,2025-06-23,2025-06,Burger Joint,Eating out,out,Card,-50
+d1240,2025-06-23,2025-06,Scooter rides,Scooters,out,Card,-20
+d1239,2025-06-22,2025-06,Scooter rides,Scooters,out,Card,-20
+d1238,2025-06-20,2025-06,Fresh Market,Groceries,out,Card,-100
+d1237,2025-06-20,2025-06,Pizza Place,Eating out,out,Card,-50
+d1236,2025-06-19,2025-06,City Market,Groceries,out,Card,-150
+d1235,2025-06-18,2025-06,Scooter rides,Scooters,out,Card,-20
+d1234,2025-06-18,2025-06,Scooter rides,Scooters,out,Card,-20
+d1233,2025-06-16,2025-06,ATM withdrawal,ATM cash,out,Bank,-200
+d1232,2025-06-14,2025-06,Falafel Stand,Eating out,out,Card,-100
+d1231,2025-06-14,2025-06,Scooter rides,Scooters,out,Card,-20
+d1230,2025-06-14,2025-06,Scooter rides,Scooters,out,Card,-20
+d1229,2025-06-13,2025-06,Electronics shop,Shopping,out,Card,-200
+d1228,2025-06-13,2025-06,Scooter rides,Scooters,out,Card,-20
+d1227,2025-06-13,2025-06,Scooter rides,Scooters,out,Card,-20
+d1226,2025-06-13,2025-06,Scooter rides,Scooters,out,Card,-20
+d1225,2025-06-12,2025-06,Electricity · Power Co.,Bills,out,Bank,-300
+d1224,2025-06-12,2025-06,City Market,Groceries,out,Card,-150
+d1223,2025-06-12,2025-06,Online store,Shopping,out,Card,-500
+d1222,2025-06-11,2025-06,Corner Café,Eating out,out,Card,-100
+d1221,2025-06-11,2025-06,Scooter rides,Scooters,out,Card,-20
+d1220,2025-06-10,2025-06,Sushi Bar,Eating out,out,Card,-150
+d1219,2025-06-10,2025-06,Internet · Home Net,Bills,out,Bank,-100
+d1218,2025-06-10,2025-06,Phone · Mobile Co.,Bills,out,Bank,-50
+d1217,2025-06-10,2025-06,Scooter rides,Scooters,out,Card,-20
+d1216,2025-06-09,2025-06,Neighborhood Grocer,Groceries,out,Card,-100
+d1215,2025-06-09,2025-06,City Market,Groceries,out,Card,-100
+d1214,2025-06-09,2025-06,Sushi Bar,Eating out,out,Card,-50
+d1213,2025-06-08,2025-06,Sushi Bar,Eating out,out,Card,-150
+d1212,2025-06-08,2025-06,Corner Café,Eating out,out,Card,-50
+d1211,2025-06-07,2025-06,Scooter rides,Scooters,out,Card,-20
+d1210,2025-06-06,2025-06,Scooter rides,Scooters,out,Card,-20
+d1209,2025-06-05,2025-06,Rent · Landlord,Rent,out,Bank,-3500
+d1208,2025-06-03,2025-06,Video streaming,Subscriptions,out,Card,-50
+d1207,2025-06-03,2025-06,Music app,Subscriptions,out,Card,-20
+d1206,2025-06-02,2025-06,City Market,Groceries,out,Card,-150
+d1205,2025-06-01,2025-06,Bus pass top-up,Public transport,out,Card,-100
+d1204,2025-06-01,2025-06,Scooter rides,Scooters,out,Card,-20
+d1203,2025-06-01,2025-06,Salary · Example Ltd,Salary,in,Bank,9500
+d1202,2025-05-31,2025-05,Scooter rides,Scooters,out,Card,-20
+d1201,2025-05-29,2025-05,Falafel Stand,Eating out,out,Card,-150
+d1200,2025-05-29,2025-05,Pizza Place,Eating out,out,Card,-100
+d1199,2025-05-28,2025-05,Scooter rides,Scooters,out,Card,-20
+d1198,2025-05-27,2025-05,Corner Café,Eating out,out,Card,-50
+d1197,2025-05-25,2025-05,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1196,2025-05-25,2025-05,Burger Joint,Eating out,out,Card,-150
+d1195,2025-05-24,2025-05,Neighborhood Grocer,Groceries,out,Card,-150
+d1194,2025-05-23,2025-05,Scooter rides,Scooters,out,Card,-20
+d1193,2025-05-22,2025-05,Electronics shop,Shopping,out,Card,-300
+d1192,2025-05-22,2025-05,City Market,Groceries,out,Card,-200
+d1191,2025-05-22,2025-05,Scooter rides,Scooters,out,Card,-20
+d1190,2025-05-21,2025-05,Neighborhood Grocer,Groceries,out,Card,-200
+d1189,2025-05-20,2025-05,Scooter rides,Scooters,out,Card,-20
+d1188,2025-05-17,2025-05,Scooter rides,Scooters,out,Card,-20
+d1187,2025-05-17,2025-05,Scooter rides,Scooters,out,Card,-20
+d1186,2025-05-16,2025-05,Sushi Bar,Eating out,out,Card,-100
+d1185,2025-05-14,2025-05,Scooter rides,Scooters,out,Card,-20
+d1184,2025-05-13,2025-05,Fresh Market,Groceries,out,Card,-150
+d1183,2025-05-13,2025-05,Scooter rides,Scooters,out,Card,-20
+d1182,2025-05-12,2025-05,Fresh Market,Groceries,out,Card,-100
+d1181,2025-05-12,2025-05,Scooter rides,Scooters,out,Card,-20
+d1180,2025-05-12,2025-05,Falafel Stand,Eating out,out,Card,-100
+d1179,2025-05-12,2025-05,Neighborhood Grocer,Groceries,out,Card,-150
+d1178,2025-05-11,2025-05,Burger Joint,Eating out,out,Card,-150
+d1177,2025-05-11,2025-05,Burger Joint,Eating out,out,Card,-100
+d1176,2025-05-10,2025-05,Internet · Home Net,Bills,out,Bank,-100
+d1175,2025-05-10,2025-05,Phone · Mobile Co.,Bills,out,Bank,-50
+d1174,2025-05-08,2025-05,City Market,Groceries,out,Card,-150
+d1173,2025-05-06,2025-05,Corner Café,Eating out,out,Card,-150
+d1172,2025-05-06,2025-05,Scooter rides,Scooters,out,Card,-20
+d1171,2025-05-06,2025-05,Scooter rides,Scooters,out,Card,-20
+d1170,2025-05-06,2025-05,Scooter rides,Scooters,out,Card,-20
+d1169,2025-05-05,2025-05,Rent · Landlord,Rent,out,Bank,-3500
+d1168,2025-05-04,2025-05,Scooter rides,Scooters,out,Card,-20
+d1167,2025-05-03,2025-05,Falafel Stand,Eating out,out,Card,-150
+d1166,2025-05-03,2025-05,Music app,Subscriptions,out,Card,-20
+d1165,2025-05-03,2025-05,Video streaming,Subscriptions,out,Card,-50
+d1164,2025-05-02,2025-05,Neighborhood Grocer,Groceries,out,Card,-200
+d1163,2025-05-01,2025-05,Scooter rides,Scooters,out,Card,-20
+d1162,2025-05-01,2025-05,Salary · Example Ltd,Salary,in,Bank,9500
+d1161,2025-05-01,2025-05,Bus pass top-up,Public transport,out,Card,-100
+d1160,2025-04-30,2025-04,ATM withdrawal,ATM cash,out,Bank,-500
+d1159,2025-04-28,2025-04,Falafel Stand,Eating out,out,Card,-100
+d1158,2025-04-28,2025-04,Scooter rides,Scooters,out,Card,-20
+d1157,2025-04-27,2025-04,Scooter rides,Scooters,out,Card,-20
+d1156,2025-04-26,2025-04,Scooter rides,Scooters,out,Card,-20
+d1155,2025-04-25,2025-04,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1154,2025-04-24,2025-04,Corner Café,Eating out,out,Card,-150
+d1153,2025-04-22,2025-04,Corner Café,Eating out,out,Card,-150
+d1152,2025-04-22,2025-04,Pizza Place,Eating out,out,Card,-150
+d1151,2025-04-21,2025-04,Scooter rides,Scooters,out,Card,-20
+d1150,2025-04-20,2025-04,Falafel Stand,Eating out,out,Card,-150
+d1149,2025-04-18,2025-04,Fresh Market,Groceries,out,Card,-200
+d1148,2025-04-18,2025-04,Corner Café,Eating out,out,Card,-150
+d1147,2025-04-18,2025-04,Fresh Market,Groceries,out,Card,-150
+d1146,2025-04-18,2025-04,Scooter rides,Scooters,out,Card,-20
+d1145,2025-04-15,2025-04,Scooter rides,Scooters,out,Card,-20
+d1144,2025-04-15,2025-04,Tax refund,Tax refund,in,Bank,1000
+d1143,2025-04-14,2025-04,Scooter rides,Scooters,out,Card,-20
+d1142,2025-04-14,2025-04,Scooter rides,Scooters,out,Card,-20
+d1141,2025-04-14,2025-04,Scooter rides,Scooters,out,Card,-20
+d1140,2025-04-13,2025-04,Sushi Bar,Eating out,out,Card,-100
+d1139,2025-04-13,2025-04,Scooter rides,Scooters,out,Card,-20
+d1138,2025-04-13,2025-04,Scooter rides,Scooters,out,Card,-20
+d1137,2025-04-13,2025-04,City Market,Groceries,out,Card,-150
+d1136,2025-04-12,2025-04,Electricity · Power Co.,Bills,out,Bank,-300
+d1135,2025-04-12,2025-04,Scooter rides,Scooters,out,Card,-20
+d1134,2025-04-11,2025-04,Falafel Stand,Eating out,out,Card,-50
+d1133,2025-04-10,2025-04,Phone · Mobile Co.,Bills,out,Bank,-50
+d1132,2025-04-10,2025-04,Scooter rides,Scooters,out,Card,-20
+d1131,2025-04-10,2025-04,Internet · Home Net,Bills,out,Bank,-100
+d1130,2025-04-09,2025-04,Fresh Market,Groceries,out,Card,-100
+d1129,2025-04-08,2025-04,City Market,Groceries,out,Card,-200
+d1128,2025-04-08,2025-04,Pizza Place,Eating out,out,Card,-100
+d1127,2025-04-07,2025-04,Scooter rides,Scooters,out,Card,-20
+d1126,2025-04-06,2025-04,City Market,Groceries,out,Card,-150
+d1125,2025-04-05,2025-04,Rent · Landlord,Rent,out,Bank,-3500
+d1124,2025-04-04,2025-04,Sushi Bar,Eating out,out,Card,-100
+d1123,2025-04-03,2025-04,Video streaming,Subscriptions,out,Card,-50
+d1122,2025-04-03,2025-04,Scooter rides,Scooters,out,Card,-20
+d1121,2025-04-03,2025-04,Music app,Subscriptions,out,Card,-20
+d1120,2025-04-02,2025-04,Clothing shop,Shopping,out,Card,-500
+d1119,2025-04-02,2025-04,Corner Café,Eating out,out,Card,-50
+d1118,2025-04-01,2025-04,Salary · Example Ltd,Salary,in,Bank,9500
+d1117,2025-04-01,2025-04,Bus pass top-up,Public transport,out,Card,-100
+d1116,2025-04-01,2025-04,City Market,Groceries,out,Card,-150
+d1115,2025-03-30,2025-03,Scooter rides,Scooters,out,Card,-20
+d1114,2025-03-29,2025-03,ATM withdrawal,ATM cash,out,Bank,-500
+d1113,2025-03-28,2025-03,Sushi Bar,Eating out,out,Card,-150
+d1112,2025-03-28,2025-03,Scooter rides,Scooters,out,Card,-20
+d1111,2025-03-27,2025-03,Sushi Bar,Eating out,out,Card,-150
+d1110,2025-03-26,2025-03,Scooter rides,Scooters,out,Card,-20
+d1109,2025-03-25,2025-03,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1108,2025-03-25,2025-03,Fresh Market,Groceries,out,Card,-150
+d1107,2025-03-24,2025-03,Scooter rides,Scooters,out,Card,-20
+d1106,2025-03-23,2025-03,ATM withdrawal,ATM cash,out,Bank,-500
+d1105,2025-03-21,2025-03,Scooter rides,Scooters,out,Card,-20
+d1104,2025-03-21,2025-03,Clothing shop,Shopping,out,Card,-200
+d1103,2025-03-21,2025-03,Corner Café,Eating out,out,Card,-100
+d1102,2025-03-20,2025-03,Neighborhood Grocer,Groceries,out,Card,-200
+d1101,2025-03-19,2025-03,City Market,Groceries,out,Card,-100
+d1100,2025-03-15,2025-03,Neighborhood Grocer,Groceries,out,Card,-150
+d1099,2025-03-15,2025-03,Scooter rides,Scooters,out,Card,-20
+d1098,2025-03-14,2025-03,Sushi Bar,Eating out,out,Card,-100
+d1097,2025-03-14,2025-03,Burger Joint,Eating out,out,Card,-100
+d1096,2025-03-14,2025-03,Scooter rides,Scooters,out,Card,-20
+d1095,2025-03-14,2025-03,Gift from family,From family,in,Bank,200
+d1094,2025-03-13,2025-03,Neighborhood Grocer,Groceries,out,Card,-150
+d1093,2025-03-12,2025-03,Scooter rides,Scooters,out,Card,-20
+d1092,2025-03-10,2025-03,Phone · Mobile Co.,Bills,out,Bank,-50
+d1091,2025-03-10,2025-03,Internet · Home Net,Bills,out,Bank,-100
+d1090,2025-03-10,2025-03,Scooter rides,Scooters,out,Card,-20
+d1089,2025-03-09,2025-03,Scooter rides,Scooters,out,Card,-20
+d1088,2025-03-09,2025-03,Scooter rides,Scooters,out,Card,-20
+d1087,2025-03-08,2025-03,Falafel Stand,Eating out,out,Card,-150
+d1086,2025-03-07,2025-03,Burger Joint,Eating out,out,Card,-150
+d1085,2025-03-06,2025-03,City Market,Groceries,out,Card,-200
+d1084,2025-03-05,2025-03,Rent · Landlord,Rent,out,Bank,-3500
+d1083,2025-03-05,2025-03,Neighborhood Grocer,Groceries,out,Card,-200
+d1082,2025-03-05,2025-03,Falafel Stand,Eating out,out,Card,-50
+d1081,2025-03-04,2025-03,Burger Joint,Eating out,out,Card,-50
+d1080,2025-03-04,2025-03,Scooter rides,Scooters,out,Card,-20
+d1079,2025-03-03,2025-03,Video streaming,Subscriptions,out,Card,-50
+d1078,2025-03-03,2025-03,Music app,Subscriptions,out,Card,-20
+d1077,2025-03-03,2025-03,Falafel Stand,Eating out,out,Card,-100
+d1076,2025-03-02,2025-03,Fresh Market,Groceries,out,Card,-100
+d1075,2025-03-02,2025-03,Scooter rides,Scooters,out,Card,-20
+d1074,2025-03-02,2025-03,Falafel Stand,Eating out,out,Card,-150
+d1073,2025-03-01,2025-03,Salary · Example Ltd,Salary,in,Bank,9500
+d1072,2025-03-01,2025-03,Pizza Place,Eating out,out,Card,-50
+d1071,2025-03-01,2025-03,Bus pass top-up,Public transport,out,Card,-100
+d1070,2025-02-28,2025-02,Online store,Shopping,out,Card,-200
+d1069,2025-02-28,2025-02,Scooter rides,Scooters,out,Card,-20
+d1068,2025-02-27,2025-02,Corner Café,Eating out,out,Card,-150
+d1067,2025-02-27,2025-02,Scooter rides,Scooters,out,Card,-20
+d1066,2025-02-26,2025-02,City Market,Groceries,out,Card,-200
+d1065,2025-02-26,2025-02,Falafel Stand,Eating out,out,Card,-100
+d1064,2025-02-25,2025-02,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1063,2025-02-25,2025-02,Fresh Market,Groceries,out,Card,-100
+d1062,2025-02-23,2025-02,Burger Joint,Eating out,out,Card,-100
+d1061,2025-02-23,2025-02,Scooter rides,Scooters,out,Card,-20
+d1060,2025-02-22,2025-02,Neighborhood Grocer,Groceries,out,Card,-200
+d1059,2025-02-20,2025-02,Neighborhood Grocer,Groceries,out,Card,-150
+d1058,2025-02-19,2025-02,Scooter rides,Scooters,out,Card,-20
+d1057,2025-02-18,2025-02,Scooter rides,Scooters,out,Card,-20
+d1056,2025-02-16,2025-02,ATM withdrawal,ATM cash,out,Bank,-200
+d1055,2025-02-15,2025-02,Scooter rides,Scooters,out,Card,-20
+d1054,2025-02-12,2025-02,Electricity · Power Co.,Bills,out,Bank,-300
+d1053,2025-02-12,2025-02,Burger Joint,Eating out,out,Card,-150
+d1052,2025-02-12,2025-02,Scooter rides,Scooters,out,Card,-20
+d1051,2025-02-10,2025-02,City Market,Groceries,out,Card,-100
+d1050,2025-02-10,2025-02,Internet · Home Net,Bills,out,Bank,-100
+d1049,2025-02-10,2025-02,Sushi Bar,Eating out,out,Card,-50
+d1048,2025-02-10,2025-02,Phone · Mobile Co.,Bills,out,Bank,-50
+d1047,2025-02-08,2025-02,Scooter rides,Scooters,out,Card,-20
+d1046,2025-02-07,2025-02,City Market,Groceries,out,Card,-200
+d1045,2025-02-06,2025-02,Burger Joint,Eating out,out,Card,-100
+d1044,2025-02-05,2025-02,Falafel Stand,Eating out,out,Card,-50
+d1043,2025-02-05,2025-02,Rent · Landlord,Rent,out,Bank,-3500
+d1042,2025-02-04,2025-02,Scooter rides,Scooters,out,Card,-20
+d1041,2025-02-04,2025-02,Scooter rides,Scooters,out,Card,-20
+d1040,2025-02-04,2025-02,Scooter rides,Scooters,out,Card,-20
+d1039,2025-02-03,2025-02,Video streaming,Subscriptions,out,Card,-50
+d1038,2025-02-03,2025-02,Music app,Subscriptions,out,Card,-20
+d1037,2025-02-02,2025-02,Pizza Place,Eating out,out,Card,-150
+d1036,2025-02-02,2025-02,Clothing shop,Shopping,out,Card,-100
+d1035,2025-02-01,2025-02,Bus pass top-up,Public transport,out,Card,-100
+d1034,2025-02-01,2025-02,Sushi Bar,Eating out,out,Card,-100
+d1033,2025-02-01,2025-02,Scooter rides,Scooters,out,Card,-20
+d1032,2025-02-01,2025-02,Scooter rides,Scooters,out,Card,-20
+d1031,2025-02-01,2025-02,Salary · Example Ltd,Salary,in,Bank,9500
+d1030,2025-01-30,2025-01,Fresh Market,Groceries,out,Card,-100
+d1029,2025-01-30,2025-01,Neighborhood Grocer,Groceries,out,Card,-150
+d1028,2025-01-29,2025-01,City Market,Groceries,out,Card,-150
+d1027,2025-01-29,2025-01,Neighborhood Grocer,Groceries,out,Card,-100
+d1026,2025-01-29,2025-01,Scooter rides,Scooters,out,Card,-20
+d1025,2025-01-29,2025-01,Scooter rides,Scooters,out,Card,-20
+d1024,2025-01-27,2025-01,Scooter rides,Scooters,out,Card,-20
+d1023,2025-01-26,2025-01,Pizza Place,Eating out,out,Card,-100
+d1022,2025-01-26,2025-01,Scooter rides,Scooters,out,Card,-20
+d1021,2025-01-25,2025-01,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d1020,2025-01-25,2025-01,Fresh Market,Groceries,out,Card,-100
+d1019,2025-01-23,2025-01,City Market,Groceries,out,Card,-100
+d1018,2025-01-21,2025-01,Scooter rides,Scooters,out,Card,-20
+d1017,2025-01-21,2025-01,City Market,Groceries,out,Card,-150
+d1016,2025-01-19,2025-01,Falafel Stand,Eating out,out,Card,-100
+d1015,2025-01-18,2025-01,Scooter rides,Scooters,out,Card,-20
+d1014,2025-01-17,2025-01,Online store,Shopping,out,Card,-200
+d1013,2025-01-15,2025-01,Burger Joint,Eating out,out,Card,-50
+d1012,2025-01-15,2025-01,Scooter rides,Scooters,out,Card,-20
+d1011,2025-01-15,2025-01,Pizza Place,Eating out,out,Card,-100
+d1010,2025-01-14,2025-01,Sushi Bar,Eating out,out,Card,-50
+d1009,2025-01-13,2025-01,Scooter rides,Scooters,out,Card,-20
+d1008,2025-01-12,2025-01,Scooter rides,Scooters,out,Card,-20
+d1007,2025-01-11,2025-01,Pizza Place,Eating out,out,Card,-100
+d1006,2025-01-11,2025-01,Pizza Place,Eating out,out,Card,-150
+d1005,2025-01-10,2025-01,Internet · Home Net,Bills,out,Bank,-100
+d1004,2025-01-10,2025-01,Phone · Mobile Co.,Bills,out,Bank,-50
+d1003,2025-01-09,2025-01,Scooter rides,Scooters,out,Card,-20
+d1002,2025-01-08,2025-01,Scooter rides,Scooters,out,Card,-20
+d1001,2025-01-06,2025-01,City Market,Groceries,out,Card,-100
+d1000,2025-01-06,2025-01,Scooter rides,Scooters,out,Card,-20
+d0999,2025-01-05,2025-01,Rent · Landlord,Rent,out,Bank,-3500
+d0998,2025-01-05,2025-01,Corner Café,Eating out,out,Card,-100
+d0997,2025-01-05,2025-01,Scooter rides,Scooters,out,Card,-20
+d0996,2025-01-04,2025-01,Falafel Stand,Eating out,out,Card,-50
+d0995,2025-01-04,2025-01,Scooter rides,Scooters,out,Card,-20
+d0994,2025-01-04,2025-01,Scooter rides,Scooters,out,Card,-20
+d0993,2025-01-03,2025-01,Video streaming,Subscriptions,out,Card,-50
+d0992,2025-01-03,2025-01,Music app,Subscriptions,out,Card,-20
+d0991,2025-01-02,2025-01,Pizza Place,Eating out,out,Card,-150
+d0990,2025-01-02,2025-01,Scooter rides,Scooters,out,Card,-20
+d0989,2025-01-01,2025-01,Bus pass top-up,Public transport,out,Card,-100
+d0988,2025-01-01,2025-01,Salary · Example Ltd,Salary,in,Bank,9500
+d0987,2024-12-31,2024-12,Corner Café,Eating out,out,Card,-150
+d0986,2024-12-31,2024-12,Scooter rides,Scooters,out,Card,-20
+d0985,2024-12-30,2024-12,Falafel Stand,Eating out,out,Card,-100
+d0984,2024-12-29,2024-12,Scooter rides,Scooters,out,Card,-20
+d0983,2024-12-28,2024-12,Neighborhood Grocer,Groceries,out,Card,-150
+d0982,2024-12-28,2024-12,Sushi Bar,Eating out,out,Card,-100
+d0981,2024-12-27,2024-12,Burger Joint,Eating out,out,Card,-50
+d0980,2024-12-25,2024-12,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0979,2024-12-25,2024-12,Scooter rides,Scooters,out,Card,-20
+d0978,2024-12-25,2024-12,Scooter rides,Scooters,out,Card,-20
+d0977,2024-12-22,2024-12,Scooter rides,Scooters,out,Card,-20
+d0976,2024-12-21,2024-12,Scooter rides,Scooters,out,Card,-20
+d0975,2024-12-21,2024-12,Sushi Bar,Eating out,out,Card,-50
+d0974,2024-12-20,2024-12,Year-end bonus · Example Ltd,Bonus,in,Bank,2000
+d0973,2024-12-19,2024-12,Neighborhood Grocer,Groceries,out,Card,-100
+d0972,2024-12-17,2024-12,Neighborhood Grocer,Groceries,out,Card,-100
+d0971,2024-12-12,2024-12,Clothing shop,Shopping,out,Card,-500
+d0970,2024-12-12,2024-12,Electricity · Power Co.,Bills,out,Bank,-300
+d0969,2024-12-12,2024-12,Scooter rides,Scooters,out,Card,-20
+d0968,2024-12-10,2024-12,Internet · Home Net,Bills,out,Bank,-100
+d0967,2024-12-10,2024-12,Phone · Mobile Co.,Bills,out,Bank,-50
+d0966,2024-12-09,2024-12,Corner Café,Eating out,out,Card,-100
+d0965,2024-12-09,2024-12,Scooter rides,Scooters,out,Card,-20
+d0964,2024-12-09,2024-12,Scooter rides,Scooters,out,Card,-20
+d0963,2024-12-07,2024-12,Pizza Place,Eating out,out,Card,-100
+d0962,2024-12-06,2024-12,ATM withdrawal,ATM cash,out,Bank,-200
+d0961,2024-12-06,2024-12,Scooter rides,Scooters,out,Card,-20
+d0960,2024-12-06,2024-12,Scooter rides,Scooters,out,Card,-20
+d0959,2024-12-05,2024-12,Fresh Market,Groceries,out,Card,-200
+d0958,2024-12-05,2024-12,Rent · Landlord,Rent,out,Bank,-3500
+d0957,2024-12-04,2024-12,Clothing shop,Shopping,out,Card,-500
+d0956,2024-12-04,2024-12,Sushi Bar,Eating out,out,Card,-150
+d0955,2024-12-04,2024-12,City Market,Groceries,out,Card,-100
+d0954,2024-12-04,2024-12,Scooter rides,Scooters,out,Card,-20
+d0953,2024-12-03,2024-12,Corner Café,Eating out,out,Card,-50
+d0952,2024-12-03,2024-12,Video streaming,Subscriptions,out,Card,-50
+d0951,2024-12-03,2024-12,Music app,Subscriptions,out,Card,-20
+d0950,2024-12-02,2024-12,Burger Joint,Eating out,out,Card,-100
+d0949,2024-12-01,2024-12,Fresh Market,Groceries,out,Card,-150
+d0948,2024-12-01,2024-12,Bus pass top-up,Public transport,out,Card,-100
+d0947,2024-12-01,2024-12,Salary · Example Ltd,Salary,in,Bank,9000
+d0946,2024-11-28,2024-11,ATM withdrawal,ATM cash,out,Bank,-500
+d0945,2024-11-28,2024-11,Burger Joint,Eating out,out,Card,-150
+d0944,2024-11-27,2024-11,Falafel Stand,Eating out,out,Card,-150
+d0943,2024-11-26,2024-11,Scooter rides,Scooters,out,Card,-20
+d0942,2024-11-26,2024-11,Scooter rides,Scooters,out,Card,-20
+d0941,2024-11-26,2024-11,Neighborhood Grocer,Groceries,out,Card,-150
+d0940,2024-11-25,2024-11,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0939,2024-11-25,2024-11,Pizza Place,Eating out,out,Card,-100
+d0938,2024-11-25,2024-11,Scooter rides,Scooters,out,Card,-20
+d0937,2024-11-21,2024-11,Fresh Market,Groceries,out,Card,-150
+d0936,2024-11-20,2024-11,Neighborhood Grocer,Groceries,out,Card,-200
+d0935,2024-11-20,2024-11,Scooter rides,Scooters,out,Card,-20
+d0934,2024-11-19,2024-11,Scooter rides,Scooters,out,Card,-20
+d0933,2024-11-18,2024-11,Scooter rides,Scooters,out,Card,-20
+d0932,2024-11-16,2024-11,Scooter rides,Scooters,out,Card,-20
+d0931,2024-11-15,2024-11,Scooter rides,Scooters,out,Card,-20
+d0930,2024-11-15,2024-11,Scooter rides,Scooters,out,Card,-20
+d0929,2024-11-14,2024-11,Pizza Place,Eating out,out,Card,-100
+d0928,2024-11-13,2024-11,Fresh Market,Groceries,out,Card,-150
+d0927,2024-11-13,2024-11,Scooter rides,Scooters,out,Card,-20
+d0926,2024-11-13,2024-11,Sushi Bar,Eating out,out,Card,-150
+d0925,2024-11-13,2024-11,Electronics shop,Shopping,out,Card,-200
+d0924,2024-11-12,2024-11,Neighborhood Grocer,Groceries,out,Card,-100
+d0923,2024-11-10,2024-11,Pizza Place,Eating out,out,Card,-150
+d0922,2024-11-10,2024-11,Corner Café,Eating out,out,Card,-100
+d0921,2024-11-10,2024-11,Fresh Market,Groceries,out,Card,-100
+d0920,2024-11-10,2024-11,Internet · Home Net,Bills,out,Bank,-100
+d0919,2024-11-10,2024-11,Phone · Mobile Co.,Bills,out,Bank,-50
+d0918,2024-11-09,2024-11,Falafel Stand,Eating out,out,Card,-100
+d0917,2024-11-09,2024-11,Scooter rides,Scooters,out,Card,-20
+d0916,2024-11-08,2024-11,Online store,Shopping,out,Card,-500
+d0915,2024-11-07,2024-11,Scooter rides,Scooters,out,Card,-20
+d0914,2024-11-06,2024-11,Scooter rides,Scooters,out,Card,-20
+d0913,2024-11-06,2024-11,Burger Joint,Eating out,out,Card,-50
+d0912,2024-11-05,2024-11,Rent · Landlord,Rent,out,Bank,-3500
+d0911,2024-11-03,2024-11,Music app,Subscriptions,out,Card,-20
+d0910,2024-11-03,2024-11,Video streaming,Subscriptions,out,Card,-50
+d0909,2024-11-01,2024-11,Pizza Place,Eating out,out,Card,-150
+d0908,2024-11-01,2024-11,Bus pass top-up,Public transport,out,Card,-100
+d0907,2024-11-01,2024-11,Salary · Example Ltd,Salary,in,Bank,9000
+d0906,2024-10-31,2024-10,Electronics shop,Shopping,out,Card,-500
+d0905,2024-10-31,2024-10,Pizza Place,Eating out,out,Card,-100
+d0904,2024-10-26,2024-10,Fresh Market,Groceries,out,Card,-200
+d0903,2024-10-25,2024-10,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0902,2024-10-25,2024-10,Sushi Bar,Eating out,out,Card,-150
+d0901,2024-10-25,2024-10,City Market,Groceries,out,Card,-100
+d0900,2024-10-24,2024-10,Scooter rides,Scooters,out,Card,-20
+d0899,2024-10-24,2024-10,Scooter rides,Scooters,out,Card,-20
+d0898,2024-10-24,2024-10,Scooter rides,Scooters,out,Card,-20
+d0897,2024-10-23,2024-10,Scooter rides,Scooters,out,Card,-20
+d0896,2024-10-23,2024-10,Fresh Market,Groceries,out,Card,-150
+d0895,2024-10-22,2024-10,City Market,Groceries,out,Card,-100
+d0894,2024-10-22,2024-10,Scooter rides,Scooters,out,Card,-20
+d0893,2024-10-22,2024-10,Scooter rides,Scooters,out,Card,-20
+d0892,2024-10-22,2024-10,Gift from family,From family,in,Bank,500
+d0891,2024-10-20,2024-10,Scooter rides,Scooters,out,Card,-20
+d0890,2024-10-19,2024-10,Sushi Bar,Eating out,out,Card,-100
+d0889,2024-10-16,2024-10,Electronics shop,Shopping,out,Card,-200
+d0888,2024-10-16,2024-10,Burger Joint,Eating out,out,Card,-150
+d0887,2024-10-16,2024-10,Scooter rides,Scooters,out,Card,-20
+d0886,2024-10-14,2024-10,Scooter rides,Scooters,out,Card,-20
+d0885,2024-10-14,2024-10,City Market,Groceries,out,Card,-200
+d0884,2024-10-13,2024-10,Scooter rides,Scooters,out,Card,-20
+d0883,2024-10-13,2024-10,Burger Joint,Eating out,out,Card,-150
+d0882,2024-10-12,2024-10,Scooter rides,Scooters,out,Card,-20
+d0881,2024-10-12,2024-10,Electricity · Power Co.,Bills,out,Bank,-300
+d0880,2024-10-11,2024-10,City Market,Groceries,out,Card,-150
+d0879,2024-10-10,2024-10,Internet · Home Net,Bills,out,Bank,-100
+d0878,2024-10-10,2024-10,Phone · Mobile Co.,Bills,out,Bank,-50
+d0877,2024-10-10,2024-10,Scooter rides,Scooters,out,Card,-20
+d0876,2024-10-07,2024-10,Scooter rides,Scooters,out,Card,-20
+d0875,2024-10-07,2024-10,Scooter rides,Scooters,out,Card,-20
+d0874,2024-10-06,2024-10,Fresh Market,Groceries,out,Card,-100
+d0873,2024-10-05,2024-10,Rent · Landlord,Rent,out,Bank,-3500
+d0872,2024-10-04,2024-10,Corner Café,Eating out,out,Card,-150
+d0871,2024-10-03,2024-10,Corner Café,Eating out,out,Card,-150
+d0870,2024-10-03,2024-10,Video streaming,Subscriptions,out,Card,-50
+d0869,2024-10-03,2024-10,Music app,Subscriptions,out,Card,-20
+d0868,2024-10-02,2024-10,Corner Café,Eating out,out,Card,-100
+d0867,2024-10-02,2024-10,Scooter rides,Scooters,out,Card,-20
+d0866,2024-10-01,2024-10,Fresh Market,Groceries,out,Card,-100
+d0865,2024-10-01,2024-10,Salary · Example Ltd,Salary,in,Bank,9000
+d0864,2024-10-01,2024-10,Bus pass top-up,Public transport,out,Card,-100
+d0863,2024-09-30,2024-09,ATM withdrawal,ATM cash,out,Bank,-200
+d0862,2024-09-29,2024-09,City Market,Groceries,out,Card,-200
+d0861,2024-09-28,2024-09,Corner Café,Eating out,out,Card,-50
+d0860,2024-09-27,2024-09,Fresh Market,Groceries,out,Card,-200
+d0859,2024-09-27,2024-09,Falafel Stand,Eating out,out,Card,-100
+d0858,2024-09-27,2024-09,Scooter rides,Scooters,out,Card,-20
+d0857,2024-09-25,2024-09,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0856,2024-09-25,2024-09,Scooter rides,Scooters,out,Card,-20
+d0855,2024-09-23,2024-09,Burger Joint,Eating out,out,Card,-100
+d0854,2024-09-23,2024-09,Scooter rides,Scooters,out,Card,-20
+d0853,2024-09-22,2024-09,Falafel Stand,Eating out,out,Card,-100
+d0852,2024-09-22,2024-09,Corner Café,Eating out,out,Card,-50
+d0851,2024-09-21,2024-09,Falafel Stand,Eating out,out,Card,-150
+d0850,2024-09-21,2024-09,Corner Café,Eating out,out,Card,-50
+d0849,2024-09-21,2024-09,ATM withdrawal,ATM cash,out,Bank,-200
+d0848,2024-09-20,2024-09,Electronics shop,Shopping,out,Card,-100
+d0847,2024-09-19,2024-09,Scooter rides,Scooters,out,Card,-20
+d0846,2024-09-17,2024-09,City Market,Groceries,out,Card,-200
+d0845,2024-09-17,2024-09,Scooter rides,Scooters,out,Card,-20
+d0844,2024-09-16,2024-09,Pizza Place,Eating out,out,Card,-100
+d0843,2024-09-16,2024-09,Neighborhood Grocer,Groceries,out,Card,-100
+d0842,2024-09-15,2024-09,Pizza Place,Eating out,out,Card,-150
+d0841,2024-09-14,2024-09,Scooter rides,Scooters,out,Card,-20
+d0840,2024-09-13,2024-09,Scooter rides,Scooters,out,Card,-20
+d0839,2024-09-12,2024-09,Sushi Bar,Eating out,out,Card,-100
+d0838,2024-09-12,2024-09,Scooter rides,Scooters,out,Card,-20
+d0837,2024-09-11,2024-09,Scooter rides,Scooters,out,Card,-20
+d0836,2024-09-11,2024-09,Scooter rides,Scooters,out,Card,-20
+d0835,2024-09-11,2024-09,Scooter rides,Scooters,out,Card,-20
+d0834,2024-09-11,2024-09,Scooter rides,Scooters,out,Card,-20
+d0833,2024-09-10,2024-09,Online store,Shopping,out,Card,-100
+d0832,2024-09-10,2024-09,Internet · Home Net,Bills,out,Bank,-100
+d0831,2024-09-10,2024-09,Phone · Mobile Co.,Bills,out,Bank,-50
+d0830,2024-09-10,2024-09,Scooter rides,Scooters,out,Card,-20
+d0829,2024-09-08,2024-09,City Market,Groceries,out,Card,-150
+d0828,2024-09-07,2024-09,Scooter rides,Scooters,out,Card,-20
+d0827,2024-09-07,2024-09,Scooter rides,Scooters,out,Card,-20
+d0826,2024-09-06,2024-09,Burger Joint,Eating out,out,Card,-150
+d0825,2024-09-05,2024-09,Rent · Landlord,Rent,out,Bank,-3500
+d0824,2024-09-04,2024-09,Fresh Market,Groceries,out,Card,-150
+d0823,2024-09-03,2024-09,Video streaming,Subscriptions,out,Card,-50
+d0822,2024-09-03,2024-09,Music app,Subscriptions,out,Card,-20
+d0821,2024-09-02,2024-09,Online store,Shopping,out,Card,-500
+d0820,2024-09-02,2024-09,Scooter rides,Scooters,out,Card,-20
+d0819,2024-09-01,2024-09,Salary · Example Ltd,Salary,in,Bank,9000
+d0818,2024-09-01,2024-09,Bus pass top-up,Public transport,out,Card,-100
+d0817,2024-08-30,2024-08,City Market,Groceries,out,Card,-200
+d0816,2024-08-29,2024-08,Scooter rides,Scooters,out,Card,-20
+d0815,2024-08-28,2024-08,Scooter rides,Scooters,out,Card,-20
+d0814,2024-08-26,2024-08,Pizza Place,Eating out,out,Card,-100
+d0813,2024-08-26,2024-08,Scooter rides,Scooters,out,Card,-20
+d0812,2024-08-26,2024-08,Scooter rides,Scooters,out,Card,-20
+d0811,2024-08-25,2024-08,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0810,2024-08-25,2024-08,Scooter rides,Scooters,out,Card,-20
+d0809,2024-08-24,2024-08,Fresh Market,Groceries,out,Card,-200
+d0808,2024-08-23,2024-08,Sushi Bar,Eating out,out,Card,-150
+d0807,2024-08-22,2024-08,Electronics shop,Shopping,out,Card,-300
+d0806,2024-08-22,2024-08,Sushi Bar,Eating out,out,Card,-100
+d0805,2024-08-21,2024-08,Neighborhood Grocer,Groceries,out,Card,-200
+d0804,2024-08-21,2024-08,Scooter rides,Scooters,out,Card,-20
+d0803,2024-08-16,2024-08,Burger Joint,Eating out,out,Card,-150
+d0802,2024-08-14,2024-08,Scooter rides,Scooters,out,Card,-20
+d0801,2024-08-12,2024-08,Electricity · Power Co.,Bills,out,Bank,-300
+d0800,2024-08-12,2024-08,Neighborhood Grocer,Groceries,out,Card,-150
+d0799,2024-08-12,2024-08,Scooter rides,Scooters,out,Card,-20
+d0798,2024-08-11,2024-08,Scooter rides,Scooters,out,Card,-20
+d0797,2024-08-10,2024-08,Burger Joint,Eating out,out,Card,-150
+d0796,2024-08-10,2024-08,Internet · Home Net,Bills,out,Bank,-100
+d0795,2024-08-10,2024-08,Phone · Mobile Co.,Bills,out,Bank,-50
+d0794,2024-08-09,2024-08,Sushi Bar,Eating out,out,Card,-150
+d0793,2024-08-09,2024-08,Scooter rides,Scooters,out,Card,-20
+d0792,2024-08-08,2024-08,Fresh Market,Groceries,out,Card,-150
+d0791,2024-08-08,2024-08,Pizza Place,Eating out,out,Card,-100
+d0790,2024-08-07,2024-08,City Market,Groceries,out,Card,-100
+d0789,2024-08-07,2024-08,Scooter rides,Scooters,out,Card,-20
+d0788,2024-08-06,2024-08,Sushi Bar,Eating out,out,Card,-50
+d0787,2024-08-05,2024-08,Sushi Bar,Eating out,out,Card,-100
+d0786,2024-08-05,2024-08,Scooter rides,Scooters,out,Card,-20
+d0785,2024-08-05,2024-08,Rent · Landlord,Rent,out,Bank,-3500
+d0784,2024-08-04,2024-08,City Market,Groceries,out,Card,-150
+d0783,2024-08-04,2024-08,Gift from family,From family,in,Bank,500
+d0782,2024-08-03,2024-08,Video streaming,Subscriptions,out,Card,-50
+d0781,2024-08-03,2024-08,Music app,Subscriptions,out,Card,-20
+d0780,2024-08-02,2024-08,Scooter rides,Scooters,out,Card,-20
+d0779,2024-08-01,2024-08,Bus pass top-up,Public transport,out,Card,-100
+d0778,2024-08-01,2024-08,Salary · Example Ltd,Salary,in,Bank,9000
+d0777,2024-07-27,2024-07,Scooter rides,Scooters,out,Card,-20
+d0776,2024-07-25,2024-07,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0775,2024-07-25,2024-07,Scooter rides,Scooters,out,Card,-20
+d0774,2024-07-24,2024-07,Sushi Bar,Eating out,out,Card,-50
+d0773,2024-07-24,2024-07,Pizza Place,Eating out,out,Card,-100
+d0772,2024-07-24,2024-07,Fresh Market,Groceries,out,Card,-150
+d0771,2024-07-23,2024-07,Burger Joint,Eating out,out,Card,-150
+d0770,2024-07-23,2024-07,Pizza Place,Eating out,out,Card,-150
+d0769,2024-07-23,2024-07,Scooter rides,Scooters,out,Card,-20
+d0768,2024-07-22,2024-07,Pizza Place,Eating out,out,Card,-150
+d0767,2024-07-22,2024-07,Burger Joint,Eating out,out,Card,-50
+d0766,2024-07-21,2024-07,City Market,Groceries,out,Card,-150
+d0765,2024-07-21,2024-07,Falafel Stand,Eating out,out,Card,-100
+d0764,2024-07-21,2024-07,Scooter rides,Scooters,out,Card,-20
+d0763,2024-07-20,2024-07,Sushi Bar,Eating out,out,Card,-50
+d0762,2024-07-17,2024-07,Scooter rides,Scooters,out,Card,-20
+d0761,2024-07-15,2024-07,Scooter rides,Scooters,out,Card,-20
+d0760,2024-07-14,2024-07,Scooter rides,Scooters,out,Card,-20
+d0759,2024-07-13,2024-07,Electronics shop,Shopping,out,Card,-100
+d0758,2024-07-12,2024-07,ATM withdrawal,ATM cash,out,Bank,-500
+d0757,2024-07-10,2024-07,Internet · Home Net,Bills,out,Bank,-100
+d0756,2024-07-10,2024-07,Phone · Mobile Co.,Bills,out,Bank,-50
+d0755,2024-07-09,2024-07,Scooter rides,Scooters,out,Card,-20
+d0754,2024-07-09,2024-07,Scooter rides,Scooters,out,Card,-20
+d0753,2024-07-09,2024-07,ATM withdrawal,ATM cash,out,Bank,-500
+d0752,2024-07-09,2024-07,City Market,Groceries,out,Card,-100
+d0751,2024-07-08,2024-07,Scooter rides,Scooters,out,Card,-20
+d0750,2024-07-07,2024-07,Fresh Market,Groceries,out,Card,-150
+d0749,2024-07-06,2024-07,Scooter rides,Scooters,out,Card,-20
+d0748,2024-07-05,2024-07,Rent · Landlord,Rent,out,Bank,-3500
+d0747,2024-07-05,2024-07,City Market,Groceries,out,Card,-150
+d0746,2024-07-04,2024-07,City Market,Groceries,out,Card,-200
+d0745,2024-07-04,2024-07,City Market,Groceries,out,Card,-150
+d0744,2024-07-04,2024-07,Sushi Bar,Eating out,out,Card,-100
+d0743,2024-07-04,2024-07,Scooter rides,Scooters,out,Card,-20
+d0742,2024-07-03,2024-07,Video streaming,Subscriptions,out,Card,-50
+d0741,2024-07-03,2024-07,Music app,Subscriptions,out,Card,-20
+d0740,2024-07-02,2024-07,City Market,Groceries,out,Card,-150
+d0739,2024-07-02,2024-07,Scooter rides,Scooters,out,Card,-20
+d0738,2024-07-01,2024-07,Bus pass top-up,Public transport,out,Card,-100
+d0737,2024-07-01,2024-07,Pizza Place,Eating out,out,Card,-100
+d0736,2024-07-01,2024-07,Salary · Example Ltd,Salary,in,Bank,9000
+d0735,2024-06-30,2024-06,Scooter rides,Scooters,out,Card,-20
+d0734,2024-06-29,2024-06,Scooter rides,Scooters,out,Card,-20
+d0733,2024-06-28,2024-06,Scooter rides,Scooters,out,Card,-20
+d0732,2024-06-27,2024-06,Fresh Market,Groceries,out,Card,-100
+d0731,2024-06-26,2024-06,Scooter rides,Scooters,out,Card,-20
+d0730,2024-06-25,2024-06,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0729,2024-06-25,2024-06,City Market,Groceries,out,Card,-150
+d0728,2024-06-24,2024-06,City Market,Groceries,out,Card,-150
+d0727,2024-06-23,2024-06,City Market,Groceries,out,Card,-200
+d0726,2024-06-23,2024-06,Scooter rides,Scooters,out,Card,-20
+d0725,2024-06-21,2024-06,Scooter rides,Scooters,out,Card,-20
+d0724,2024-06-19,2024-06,Falafel Stand,Eating out,out,Card,-150
+d0723,2024-06-19,2024-06,Scooter rides,Scooters,out,Card,-20
+d0722,2024-06-18,2024-06,Neighborhood Grocer,Groceries,out,Card,-100
+d0721,2024-06-17,2024-06,ATM withdrawal,ATM cash,out,Bank,-200
+d0720,2024-06-16,2024-06,Pizza Place,Eating out,out,Card,-100
+d0719,2024-06-16,2024-06,Neighborhood Grocer,Groceries,out,Card,-100
+d0718,2024-06-14,2024-06,City Market,Groceries,out,Card,-200
+d0717,2024-06-14,2024-06,Scooter rides,Scooters,out,Card,-20
+d0716,2024-06-14,2024-06,Scooter rides,Scooters,out,Card,-20
+d0715,2024-06-12,2024-06,Electricity · Power Co.,Bills,out,Bank,-300
+d0714,2024-06-12,2024-06,Sushi Bar,Eating out,out,Card,-50
+d0713,2024-06-12,2024-06,Scooter rides,Scooters,out,Card,-20
+d0712,2024-06-10,2024-06,Phone · Mobile Co.,Bills,out,Bank,-50
+d0711,2024-06-10,2024-06,Pizza Place,Eating out,out,Card,-150
+d0710,2024-06-10,2024-06,Internet · Home Net,Bills,out,Bank,-100
+d0709,2024-06-10,2024-06,Corner Café,Eating out,out,Card,-50
+d0708,2024-06-09,2024-06,Scooter rides,Scooters,out,Card,-20
+d0707,2024-06-09,2024-06,Burger Joint,Eating out,out,Card,-50
+d0706,2024-06-08,2024-06,Electronics shop,Shopping,out,Card,-300
+d0705,2024-06-08,2024-06,ATM withdrawal,ATM cash,out,Bank,-200
+d0704,2024-06-08,2024-06,Sushi Bar,Eating out,out,Card,-50
+d0703,2024-06-07,2024-06,Scooter rides,Scooters,out,Card,-20
+d0702,2024-06-06,2024-06,Scooter rides,Scooters,out,Card,-20
+d0701,2024-06-05,2024-06,Rent · Landlord,Rent,out,Bank,-3500
+d0700,2024-06-05,2024-06,Scooter rides,Scooters,out,Card,-20
+d0699,2024-06-05,2024-06,Scooter rides,Scooters,out,Card,-20
+d0698,2024-06-04,2024-06,Corner Café,Eating out,out,Card,-100
+d0697,2024-06-03,2024-06,Video streaming,Subscriptions,out,Card,-50
+d0696,2024-06-03,2024-06,Music app,Subscriptions,out,Card,-20
+d0695,2024-06-01,2024-06,Bus pass top-up,Public transport,out,Card,-100
+d0694,2024-06-01,2024-06,Salary · Example Ltd,Salary,in,Bank,9000
+d0693,2024-06-01,2024-06,Fresh Market,Groceries,out,Card,-200
+d0692,2024-05-31,2024-05,Pizza Place,Eating out,out,Card,-150
+d0691,2024-05-31,2024-05,City Market,Groceries,out,Card,-200
+d0690,2024-05-30,2024-05,ATM withdrawal,ATM cash,out,Bank,-500
+d0689,2024-05-30,2024-05,Neighborhood Grocer,Groceries,out,Card,-200
+d0688,2024-05-30,2024-05,Clothing shop,Shopping,out,Card,-100
+d0687,2024-05-30,2024-05,Pizza Place,Eating out,out,Card,-100
+d0686,2024-05-30,2024-05,Fresh Market,Groceries,out,Card,-100
+d0685,2024-05-29,2024-05,Fresh Market,Groceries,out,Card,-150
+d0684,2024-05-29,2024-05,Falafel Stand,Eating out,out,Card,-50
+d0683,2024-05-28,2024-05,Scooter rides,Scooters,out,Card,-20
+d0682,2024-05-27,2024-05,Neighborhood Grocer,Groceries,out,Card,-100
+d0681,2024-05-27,2024-05,Scooter rides,Scooters,out,Card,-20
+d0680,2024-05-25,2024-05,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0679,2024-05-24,2024-05,Scooter rides,Scooters,out,Card,-20
+d0678,2024-05-20,2024-05,City Market,Groceries,out,Card,-150
+d0677,2024-05-16,2024-05,Scooter rides,Scooters,out,Card,-20
+d0676,2024-05-16,2024-05,Burger Joint,Eating out,out,Card,-150
+d0675,2024-05-13,2024-05,Burger Joint,Eating out,out,Card,-150
+d0674,2024-05-11,2024-05,Scooter rides,Scooters,out,Card,-20
+d0673,2024-05-10,2024-05,Internet · Home Net,Bills,out,Bank,-100
+d0672,2024-05-10,2024-05,Phone · Mobile Co.,Bills,out,Bank,-50
+d0671,2024-05-07,2024-05,Scooter rides,Scooters,out,Card,-20
+d0670,2024-05-05,2024-05,Rent · Landlord,Rent,out,Bank,-3500
+d0669,2024-05-05,2024-05,Corner Café,Eating out,out,Card,-50
+d0668,2024-05-05,2024-05,Corner Café,Eating out,out,Card,-50
+d0667,2024-05-05,2024-05,Scooter rides,Scooters,out,Card,-20
+d0666,2024-05-04,2024-05,Scooter rides,Scooters,out,Card,-20
+d0665,2024-05-04,2024-05,Scooter rides,Scooters,out,Card,-20
+d0664,2024-05-04,2024-05,Corner Café,Eating out,out,Card,-150
+d0663,2024-05-03,2024-05,Music app,Subscriptions,out,Card,-20
+d0662,2024-05-03,2024-05,Video streaming,Subscriptions,out,Card,-50
+d0661,2024-05-03,2024-05,Burger Joint,Eating out,out,Card,-50
+d0660,2024-05-02,2024-05,Scooter rides,Scooters,out,Card,-20
+d0659,2024-05-01,2024-05,Clothing shop,Shopping,out,Card,-300
+d0658,2024-05-01,2024-05,Bus pass top-up,Public transport,out,Card,-100
+d0657,2024-05-01,2024-05,Corner Café,Eating out,out,Card,-100
+d0656,2024-05-01,2024-05,Salary · Example Ltd,Salary,in,Bank,9000
+d0655,2024-04-30,2024-04,City Market,Groceries,out,Card,-200
+d0654,2024-04-29,2024-04,Electronics shop,Shopping,out,Card,-100
+d0653,2024-04-29,2024-04,Corner Café,Eating out,out,Card,-50
+d0652,2024-04-28,2024-04,Neighborhood Grocer,Groceries,out,Card,-150
+d0651,2024-04-28,2024-04,Scooter rides,Scooters,out,Card,-20
+d0650,2024-04-26,2024-04,Falafel Stand,Eating out,out,Card,-50
+d0649,2024-04-25,2024-04,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0648,2024-04-23,2024-04,Scooter rides,Scooters,out,Card,-20
+d0647,2024-04-21,2024-04,Online store,Shopping,out,Card,-100
+d0646,2024-04-20,2024-04,Burger Joint,Eating out,out,Card,-150
+d0645,2024-04-20,2024-04,Burger Joint,Eating out,out,Card,-100
+d0644,2024-04-19,2024-04,City Market,Groceries,out,Card,-100
+d0643,2024-04-17,2024-04,Scooter rides,Scooters,out,Card,-20
+d0642,2024-04-17,2024-04,Scooter rides,Scooters,out,Card,-20
+d0641,2024-04-16,2024-04,Pizza Place,Eating out,out,Card,-50
+d0640,2024-04-15,2024-04,Tax refund,Tax refund,in,Bank,1000
+d0639,2024-04-13,2024-04,Pizza Place,Eating out,out,Card,-50
+d0638,2024-04-12,2024-04,Electricity · Power Co.,Bills,out,Bank,-300
+d0637,2024-04-12,2024-04,Neighborhood Grocer,Groceries,out,Card,-150
+d0636,2024-04-11,2024-04,Scooter rides,Scooters,out,Card,-20
+d0635,2024-04-10,2024-04,Internet · Home Net,Bills,out,Bank,-100
+d0634,2024-04-10,2024-04,Scooter rides,Scooters,out,Card,-20
+d0633,2024-04-10,2024-04,Phone · Mobile Co.,Bills,out,Bank,-50
+d0632,2024-04-09,2024-04,Scooter rides,Scooters,out,Card,-20
+d0631,2024-04-08,2024-04,Scooter rides,Scooters,out,Card,-20
+d0630,2024-04-08,2024-04,Scooter rides,Scooters,out,Card,-20
+d0629,2024-04-06,2024-04,City Market,Groceries,out,Card,-100
+d0628,2024-04-06,2024-04,Corner Café,Eating out,out,Card,-50
+d0627,2024-04-05,2024-04,Rent · Landlord,Rent,out,Bank,-3500
+d0626,2024-04-05,2024-04,Fresh Market,Groceries,out,Card,-100
+d0625,2024-04-05,2024-04,Scooter rides,Scooters,out,Card,-20
+d0624,2024-04-03,2024-04,Neighborhood Grocer,Groceries,out,Card,-100
+d0623,2024-04-03,2024-04,Video streaming,Subscriptions,out,Card,-50
+d0622,2024-04-03,2024-04,Scooter rides,Scooters,out,Card,-20
+d0621,2024-04-03,2024-04,Music app,Subscriptions,out,Card,-20
+d0620,2024-04-02,2024-04,Burger Joint,Eating out,out,Card,-100
+d0619,2024-04-02,2024-04,Burger Joint,Eating out,out,Card,-50
+d0618,2024-04-01,2024-04,Salary · Example Ltd,Salary,in,Bank,9000
+d0617,2024-04-01,2024-04,Bus pass top-up,Public transport,out,Card,-100
+d0616,2024-04-01,2024-04,Burger Joint,Eating out,out,Card,-150
+d0615,2024-03-31,2024-03,City Market,Groceries,out,Card,-200
+d0614,2024-03-31,2024-03,Sushi Bar,Eating out,out,Card,-50
+d0613,2024-03-31,2024-03,Scooter rides,Scooters,out,Card,-20
+d0612,2024-03-26,2024-03,Neighborhood Grocer,Groceries,out,Card,-100
+d0611,2024-03-26,2024-03,Falafel Stand,Eating out,out,Card,-50
+d0610,2024-03-25,2024-03,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0609,2024-03-25,2024-03,Fresh Market,Groceries,out,Card,-100
+d0608,2024-03-25,2024-03,Burger Joint,Eating out,out,Card,-50
+d0607,2024-03-24,2024-03,Scooter rides,Scooters,out,Card,-20
+d0606,2024-03-21,2024-03,Falafel Stand,Eating out,out,Card,-150
+d0605,2024-03-21,2024-03,Scooter rides,Scooters,out,Card,-20
+d0604,2024-03-19,2024-03,Scooter rides,Scooters,out,Card,-20
+d0603,2024-03-19,2024-03,Falafel Stand,Eating out,out,Card,-150
+d0602,2024-03-17,2024-03,Pizza Place,Eating out,out,Card,-100
+d0601,2024-03-17,2024-03,ATM withdrawal,ATM cash,out,Bank,-200
+d0600,2024-03-14,2024-03,Scooter rides,Scooters,out,Card,-20
+d0599,2024-03-12,2024-03,Corner Café,Eating out,out,Card,-50
+d0598,2024-03-12,2024-03,ATM withdrawal,ATM cash,out,Bank,-200
+d0597,2024-03-11,2024-03,Neighborhood Grocer,Groceries,out,Card,-150
+d0596,2024-03-11,2024-03,Sushi Bar,Eating out,out,Card,-50
+d0595,2024-03-11,2024-03,Scooter rides,Scooters,out,Card,-20
+d0594,2024-03-10,2024-03,Internet · Home Net,Bills,out,Bank,-100
+d0593,2024-03-10,2024-03,Phone · Mobile Co.,Bills,out,Bank,-50
+d0592,2024-03-10,2024-03,Scooter rides,Scooters,out,Card,-20
+d0591,2024-03-09,2024-03,Scooter rides,Scooters,out,Card,-20
+d0590,2024-03-09,2024-03,Scooter rides,Scooters,out,Card,-20
+d0589,2024-03-08,2024-03,Scooter rides,Scooters,out,Card,-20
+d0588,2024-03-06,2024-03,Sushi Bar,Eating out,out,Card,-50
+d0587,2024-03-05,2024-03,Falafel Stand,Eating out,out,Card,-150
+d0586,2024-03-05,2024-03,Scooter rides,Scooters,out,Card,-20
+d0585,2024-03-05,2024-03,Scooter rides,Scooters,out,Card,-20
+d0584,2024-03-05,2024-03,Rent · Landlord,Rent,out,Bank,-3500
+d0583,2024-03-05,2024-03,Fresh Market,Groceries,out,Card,-150
+d0582,2024-03-04,2024-03,Gift from family,From family,in,Bank,200
+d0581,2024-03-03,2024-03,Fresh Market,Groceries,out,Card,-200
+d0580,2024-03-03,2024-03,Video streaming,Subscriptions,out,Card,-50
+d0579,2024-03-03,2024-03,Music app,Subscriptions,out,Card,-20
+d0578,2024-03-01,2024-03,Online store,Shopping,out,Card,-100
+d0577,2024-03-01,2024-03,Bus pass top-up,Public transport,out,Card,-100
+d0576,2024-03-01,2024-03,Salary · Example Ltd,Salary,in,Bank,9000
+d0575,2024-02-29,2024-02,Burger Joint,Eating out,out,Card,-150
+d0574,2024-02-26,2024-02,City Market,Groceries,out,Card,-200
+d0573,2024-02-26,2024-02,Scooter rides,Scooters,out,Card,-20
+d0572,2024-02-25,2024-02,Electronics shop,Shopping,out,Card,-500
+d0571,2024-02-25,2024-02,Scooter rides,Scooters,out,Card,-20
+d0570,2024-02-25,2024-02,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0569,2024-02-24,2024-02,Scooter rides,Scooters,out,Card,-20
+d0568,2024-02-24,2024-02,Pizza Place,Eating out,out,Card,-50
+d0567,2024-02-23,2024-02,City Market,Groceries,out,Card,-200
+d0566,2024-02-20,2024-02,Neighborhood Grocer,Groceries,out,Card,-150
+d0565,2024-02-20,2024-02,Pizza Place,Eating out,out,Card,-100
+d0564,2024-02-18,2024-02,Falafel Stand,Eating out,out,Card,-150
+d0563,2024-02-17,2024-02,Scooter rides,Scooters,out,Card,-20
+d0562,2024-02-16,2024-02,Fresh Market,Groceries,out,Card,-100
+d0561,2024-02-15,2024-02,Scooter rides,Scooters,out,Card,-20
+d0560,2024-02-13,2024-02,Burger Joint,Eating out,out,Card,-100
+d0559,2024-02-13,2024-02,Fresh Market,Groceries,out,Card,-100
+d0558,2024-02-13,2024-02,Scooter rides,Scooters,out,Card,-20
+d0557,2024-02-12,2024-02,Electricity · Power Co.,Bills,out,Bank,-300
+d0556,2024-02-12,2024-02,Scooter rides,Scooters,out,Card,-20
+d0555,2024-02-11,2024-02,Gift from family,From family,in,Bank,200
+d0554,2024-02-10,2024-02,Phone · Mobile Co.,Bills,out,Bank,-50
+d0553,2024-02-10,2024-02,Scooter rides,Scooters,out,Card,-20
+d0552,2024-02-10,2024-02,City Market,Groceries,out,Card,-100
+d0551,2024-02-10,2024-02,Internet · Home Net,Bills,out,Bank,-100
+d0550,2024-02-06,2024-02,Sushi Bar,Eating out,out,Card,-100
+d0549,2024-02-06,2024-02,City Market,Groceries,out,Card,-100
+d0548,2024-02-06,2024-02,Burger Joint,Eating out,out,Card,-50
+d0547,2024-02-05,2024-02,Rent · Landlord,Rent,out,Bank,-3500
+d0546,2024-02-04,2024-02,Pizza Place,Eating out,out,Card,-50
+d0545,2024-02-04,2024-02,Scooter rides,Scooters,out,Card,-20
+d0544,2024-02-03,2024-02,Music app,Subscriptions,out,Card,-20
+d0543,2024-02-03,2024-02,Neighborhood Grocer,Groceries,out,Card,-200
+d0542,2024-02-03,2024-02,Video streaming,Subscriptions,out,Card,-50
+d0541,2024-02-03,2024-02,Scooter rides,Scooters,out,Card,-20
+d0540,2024-02-02,2024-02,Falafel Stand,Eating out,out,Card,-50
+d0539,2024-02-02,2024-02,Scooter rides,Scooters,out,Card,-20
+d0538,2024-02-02,2024-02,Sushi Bar,Eating out,out,Card,-150
+d0537,2024-02-01,2024-02,Bus pass top-up,Public transport,out,Card,-100
+d0536,2024-02-01,2024-02,Scooter rides,Scooters,out,Card,-20
+d0535,2024-02-01,2024-02,Salary · Example Ltd,Salary,in,Bank,9000
+d0534,2024-01-31,2024-01,Scooter rides,Scooters,out,Card,-20
+d0533,2024-01-31,2024-01,Scooter rides,Scooters,out,Card,-20
+d0532,2024-01-29,2024-01,Scooter rides,Scooters,out,Card,-20
+d0531,2024-01-27,2024-01,Falafel Stand,Eating out,out,Card,-100
+d0530,2024-01-25,2024-01,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0529,2024-01-25,2024-01,Neighborhood Grocer,Groceries,out,Card,-100
+d0528,2024-01-24,2024-01,Scooter rides,Scooters,out,Card,-20
+d0527,2024-01-24,2024-01,Pizza Place,Eating out,out,Card,-50
+d0526,2024-01-24,2024-01,Scooter rides,Scooters,out,Card,-20
+d0525,2024-01-23,2024-01,Neighborhood Grocer,Groceries,out,Card,-150
+d0524,2024-01-22,2024-01,Falafel Stand,Eating out,out,Card,-50
+d0523,2024-01-21,2024-01,Scooter rides,Scooters,out,Card,-20
+d0522,2024-01-21,2024-01,Scooter rides,Scooters,out,Card,-20
+d0521,2024-01-20,2024-01,Falafel Stand,Eating out,out,Card,-50
+d0520,2024-01-20,2024-01,Gift from family,From family,in,Bank,200
+d0519,2024-01-18,2024-01,Sushi Bar,Eating out,out,Card,-50
+d0518,2024-01-15,2024-01,Online store,Shopping,out,Card,-200
+d0517,2024-01-15,2024-01,Neighborhood Grocer,Groceries,out,Card,-150
+d0516,2024-01-14,2024-01,Scooter rides,Scooters,out,Card,-20
+d0515,2024-01-13,2024-01,Scooter rides,Scooters,out,Card,-20
+d0514,2024-01-12,2024-01,Neighborhood Grocer,Groceries,out,Card,-100
+d0513,2024-01-10,2024-01,Internet · Home Net,Bills,out,Bank,-100
+d0512,2024-01-10,2024-01,Scooter rides,Scooters,out,Card,-20
+d0511,2024-01-10,2024-01,Phone · Mobile Co.,Bills,out,Bank,-50
+d0510,2024-01-09,2024-01,Corner Café,Eating out,out,Card,-150
+d0509,2024-01-07,2024-01,City Market,Groceries,out,Card,-150
+d0508,2024-01-07,2024-01,Corner Café,Eating out,out,Card,-100
+d0507,2024-01-05,2024-01,Rent · Landlord,Rent,out,Bank,-3500
+d0506,2024-01-05,2024-01,Corner Café,Eating out,out,Card,-50
+d0505,2024-01-04,2024-01,Scooter rides,Scooters,out,Card,-20
+d0504,2024-01-04,2024-01,Scooter rides,Scooters,out,Card,-20
+d0503,2024-01-04,2024-01,Neighborhood Grocer,Groceries,out,Card,-200
+d0502,2024-01-03,2024-01,ATM withdrawal,ATM cash,out,Bank,-200
+d0501,2024-01-03,2024-01,Video streaming,Subscriptions,out,Card,-50
+d0500,2024-01-03,2024-01,Music app,Subscriptions,out,Card,-20
+d0499,2024-01-01,2024-01,Online store,Shopping,out,Card,-200
+d0498,2024-01-01,2024-01,Bus pass top-up,Public transport,out,Card,-100
+d0497,2024-01-01,2024-01,Salary · Example Ltd,Salary,in,Bank,9000
+d0496,2023-12-30,2023-12,Clothing shop,Shopping,out,Card,-100
+d0495,2023-12-29,2023-12,Corner Café,Eating out,out,Card,-50
+d0494,2023-12-28,2023-12,Fresh Market,Groceries,out,Card,-150
+d0493,2023-12-25,2023-12,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0492,2023-12-25,2023-12,City Market,Groceries,out,Card,-100
+d0491,2023-12-25,2023-12,Scooter rides,Scooters,out,Card,-20
+d0490,2023-12-20,2023-12,Scooter rides,Scooters,out,Card,-20
+d0489,2023-12-20,2023-12,Year-end bonus · Example Ltd,Bonus,in,Bank,2000
+d0488,2023-12-20,2023-12,City Market,Groceries,out,Card,-150
+d0487,2023-12-17,2023-12,City Market,Groceries,out,Card,-150
+d0486,2023-12-16,2023-12,Online store,Shopping,out,Card,-500
+d0485,2023-12-16,2023-12,Burger Joint,Eating out,out,Card,-150
+d0484,2023-12-16,2023-12,Sushi Bar,Eating out,out,Card,-50
+d0483,2023-12-15,2023-12,Scooter rides,Scooters,out,Card,-20
+d0482,2023-12-14,2023-12,City Market,Groceries,out,Card,-200
+d0481,2023-12-12,2023-12,Electricity · Power Co.,Bills,out,Bank,-300
+d0480,2023-12-12,2023-12,Neighborhood Grocer,Groceries,out,Card,-100
+d0479,2023-12-11,2023-12,Pizza Place,Eating out,out,Card,-100
+d0478,2023-12-10,2023-12,Scooter rides,Scooters,out,Card,-20
+d0477,2023-12-10,2023-12,Internet · Home Net,Bills,out,Bank,-100
+d0476,2023-12-10,2023-12,Phone · Mobile Co.,Bills,out,Bank,-50
+d0475,2023-12-09,2023-12,Scooter rides,Scooters,out,Card,-20
+d0474,2023-12-09,2023-12,Scooter rides,Scooters,out,Card,-20
+d0473,2023-12-09,2023-12,Burger Joint,Eating out,out,Card,-50
+d0472,2023-12-08,2023-12,ATM withdrawal,ATM cash,out,Bank,-200
+d0471,2023-12-08,2023-12,Scooter rides,Scooters,out,Card,-20
+d0470,2023-12-08,2023-12,Scooter rides,Scooters,out,Card,-20
+d0469,2023-12-07,2023-12,Corner Café,Eating out,out,Card,-100
+d0468,2023-12-05,2023-12,Rent · Landlord,Rent,out,Bank,-3500
+d0467,2023-12-05,2023-12,Scooter rides,Scooters,out,Card,-20
+d0466,2023-12-03,2023-12,Video streaming,Subscriptions,out,Card,-50
+d0465,2023-12-03,2023-12,Scooter rides,Scooters,out,Card,-20
+d0464,2023-12-03,2023-12,Music app,Subscriptions,out,Card,-20
+d0463,2023-12-02,2023-12,Online store,Shopping,out,Card,-100
+d0462,2023-12-01,2023-12,Bus pass top-up,Public transport,out,Card,-100
+d0461,2023-12-01,2023-12,Salary · Example Ltd,Salary,in,Bank,9000
+d0460,2023-11-30,2023-11,Scooter rides,Scooters,out,Card,-20
+d0459,2023-11-27,2023-11,Fresh Market,Groceries,out,Card,-150
+d0458,2023-11-27,2023-11,Clothing shop,Shopping,out,Card,-200
+d0457,2023-11-26,2023-11,Clothing shop,Shopping,out,Card,-500
+d0456,2023-11-26,2023-11,Scooter rides,Scooters,out,Card,-20
+d0455,2023-11-25,2023-11,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0454,2023-11-24,2023-11,Scooter rides,Scooters,out,Card,-20
+d0453,2023-11-23,2023-11,Clothing shop,Shopping,out,Card,-500
+d0452,2023-11-22,2023-11,Neighborhood Grocer,Groceries,out,Card,-150
+d0451,2023-11-21,2023-11,Neighborhood Grocer,Groceries,out,Card,-200
+d0450,2023-11-20,2023-11,Scooter rides,Scooters,out,Card,-20
+d0449,2023-11-18,2023-11,Pizza Place,Eating out,out,Card,-100
+d0448,2023-11-16,2023-11,Pizza Place,Eating out,out,Card,-100
+d0447,2023-11-15,2023-11,City Market,Groceries,out,Card,-150
+d0446,2023-11-15,2023-11,City Market,Groceries,out,Card,-100
+d0445,2023-11-13,2023-11,Scooter rides,Scooters,out,Card,-20
+d0444,2023-11-12,2023-11,Sushi Bar,Eating out,out,Card,-50
+d0443,2023-11-12,2023-11,Scooter rides,Scooters,out,Card,-20
+d0442,2023-11-12,2023-11,Falafel Stand,Eating out,out,Card,-100
+d0441,2023-11-11,2023-11,Scooter rides,Scooters,out,Card,-20
+d0440,2023-11-11,2023-11,City Market,Groceries,out,Card,-100
+d0439,2023-11-10,2023-11,Internet · Home Net,Bills,out,Bank,-100
+d0438,2023-11-10,2023-11,Phone · Mobile Co.,Bills,out,Bank,-50
+d0437,2023-11-10,2023-11,Scooter rides,Scooters,out,Card,-20
+d0436,2023-11-07,2023-11,Scooter rides,Scooters,out,Card,-20
+d0435,2023-11-06,2023-11,ATM withdrawal,ATM cash,out,Bank,-500
+d0434,2023-11-05,2023-11,Rent · Landlord,Rent,out,Bank,-3500
+d0433,2023-11-03,2023-11,Music app,Subscriptions,out,Card,-20
+d0432,2023-11-03,2023-11,Corner Café,Eating out,out,Card,-150
+d0431,2023-11-03,2023-11,Falafel Stand,Eating out,out,Card,-50
+d0430,2023-11-03,2023-11,Video streaming,Subscriptions,out,Card,-50
+d0429,2023-11-03,2023-11,Scooter rides,Scooters,out,Card,-20
+d0428,2023-11-01,2023-11,Scooter rides,Scooters,out,Card,-20
+d0427,2023-11-01,2023-11,Salary · Example Ltd,Salary,in,Bank,9000
+d0426,2023-11-01,2023-11,Bus pass top-up,Public transport,out,Card,-100
+d0425,2023-11-01,2023-11,Scooter rides,Scooters,out,Card,-20
+d0424,2023-10-31,2023-10,Fresh Market,Groceries,out,Card,-200
+d0423,2023-10-31,2023-10,Scooter rides,Scooters,out,Card,-20
+d0422,2023-10-30,2023-10,Scooter rides,Scooters,out,Card,-20
+d0421,2023-10-29,2023-10,Electronics shop,Shopping,out,Card,-300
+d0420,2023-10-29,2023-10,Neighborhood Grocer,Groceries,out,Card,-200
+d0419,2023-10-29,2023-10,Scooter rides,Scooters,out,Card,-20
+d0418,2023-10-28,2023-10,Burger Joint,Eating out,out,Card,-50
+d0417,2023-10-26,2023-10,Falafel Stand,Eating out,out,Card,-150
+d0416,2023-10-25,2023-10,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0415,2023-10-25,2023-10,Scooter rides,Scooters,out,Card,-20
+d0414,2023-10-25,2023-10,Scooter rides,Scooters,out,Card,-20
+d0413,2023-10-23,2023-10,Falafel Stand,Eating out,out,Card,-150
+d0412,2023-10-22,2023-10,Sushi Bar,Eating out,out,Card,-100
+d0411,2023-10-21,2023-10,Fresh Market,Groceries,out,Card,-100
+d0410,2023-10-18,2023-10,City Market,Groceries,out,Card,-100
+d0409,2023-10-16,2023-10,Scooter rides,Scooters,out,Card,-20
+d0408,2023-10-15,2023-10,Scooter rides,Scooters,out,Card,-20
+d0407,2023-10-14,2023-10,Falafel Stand,Eating out,out,Card,-150
+d0406,2023-10-14,2023-10,City Market,Groceries,out,Card,-150
+d0405,2023-10-14,2023-10,Scooter rides,Scooters,out,Card,-20
+d0404,2023-10-13,2023-10,Pizza Place,Eating out,out,Card,-50
+d0403,2023-10-12,2023-10,Electricity · Power Co.,Bills,out,Bank,-300
+d0402,2023-10-10,2023-10,Internet · Home Net,Bills,out,Bank,-100
+d0401,2023-10-10,2023-10,Phone · Mobile Co.,Bills,out,Bank,-50
+d0400,2023-10-08,2023-10,Sushi Bar,Eating out,out,Card,-50
+d0399,2023-10-07,2023-10,Scooter rides,Scooters,out,Card,-20
+d0398,2023-10-06,2023-10,Clothing shop,Shopping,out,Card,-500
+d0397,2023-10-05,2023-10,Rent · Landlord,Rent,out,Bank,-3500
+d0396,2023-10-03,2023-10,Video streaming,Subscriptions,out,Card,-50
+d0395,2023-10-03,2023-10,Music app,Subscriptions,out,Card,-20
+d0394,2023-10-02,2023-10,Electronics shop,Shopping,out,Card,-100
+d0393,2023-10-01,2023-10,City Market,Groceries,out,Card,-150
+d0392,2023-10-01,2023-10,Bus pass top-up,Public transport,out,Card,-100
+d0391,2023-10-01,2023-10,Salary · Example Ltd,Salary,in,Bank,9000
+d0390,2023-09-30,2023-09,Scooter rides,Scooters,out,Card,-20
+d0389,2023-09-29,2023-09,City Market,Groceries,out,Card,-200
+d0388,2023-09-28,2023-09,Fresh Market,Groceries,out,Card,-150
+d0387,2023-09-27,2023-09,Scooter rides,Scooters,out,Card,-20
+d0386,2023-09-26,2023-09,Scooter rides,Scooters,out,Card,-20
+d0385,2023-09-25,2023-09,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0384,2023-09-25,2023-09,Sushi Bar,Eating out,out,Card,-150
+d0383,2023-09-23,2023-09,Scooter rides,Scooters,out,Card,-20
+d0382,2023-09-22,2023-09,Burger Joint,Eating out,out,Card,-150
+d0381,2023-09-21,2023-09,Pizza Place,Eating out,out,Card,-50
+d0380,2023-09-19,2023-09,Scooter rides,Scooters,out,Card,-20
+d0379,2023-09-18,2023-09,Scooter rides,Scooters,out,Card,-20
+d0378,2023-09-15,2023-09,Clothing shop,Shopping,out,Card,-300
+d0377,2023-09-14,2023-09,Neighborhood Grocer,Groceries,out,Card,-200
+d0376,2023-09-13,2023-09,Sushi Bar,Eating out,out,Card,-100
+d0375,2023-09-11,2023-09,City Market,Groceries,out,Card,-150
+d0374,2023-09-10,2023-09,Internet · Home Net,Bills,out,Bank,-100
+d0373,2023-09-10,2023-09,Corner Café,Eating out,out,Card,-50
+d0372,2023-09-10,2023-09,Phone · Mobile Co.,Bills,out,Bank,-50
+d0371,2023-09-09,2023-09,Neighborhood Grocer,Groceries,out,Card,-150
+d0370,2023-09-09,2023-09,Online store,Shopping,out,Card,-100
+d0369,2023-09-09,2023-09,Pizza Place,Eating out,out,Card,-100
+d0368,2023-09-08,2023-09,Scooter rides,Scooters,out,Card,-20
+d0367,2023-09-07,2023-09,Fresh Market,Groceries,out,Card,-150
+d0366,2023-09-05,2023-09,Scooter rides,Scooters,out,Card,-20
+d0365,2023-09-05,2023-09,Scooter rides,Scooters,out,Card,-20
+d0364,2023-09-05,2023-09,Rent · Landlord,Rent,out,Bank,-3500
+d0363,2023-09-03,2023-09,Video streaming,Subscriptions,out,Card,-50
+d0362,2023-09-03,2023-09,Scooter rides,Scooters,out,Card,-20
+d0361,2023-09-03,2023-09,Music app,Subscriptions,out,Card,-20
+d0360,2023-09-02,2023-09,Sushi Bar,Eating out,out,Card,-150
+d0359,2023-09-01,2023-09,Electronics shop,Shopping,out,Card,-300
+d0358,2023-09-01,2023-09,Bus pass top-up,Public transport,out,Card,-100
+d0357,2023-09-01,2023-09,Scooter rides,Scooters,out,Card,-20
+d0356,2023-09-01,2023-09,Salary · Example Ltd,Salary,in,Bank,9000
+d0355,2023-08-31,2023-08,City Market,Groceries,out,Card,-200
+d0354,2023-08-27,2023-08,Fresh Market,Groceries,out,Card,-100
+d0353,2023-08-26,2023-08,Sushi Bar,Eating out,out,Card,-150
+d0352,2023-08-26,2023-08,Sushi Bar,Eating out,out,Card,-50
+d0351,2023-08-25,2023-08,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0350,2023-08-25,2023-08,Fresh Market,Groceries,out,Card,-100
+d0349,2023-08-21,2023-08,Scooter rides,Scooters,out,Card,-20
+d0348,2023-08-18,2023-08,Pizza Place,Eating out,out,Card,-150
+d0347,2023-08-16,2023-08,Scooter rides,Scooters,out,Card,-20
+d0346,2023-08-16,2023-08,Scooter rides,Scooters,out,Card,-20
+d0345,2023-08-15,2023-08,Scooter rides,Scooters,out,Card,-20
+d0344,2023-08-15,2023-08,Scooter rides,Scooters,out,Card,-20
+d0343,2023-08-13,2023-08,Fresh Market,Groceries,out,Card,-200
+d0342,2023-08-12,2023-08,Electricity · Power Co.,Bills,out,Bank,-300
+d0341,2023-08-11,2023-08,Electronics shop,Shopping,out,Card,-100
+d0340,2023-08-11,2023-08,Pizza Place,Eating out,out,Card,-100
+d0339,2023-08-11,2023-08,Scooter rides,Scooters,out,Card,-20
+d0338,2023-08-10,2023-08,Pizza Place,Eating out,out,Card,-50
+d0337,2023-08-10,2023-08,Phone · Mobile Co.,Bills,out,Bank,-50
+d0336,2023-08-10,2023-08,Internet · Home Net,Bills,out,Bank,-100
+d0335,2023-08-09,2023-08,Sushi Bar,Eating out,out,Card,-150
+d0334,2023-08-09,2023-08,Fresh Market,Groceries,out,Card,-100
+d0333,2023-08-09,2023-08,Scooter rides,Scooters,out,Card,-20
+d0332,2023-08-08,2023-08,ATM withdrawal,ATM cash,out,Bank,-500
+d0331,2023-08-08,2023-08,Online store,Shopping,out,Card,-200
+d0330,2023-08-07,2023-08,Scooter rides,Scooters,out,Card,-20
+d0329,2023-08-06,2023-08,Scooter rides,Scooters,out,Card,-20
+d0328,2023-08-06,2023-08,Scooter rides,Scooters,out,Card,-20
+d0327,2023-08-05,2023-08,Rent · Landlord,Rent,out,Bank,-3500
+d0326,2023-08-05,2023-08,Electronics shop,Shopping,out,Card,-200
+d0325,2023-08-04,2023-08,Corner Café,Eating out,out,Card,-150
+d0324,2023-08-03,2023-08,Fresh Market,Groceries,out,Card,-150
+d0323,2023-08-03,2023-08,Video streaming,Subscriptions,out,Card,-50
+d0322,2023-08-03,2023-08,Music app,Subscriptions,out,Card,-20
+d0321,2023-08-03,2023-08,Corner Café,Eating out,out,Card,-150
+d0320,2023-08-01,2023-08,Salary · Example Ltd,Salary,in,Bank,9000
+d0319,2023-08-01,2023-08,Bus pass top-up,Public transport,out,Card,-100
+d0318,2023-08-01,2023-08,Neighborhood Grocer,Groceries,out,Card,-150
+d0317,2023-07-30,2023-07,Scooter rides,Scooters,out,Card,-20
+d0316,2023-07-27,2023-07,Scooter rides,Scooters,out,Card,-20
+d0315,2023-07-25,2023-07,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0314,2023-07-25,2023-07,City Market,Groceries,out,Card,-200
+d0313,2023-07-24,2023-07,Neighborhood Grocer,Groceries,out,Card,-150
+d0312,2023-07-24,2023-07,Scooter rides,Scooters,out,Card,-20
+d0311,2023-07-23,2023-07,Scooter rides,Scooters,out,Card,-20
+d0310,2023-07-22,2023-07,Clothing shop,Shopping,out,Card,-500
+d0309,2023-07-21,2023-07,Neighborhood Grocer,Groceries,out,Card,-100
+d0308,2023-07-17,2023-07,Falafel Stand,Eating out,out,Card,-100
+d0307,2023-07-16,2023-07,Fresh Market,Groceries,out,Card,-100
+d0306,2023-07-16,2023-07,Scooter rides,Scooters,out,Card,-20
+d0305,2023-07-16,2023-07,Neighborhood Grocer,Groceries,out,Card,-150
+d0304,2023-07-16,2023-07,Falafel Stand,Eating out,out,Card,-150
+d0303,2023-07-16,2023-07,Falafel Stand,Eating out,out,Card,-150
+d0302,2023-07-15,2023-07,Sushi Bar,Eating out,out,Card,-50
+d0301,2023-07-14,2023-07,Clothing shop,Shopping,out,Card,-500
+d0300,2023-07-13,2023-07,Scooter rides,Scooters,out,Card,-20
+d0299,2023-07-11,2023-07,Fresh Market,Groceries,out,Card,-200
+d0298,2023-07-10,2023-07,Electronics shop,Shopping,out,Card,-200
+d0297,2023-07-10,2023-07,Internet · Home Net,Bills,out,Bank,-100
+d0296,2023-07-10,2023-07,Phone · Mobile Co.,Bills,out,Bank,-50
+d0295,2023-07-10,2023-07,Scooter rides,Scooters,out,Card,-20
+d0294,2023-07-07,2023-07,Scooter rides,Scooters,out,Card,-20
+d0293,2023-07-05,2023-07,Rent · Landlord,Rent,out,Bank,-3500
+d0292,2023-07-05,2023-07,Scooter rides,Scooters,out,Card,-20
+d0291,2023-07-04,2023-07,ATM withdrawal,ATM cash,out,Bank,-200
+d0290,2023-07-04,2023-07,Pizza Place,Eating out,out,Card,-150
+d0289,2023-07-03,2023-07,Neighborhood Grocer,Groceries,out,Card,-100
+d0288,2023-07-03,2023-07,Video streaming,Subscriptions,out,Card,-50
+d0287,2023-07-03,2023-07,Scooter rides,Scooters,out,Card,-20
+d0286,2023-07-03,2023-07,Music app,Subscriptions,out,Card,-20
+d0285,2023-07-01,2023-07,Bus pass top-up,Public transport,out,Card,-100
+d0284,2023-07-01,2023-07,Sushi Bar,Eating out,out,Card,-50
+d0283,2023-07-01,2023-07,Scooter rides,Scooters,out,Card,-20
+d0282,2023-07-01,2023-07,Salary · Example Ltd,Salary,in,Bank,9000
+d0281,2023-06-30,2023-06,Scooter rides,Scooters,out,Card,-20
+d0280,2023-06-26,2023-06,Online store,Shopping,out,Card,-300
+d0279,2023-06-25,2023-06,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0278,2023-06-25,2023-06,Falafel Stand,Eating out,out,Card,-150
+d0277,2023-06-22,2023-06,Scooter rides,Scooters,out,Card,-20
+d0276,2023-06-22,2023-06,Burger Joint,Eating out,out,Card,-100
+d0275,2023-06-21,2023-06,Scooter rides,Scooters,out,Card,-20
+d0274,2023-06-19,2023-06,Burger Joint,Eating out,out,Card,-50
+d0273,2023-06-17,2023-06,Neighborhood Grocer,Groceries,out,Card,-100
+d0272,2023-06-16,2023-06,Scooter rides,Scooters,out,Card,-20
+d0271,2023-06-15,2023-06,Scooter rides,Scooters,out,Card,-20
+d0270,2023-06-13,2023-06,Corner Café,Eating out,out,Card,-100
+d0269,2023-06-13,2023-06,Scooter rides,Scooters,out,Card,-20
+d0268,2023-06-12,2023-06,Electricity · Power Co.,Bills,out,Bank,-300
+d0267,2023-06-10,2023-06,Internet · Home Net,Bills,out,Bank,-100
+d0266,2023-06-10,2023-06,Pizza Place,Eating out,out,Card,-50
+d0265,2023-06-10,2023-06,Phone · Mobile Co.,Bills,out,Bank,-50
+d0264,2023-06-08,2023-06,Neighborhood Grocer,Groceries,out,Card,-100
+d0263,2023-06-08,2023-06,Electronics shop,Shopping,out,Card,-200
+d0262,2023-06-07,2023-06,Fresh Market,Groceries,out,Card,-100
+d0261,2023-06-05,2023-06,Fresh Market,Groceries,out,Card,-200
+d0260,2023-06-05,2023-06,Scooter rides,Scooters,out,Card,-20
+d0259,2023-06-05,2023-06,Rent · Landlord,Rent,out,Bank,-3500
+d0258,2023-06-05,2023-06,Scooter rides,Scooters,out,Card,-20
+d0257,2023-06-03,2023-06,Scooter rides,Scooters,out,Card,-20
+d0256,2023-06-03,2023-06,Music app,Subscriptions,out,Card,-20
+d0255,2023-06-03,2023-06,Video streaming,Subscriptions,out,Card,-50
+d0254,2023-06-03,2023-06,Fresh Market,Groceries,out,Card,-100
+d0253,2023-06-03,2023-06,Fresh Market,Groceries,out,Card,-150
+d0252,2023-06-02,2023-06,Scooter rides,Scooters,out,Card,-20
+d0251,2023-06-01,2023-06,Fresh Market,Groceries,out,Card,-150
+d0250,2023-06-01,2023-06,Bus pass top-up,Public transport,out,Card,-100
+d0249,2023-06-01,2023-06,Salary · Example Ltd,Salary,in,Bank,9000
+d0248,2023-05-30,2023-05,Fresh Market,Groceries,out,Card,-200
+d0247,2023-05-30,2023-05,Sushi Bar,Eating out,out,Card,-50
+d0246,2023-05-27,2023-05,Scooter rides,Scooters,out,Card,-20
+d0245,2023-05-25,2023-05,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0244,2023-05-22,2023-05,Sushi Bar,Eating out,out,Card,-150
+d0243,2023-05-22,2023-05,City Market,Groceries,out,Card,-150
+d0242,2023-05-20,2023-05,Scooter rides,Scooters,out,Card,-20
+d0241,2023-05-17,2023-05,Sushi Bar,Eating out,out,Card,-50
+d0240,2023-05-17,2023-05,Falafel Stand,Eating out,out,Card,-150
+d0239,2023-05-16,2023-05,Burger Joint,Eating out,out,Card,-100
+d0238,2023-05-14,2023-05,Scooter rides,Scooters,out,Card,-20
+d0237,2023-05-12,2023-05,ATM withdrawal,ATM cash,out,Bank,-500
+d0236,2023-05-12,2023-05,City Market,Groceries,out,Card,-150
+d0235,2023-05-12,2023-05,Scooter rides,Scooters,out,Card,-20
+d0234,2023-05-10,2023-05,Fresh Market,Groceries,out,Card,-200
+d0233,2023-05-10,2023-05,Neighborhood Grocer,Groceries,out,Card,-100
+d0232,2023-05-10,2023-05,Internet · Home Net,Bills,out,Bank,-100
+d0231,2023-05-10,2023-05,Phone · Mobile Co.,Bills,out,Bank,-50
+d0230,2023-05-09,2023-05,Clothing shop,Shopping,out,Card,-100
+d0229,2023-05-07,2023-05,Pizza Place,Eating out,out,Card,-100
+d0228,2023-05-05,2023-05,Rent · Landlord,Rent,out,Bank,-3500
+d0227,2023-05-03,2023-05,Music app,Subscriptions,out,Card,-20
+d0226,2023-05-03,2023-05,Scooter rides,Scooters,out,Card,-20
+d0225,2023-05-03,2023-05,Video streaming,Subscriptions,out,Card,-50
+d0224,2023-05-02,2023-05,City Market,Groceries,out,Card,-100
+d0223,2023-05-02,2023-05,City Market,Groceries,out,Card,-100
+d0222,2023-05-02,2023-05,Scooter rides,Scooters,out,Card,-20
+d0221,2023-05-01,2023-05,Bus pass top-up,Public transport,out,Card,-100
+d0220,2023-05-01,2023-05,Scooter rides,Scooters,out,Card,-20
+d0219,2023-05-01,2023-05,Salary · Example Ltd,Salary,in,Bank,9000
+d0218,2023-04-30,2023-04,Scooter rides,Scooters,out,Card,-20
+d0217,2023-04-27,2023-04,Sushi Bar,Eating out,out,Card,-150
+d0216,2023-04-27,2023-04,Falafel Stand,Eating out,out,Card,-100
+d0215,2023-04-26,2023-04,Scooter rides,Scooters,out,Card,-20
+d0214,2023-04-25,2023-04,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0213,2023-04-23,2023-04,City Market,Groceries,out,Card,-150
+d0212,2023-04-20,2023-04,Scooter rides,Scooters,out,Card,-20
+d0211,2023-04-19,2023-04,Sushi Bar,Eating out,out,Card,-150
+d0210,2023-04-18,2023-04,Fresh Market,Groceries,out,Card,-150
+d0209,2023-04-17,2023-04,Electronics shop,Shopping,out,Card,-200
+d0208,2023-04-15,2023-04,Tax refund,Tax refund,in,Bank,1000
+d0207,2023-04-13,2023-04,Gift from family,From family,in,Bank,200
+d0206,2023-04-12,2023-04,Electricity · Power Co.,Bills,out,Bank,-300
+d0205,2023-04-11,2023-04,Neighborhood Grocer,Groceries,out,Card,-200
+d0204,2023-04-11,2023-04,Corner Café,Eating out,out,Card,-100
+d0203,2023-04-10,2023-04,Neighborhood Grocer,Groceries,out,Card,-100
+d0202,2023-04-10,2023-04,Internet · Home Net,Bills,out,Bank,-100
+d0201,2023-04-10,2023-04,Phone · Mobile Co.,Bills,out,Bank,-50
+d0200,2023-04-09,2023-04,Scooter rides,Scooters,out,Card,-20
+d0199,2023-04-09,2023-04,Scooter rides,Scooters,out,Card,-20
+d0198,2023-04-05,2023-04,Rent · Landlord,Rent,out,Bank,-3500
+d0197,2023-04-05,2023-04,Burger Joint,Eating out,out,Card,-150
+d0196,2023-04-04,2023-04,City Market,Groceries,out,Card,-100
+d0195,2023-04-03,2023-04,Video streaming,Subscriptions,out,Card,-50
+d0194,2023-04-03,2023-04,Music app,Subscriptions,out,Card,-20
+d0193,2023-04-03,2023-04,Fresh Market,Groceries,out,Card,-150
+d0192,2023-04-02,2023-04,City Market,Groceries,out,Card,-150
+d0191,2023-04-02,2023-04,Pizza Place,Eating out,out,Card,-100
+d0190,2023-04-01,2023-04,Bus pass top-up,Public transport,out,Card,-100
+d0189,2023-04-01,2023-04,Scooter rides,Scooters,out,Card,-20
+d0188,2023-04-01,2023-04,Salary · Example Ltd,Salary,in,Bank,9000
+d0187,2023-03-31,2023-03,Scooter rides,Scooters,out,Card,-20
+d0186,2023-03-30,2023-03,Burger Joint,Eating out,out,Card,-50
+d0185,2023-03-29,2023-03,Scooter rides,Scooters,out,Card,-20
+d0184,2023-03-29,2023-03,Scooter rides,Scooters,out,Card,-20
+d0183,2023-03-27,2023-03,Sushi Bar,Eating out,out,Card,-50
+d0182,2023-03-25,2023-03,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0181,2023-03-25,2023-03,City Market,Groceries,out,Card,-150
+d0180,2023-03-24,2023-03,Scooter rides,Scooters,out,Card,-20
+d0179,2023-03-23,2023-03,Burger Joint,Eating out,out,Card,-100
+d0178,2023-03-23,2023-03,Fresh Market,Groceries,out,Card,-150
+d0177,2023-03-22,2023-03,Pizza Place,Eating out,out,Card,-100
+d0176,2023-03-20,2023-03,Neighborhood Grocer,Groceries,out,Card,-100
+d0175,2023-03-17,2023-03,Neighborhood Grocer,Groceries,out,Card,-150
+d0174,2023-03-15,2023-03,Neighborhood Grocer,Groceries,out,Card,-100
+d0173,2023-03-15,2023-03,Falafel Stand,Eating out,out,Card,-50
+d0172,2023-03-14,2023-03,Corner Café,Eating out,out,Card,-100
+d0171,2023-03-13,2023-03,ATM withdrawal,ATM cash,out,Bank,-500
+d0170,2023-03-11,2023-03,Neighborhood Grocer,Groceries,out,Card,-200
+d0169,2023-03-10,2023-03,Internet · Home Net,Bills,out,Bank,-100
+d0168,2023-03-10,2023-03,Phone · Mobile Co.,Bills,out,Bank,-50
+d0167,2023-03-07,2023-03,Scooter rides,Scooters,out,Card,-20
+d0166,2023-03-07,2023-03,ATM withdrawal,ATM cash,out,Bank,-500
+d0165,2023-03-06,2023-03,Electronics shop,Shopping,out,Card,-500
+d0164,2023-03-05,2023-03,Scooter rides,Scooters,out,Card,-20
+d0163,2023-03-05,2023-03,Rent · Landlord,Rent,out,Bank,-3500
+d0162,2023-03-03,2023-03,Video streaming,Subscriptions,out,Card,-50
+d0161,2023-03-03,2023-03,Music app,Subscriptions,out,Card,-20
+d0160,2023-03-02,2023-03,City Market,Groceries,out,Card,-200
+d0159,2023-03-01,2023-03,Bus pass top-up,Public transport,out,Card,-100
+d0158,2023-03-01,2023-03,Salary · Example Ltd,Salary,in,Bank,9000
+d0157,2023-02-27,2023-02,City Market,Groceries,out,Card,-150
+d0156,2023-02-27,2023-02,Burger Joint,Eating out,out,Card,-100
+d0155,2023-02-26,2023-02,ATM withdrawal,ATM cash,out,Bank,-200
+d0154,2023-02-25,2023-02,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0153,2023-02-25,2023-02,Online store,Shopping,out,Card,-200
+d0152,2023-02-25,2023-02,Online store,Shopping,out,Card,-100
+d0151,2023-02-22,2023-02,Scooter rides,Scooters,out,Card,-20
+d0150,2023-02-22,2023-02,Falafel Stand,Eating out,out,Card,-50
+d0149,2023-02-21,2023-02,Fresh Market,Groceries,out,Card,-200
+d0148,2023-02-18,2023-02,Scooter rides,Scooters,out,Card,-20
+d0147,2023-02-18,2023-02,Scooter rides,Scooters,out,Card,-20
+d0146,2023-02-16,2023-02,Neighborhood Grocer,Groceries,out,Card,-200
+d0145,2023-02-16,2023-02,City Market,Groceries,out,Card,-150
+d0144,2023-02-15,2023-02,Pizza Place,Eating out,out,Card,-150
+d0143,2023-02-14,2023-02,Scooter rides,Scooters,out,Card,-20
+d0142,2023-02-13,2023-02,Corner Café,Eating out,out,Card,-150
+d0141,2023-02-13,2023-02,Neighborhood Grocer,Groceries,out,Card,-100
+d0140,2023-02-12,2023-02,Electricity · Power Co.,Bills,out,Bank,-300
+d0139,2023-02-10,2023-02,Internet · Home Net,Bills,out,Bank,-100
+d0138,2023-02-10,2023-02,Scooter rides,Scooters,out,Card,-20
+d0137,2023-02-10,2023-02,Phone · Mobile Co.,Bills,out,Bank,-50
+d0136,2023-02-09,2023-02,Scooter rides,Scooters,out,Card,-20
+d0135,2023-02-07,2023-02,Fresh Market,Groceries,out,Card,-100
+d0134,2023-02-06,2023-02,Pizza Place,Eating out,out,Card,-50
+d0133,2023-02-05,2023-02,Gift from family,From family,in,Bank,200
+d0132,2023-02-05,2023-02,Clothing shop,Shopping,out,Card,-100
+d0131,2023-02-05,2023-02,Rent · Landlord,Rent,out,Bank,-3500
+d0130,2023-02-03,2023-02,Sushi Bar,Eating out,out,Card,-100
+d0129,2023-02-03,2023-02,Neighborhood Grocer,Groceries,out,Card,-100
+d0128,2023-02-03,2023-02,Video streaming,Subscriptions,out,Card,-50
+d0127,2023-02-03,2023-02,Music app,Subscriptions,out,Card,-20
+d0126,2023-02-02,2023-02,ATM withdrawal,ATM cash,out,Bank,-500
+d0125,2023-02-02,2023-02,Scooter rides,Scooters,out,Card,-20
+d0124,2023-02-01,2023-02,Pizza Place,Eating out,out,Card,-150
+d0123,2023-02-01,2023-02,Bus pass top-up,Public transport,out,Card,-100
+d0122,2023-02-01,2023-02,Scooter rides,Scooters,out,Card,-20
+d0121,2023-02-01,2023-02,Scooter rides,Scooters,out,Card,-20
+d0120,2023-02-01,2023-02,Salary · Example Ltd,Salary,in,Bank,9000
+d0119,2023-01-31,2023-01,Burger Joint,Eating out,out,Card,-100
+d0118,2023-01-30,2023-01,Scooter rides,Scooters,out,Card,-20
+d0117,2023-01-28,2023-01,Falafel Stand,Eating out,out,Card,-150
+d0116,2023-01-28,2023-01,Fresh Market,Groceries,out,Card,-150
+d0115,2023-01-26,2023-01,ATM withdrawal,ATM cash,out,Bank,-500
+d0114,2023-01-26,2023-01,Scooter rides,Scooters,out,Card,-20
+d0113,2023-01-25,2023-01,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0112,2023-01-25,2023-01,Burger Joint,Eating out,out,Card,-100
+d0111,2023-01-25,2023-01,Scooter rides,Scooters,out,Card,-20
+d0110,2023-01-24,2023-01,Fresh Market,Groceries,out,Card,-200
+d0109,2023-01-24,2023-01,Scooter rides,Scooters,out,Card,-20
+d0108,2023-01-24,2023-01,Scooter rides,Scooters,out,Card,-20
+d0107,2023-01-23,2023-01,Electronics shop,Shopping,out,Card,-300
+d0106,2023-01-21,2023-01,Scooter rides,Scooters,out,Card,-20
+d0105,2023-01-21,2023-01,Corner Café,Eating out,out,Card,-150
+d0104,2023-01-17,2023-01,Scooter rides,Scooters,out,Card,-20
+d0103,2023-01-16,2023-01,Fresh Market,Groceries,out,Card,-150
+d0102,2023-01-16,2023-01,Clothing shop,Shopping,out,Card,-200
+d0101,2023-01-10,2023-01,Internet · Home Net,Bills,out,Bank,-100
+d0100,2023-01-10,2023-01,Phone · Mobile Co.,Bills,out,Bank,-50
+d0099,2023-01-09,2023-01,Fresh Market,Groceries,out,Card,-200
+d0098,2023-01-06,2023-01,Neighborhood Grocer,Groceries,out,Card,-100
+d0097,2023-01-05,2023-01,Rent · Landlord,Rent,out,Bank,-3500
+d0096,2023-01-05,2023-01,Burger Joint,Eating out,out,Card,-50
+d0095,2023-01-03,2023-01,City Market,Groceries,out,Card,-100
+d0094,2023-01-03,2023-01,Video streaming,Subscriptions,out,Card,-50
+d0093,2023-01-03,2023-01,Music app,Subscriptions,out,Card,-20
+d0092,2023-01-01,2023-01,Bus pass top-up,Public transport,out,Card,-100
+d0091,2023-01-01,2023-01,Salary · Example Ltd,Salary,in,Bank,9000
+d0090,2022-12-31,2022-12,ATM withdrawal,ATM cash,out,Bank,-500
+d0089,2022-12-25,2022-12,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0088,2022-12-22,2022-12,City Market,Groceries,out,Card,-100
+d0087,2022-12-20,2022-12,Clothing shop,Shopping,out,Card,-200
+d0086,2022-12-20,2022-12,Scooter rides,Scooters,out,Card,-20
+d0085,2022-12-20,2022-12,Year-end bonus · Example Ltd,Bonus,in,Bank,2000
+d0084,2022-12-18,2022-12,Scooter rides,Scooters,out,Card,-20
+d0083,2022-12-16,2022-12,Neighborhood Grocer,Groceries,out,Card,-100
+d0082,2022-12-15,2022-12,Burger Joint,Eating out,out,Card,-100
+d0081,2022-12-13,2022-12,Sushi Bar,Eating out,out,Card,-100
+d0080,2022-12-13,2022-12,Corner Café,Eating out,out,Card,-50
+d0079,2022-12-12,2022-12,Electricity · Power Co.,Bills,out,Bank,-300
+d0078,2022-12-12,2022-12,Neighborhood Grocer,Groceries,out,Card,-200
+d0077,2022-12-11,2022-12,City Market,Groceries,out,Card,-200
+d0076,2022-12-10,2022-12,Phone · Mobile Co.,Bills,out,Bank,-50
+d0075,2022-12-10,2022-12,Internet · Home Net,Bills,out,Bank,-100
+d0074,2022-12-09,2022-12,Fresh Market,Groceries,out,Card,-100
+d0073,2022-12-07,2022-12,Scooter rides,Scooters,out,Card,-20
+d0072,2022-12-07,2022-12,Gift from family,From family,in,Bank,200
+d0071,2022-12-05,2022-12,Fresh Market,Groceries,out,Card,-200
+d0070,2022-12-05,2022-12,Rent · Landlord,Rent,out,Bank,-3500
+d0069,2022-12-04,2022-12,Sushi Bar,Eating out,out,Card,-150
+d0068,2022-12-04,2022-12,Scooter rides,Scooters,out,Card,-20
+d0067,2022-12-04,2022-12,Scooter rides,Scooters,out,Card,-20
+d0066,2022-12-03,2022-12,Video streaming,Subscriptions,out,Card,-50
+d0065,2022-12-03,2022-12,Music app,Subscriptions,out,Card,-20
+d0064,2022-12-01,2022-12,Bus pass top-up,Public transport,out,Card,-100
+d0063,2022-12-01,2022-12,Salary · Example Ltd,Salary,in,Bank,9000
+d0062,2022-11-30,2022-11,Fresh Market,Groceries,out,Card,-150
+d0061,2022-11-29,2022-11,Online store,Shopping,out,Card,-500
+d0060,2022-11-29,2022-11,Scooter rides,Scooters,out,Card,-20
+d0059,2022-11-28,2022-11,Electronics shop,Shopping,out,Card,-300
+d0058,2022-11-25,2022-11,Neighborhood Grocer,Groceries,out,Card,-200
+d0057,2022-11-25,2022-11,Fresh Market,Groceries,out,Card,-100
+d0056,2022-11-25,2022-11,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0055,2022-11-24,2022-11,Falafel Stand,Eating out,out,Card,-150
+d0054,2022-11-24,2022-11,Fresh Market,Groceries,out,Card,-150
+d0053,2022-11-20,2022-11,City Market,Groceries,out,Card,-100
+d0052,2022-11-20,2022-11,Scooter rides,Scooters,out,Card,-20
+d0051,2022-11-19,2022-11,Sushi Bar,Eating out,out,Card,-100
+d0050,2022-11-17,2022-11,Fresh Market,Groceries,out,Card,-100
+d0049,2022-11-16,2022-11,Burger Joint,Eating out,out,Card,-100
+d0048,2022-11-16,2022-11,Corner Café,Eating out,out,Card,-50
+d0047,2022-11-15,2022-11,Scooter rides,Scooters,out,Card,-20
+d0046,2022-11-13,2022-11,Scooter rides,Scooters,out,Card,-20
+d0045,2022-11-12,2022-11,ATM withdrawal,ATM cash,out,Bank,-200
+d0044,2022-11-11,2022-11,Falafel Stand,Eating out,out,Card,-150
+d0043,2022-11-11,2022-11,Gift from family,From family,in,Bank,500
+d0042,2022-11-10,2022-11,Phone · Mobile Co.,Bills,out,Bank,-50
+d0041,2022-11-10,2022-11,Internet · Home Net,Bills,out,Bank,-100
+d0040,2022-11-06,2022-11,Scooter rides,Scooters,out,Card,-20
+d0039,2022-11-05,2022-11,Rent · Landlord,Rent,out,Bank,-3500
+d0038,2022-11-05,2022-11,Scooter rides,Scooters,out,Card,-20
+d0037,2022-11-03,2022-11,Corner Café,Eating out,out,Card,-100
+d0036,2022-11-03,2022-11,Video streaming,Subscriptions,out,Card,-50
+d0035,2022-11-03,2022-11,Music app,Subscriptions,out,Card,-20
+d0034,2022-11-02,2022-11,Neighborhood Grocer,Groceries,out,Card,-100
+d0033,2022-11-02,2022-11,Scooter rides,Scooters,out,Card,-20
+d0032,2022-11-01,2022-11,Bus pass top-up,Public transport,out,Card,-100
+d0031,2022-11-01,2022-11,Salary · Example Ltd,Salary,in,Bank,9000
+d0030,2022-10-31,2022-10,Pizza Place,Eating out,out,Card,-150
+d0029,2022-10-30,2022-10,Neighborhood Grocer,Groceries,out,Card,-100
+d0028,2022-10-27,2022-10,Burger Joint,Eating out,out,Card,-50
+d0027,2022-10-25,2022-10,Clothing shop,Shopping,out,Card,-500
+d0026,2022-10-25,2022-10,Transfer to savings account,Moved to savings,transfer,Bank,-1500
+d0025,2022-10-21,2022-10,Burger Joint,Eating out,out,Card,-50
+d0024,2022-10-20,2022-10,Scooter rides,Scooters,out,Card,-20
+d0023,2022-10-19,2022-10,Clothing shop,Shopping,out,Card,-300
+d0022,2022-10-19,2022-10,Scooter rides,Scooters,out,Card,-20
+d0021,2022-10-19,2022-10,Scooter rides,Scooters,out,Card,-20
+d0020,2022-10-18,2022-10,Sushi Bar,Eating out,out,Card,-50
+d0019,2022-10-18,2022-10,Scooter rides,Scooters,out,Card,-20
+d0018,2022-10-18,2022-10,Scooter rides,Scooters,out,Card,-20
+d0017,2022-10-14,2022-10,City Market,Groceries,out,Card,-100
+d0016,2022-10-13,2022-10,Neighborhood Grocer,Groceries,out,Card,-100
+d0015,2022-10-12,2022-10,Electricity · Power Co.,Bills,out,Bank,-300
+d0014,2022-10-12,2022-10,Neighborhood Grocer,Groceries,out,Card,-100
+d0013,2022-10-10,2022-10,Internet · Home Net,Bills,out,Bank,-100
+d0012,2022-10-10,2022-10,Scooter rides,Scooters,out,Card,-20
+d0011,2022-10-10,2022-10,Online store,Shopping,out,Card,-200
+d0010,2022-10-10,2022-10,Phone · Mobile Co.,Bills,out,Bank,-50
+d0009,2022-10-08,2022-10,Scooter rides,Scooters,out,Card,-20
+d0008,2022-10-05,2022-10,Rent · Landlord,Rent,out,Bank,-3500
+d0007,2022-10-04,2022-10,Scooter rides,Scooters,out,Card,-20
+d0006,2022-10-03,2022-10,Video streaming,Subscriptions,out,Card,-50
+d0005,2022-10-03,2022-10,Music app,Subscriptions,out,Card,-20
+d0004,2022-10-03,2022-10,Neighborhood Grocer,Groceries,out,Card,-100
+d0003,2022-10-02,2022-10,City Market,Groceries,out,Card,-150
+d0002,2022-10-01,2022-10,Bus pass top-up,Public transport,out,Card,-100
+d0001,2022-10-01,2022-10,Salary · Example Ltd,Salary,in,Bank,9000

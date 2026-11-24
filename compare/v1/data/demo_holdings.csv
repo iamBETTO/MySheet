@@ -1,0 +1,9 @@
+id,block,name,type,value,as_of,note
+a1,asset,Savings account,Savings,72000,2026-10-01,"₪1,500 moved in every month"
+a2,asset,Pension fund,Pension,85000,2026-09-30,
+a3,asset,Study fund,Study fund,40000,2026-09-30,Can be withdrawn after 6 years
+a4,asset,Index fund,Investments,25000,2026-10-01,
+a5,asset,Crypto wallet,Crypto,5000,2026-10-01,Value changes daily
+p1,property,Car,Vehicle,45000,2026-06-01,2019 hatchback
+p2,property,Plot of land,Land,120000,2025-12-01,Estimated value
+d1,debt,Car loan,Loan,20000,2026-10-01,"₪1,000 a month until 2028"

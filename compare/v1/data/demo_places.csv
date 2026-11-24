@@ -1,0 +1,723 @@
+period,merchant,category,visits,amount,per_month
+last12,Burger Joint,Eating out,26,2900,242
+last12,Bus pass top-up,Public transport,12,1200,100
+last12,City Market,Groceries,36,5400,450
+last12,Clothing shop,Shopping,9,2800,233
+last12,Corner Café,Eating out,33,2750,229
+last12,Electronics shop,Shopping,7,1800,150
+last12,Falafel Stand,Eating out,26,2750,229
+last12,Fresh Market,Groceries,22,3800,317
+last12,Music app,Subscriptions,12,240,20
+last12,Neighborhood Grocer,Groceries,27,3850,321
+last12,Online store,Shopping,7,1700,142
+last12,Pizza Place,Eating out,28,2450,204
+last12,Scooter rides,Scooters,234,4680,390
+last12,Sushi Bar,Eating out,33,3000,250
+last12,Video streaming,Subscriptions,12,600,50
+prev12,Burger Joint,Eating out,23,2350,196
+prev12,Bus pass top-up,Public transport,12,1200,100
+prev12,City Market,Groceries,28,3950,329
+prev12,Clothing shop,Shopping,6,1900,158
+prev12,Corner Café,Eating out,23,2400,200
+prev12,Electronics shop,Shopping,7,1700,142
+prev12,Falafel Stand,Eating out,29,2850,238
+prev12,Fresh Market,Groceries,28,4000,333
+prev12,Music app,Subscriptions,12,240,20
+prev12,Neighborhood Grocer,Groceries,29,4250,354
+prev12,Online store,Shopping,7,2200,183
+prev12,Pizza Place,Eating out,26,2750,229
+prev12,Scooter rides,Scooters,180,3600,300
+prev12,Sushi Bar,Eating out,23,2450,204
+prev12,Video streaming,Subscriptions,12,600,50
+2026,Burger Joint,Eating out,19,2000,217
+2026,Bus pass top-up,Public transport,10,1000,109
+2026,City Market,Groceries,25,3650,397
+2026,Clothing shop,Shopping,7,2300,250
+2026,Corner Café,Eating out,23,1950,212
+2026,Electronics shop,Shopping,7,1800,196
+2026,Falafel Stand,Eating out,22,2200,239
+2026,Fresh Market,Groceries,15,2450,266
+2026,Music app,Subscriptions,10,200,22
+2026,Neighborhood Grocer,Groceries,24,3450,375
+2026,Online store,Shopping,7,1900,207
+2026,Pizza Place,Eating out,24,2100,228
+2026,Scooter rides,Scooters,183,3660,398
+2026,Sushi Bar,Eating out,27,2500,272
+2026,Video streaming,Subscriptions,10,500,54
+2025,Burger Joint,Eating out,26,2850,238
+2025,Bus pass top-up,Public transport,12,1200,100
+2025,City Market,Groceries,34,5050,421
+2025,Clothing shop,Shopping,6,1400,117
+2025,Corner Café,Eating out,27,2500,208
+2025,Electronics shop,Shopping,4,800,67
+2025,Falafel Stand,Eating out,30,3050,254
+2025,Fresh Market,Groceries,27,4150,346
+2025,Music app,Subscriptions,12,240,20
+2025,Neighborhood Grocer,Groceries,27,4050,338
+2025,Online store,Shopping,7,1800,150
+2025,Pizza Place,Eating out,24,2400,200
+2025,Scooter rides,Scooters,196,3920,327
+2025,Sushi Bar,Eating out,24,2300,192
+2025,Video streaming,Subscriptions,12,600,50
+2024,Burger Joint,Eating out,25,2700,225
+2024,Bus pass top-up,Public transport,12,1200,100
+2024,City Market,Groceries,32,4950,412
+2024,Clothing shop,Shopping,4,1400,117
+2024,Corner Café,Eating out,22,1900,158
+2024,Electronics shop,Shopping,9,2300,192
+2024,Falafel Stand,Eating out,19,1950,162
+2024,Fresh Market,Groceries,25,3600,300
+2024,Music app,Subscriptions,12,240,20
+2024,Neighborhood Grocer,Groceries,25,3450,288
+2024,Online store,Shopping,7,1700,142
+2024,Pizza Place,Eating out,25,2600,217
+2024,Scooter rides,Scooters,154,3080,257
+2024,Sushi Bar,Eating out,23,2100,175
+2024,Video streaming,Subscriptions,12,600,50
+2023,Burger Joint,Eating out,14,1300,108
+2023,Bus pass top-up,Public transport,12,1200,100
+2023,City Market,Groceries,26,3750,312
+2023,Clothing shop,Shopping,11,3500,292
+2023,Corner Café,Eating out,11,1250,104
+2023,Electronics shop,Shopping,10,2400,200
+2023,Falafel Stand,Eating out,14,1650,138
+2023,Fresh Market,Groceries,29,4400,367
+2023,Music app,Subscriptions,12,240,20
+2023,Neighborhood Grocer,Groceries,24,3300,275
+2023,Online store,Shopping,7,1500,125
+2023,Pizza Place,Eating out,17,1650,138
+2023,Scooter rides,Scooters,108,2160,180
+2023,Sushi Bar,Eating out,19,1800,150
+2023,Video streaming,Subscriptions,12,600,50
+all,Burger Joint,Eating out,88,9150,190
+all,Bus pass top-up,Public transport,49,4900,102
+all,City Market,Groceries,122,18050,374
+all,Clothing shop,Shopping,31,9600,199
+all,Corner Café,Eating out,86,7800,162
+all,Electronics shop,Shopping,31,7600,158
+all,Falafel Stand,Eating out,87,9150,190
+all,Fresh Market,Groceries,102,15400,320
+all,Music app,Subscriptions,49,980,20
+all,Neighborhood Grocer,Groceries,108,15250,316
+all,Online store,Shopping,30,7600,158
+all,Pizza Place,Eating out,91,8900,185
+all,Scooter rides,Scooters,661,13220,274
+all,Sushi Bar,Eating out,97,9100,189
+all,Video streaming,Subscriptions,49,2450,51
+m2022-10,Burger Joint,Eating out,2,100,100
+m2022-10,Bus pass top-up,Public transport,1,100,100
+m2022-10,City Market,Groceries,2,250,250
+m2022-10,Clothing shop,Shopping,2,800,800
+m2022-10,Music app,Subscriptions,1,20,20
+m2022-10,Neighborhood Grocer,Groceries,4,400,400
+m2022-10,Online store,Shopping,1,200,200
+m2022-10,Pizza Place,Eating out,1,150,150
+m2022-10,Scooter rides,Scooters,8,160,160
+m2022-10,Sushi Bar,Eating out,1,50,50
+m2022-10,Video streaming,Subscriptions,1,50,50
+m2022-11,Burger Joint,Eating out,1,100,100
+m2022-11,Bus pass top-up,Public transport,1,100,100
+m2022-11,City Market,Groceries,1,100,100
+m2022-11,Corner Café,Eating out,2,150,150
+m2022-11,Electronics shop,Shopping,1,300,300
+m2022-11,Falafel Stand,Eating out,2,300,300
+m2022-11,Fresh Market,Groceries,4,500,500
+m2022-11,Music app,Subscriptions,1,20,20
+m2022-11,Neighborhood Grocer,Groceries,2,300,300
+m2022-11,Online store,Shopping,1,500,500
+m2022-11,Scooter rides,Scooters,7,140,140
+m2022-11,Sushi Bar,Eating out,1,100,100
+m2022-11,Video streaming,Subscriptions,1,50,50
+m2022-12,Burger Joint,Eating out,1,100,100
+m2022-12,Bus pass top-up,Public transport,1,100,100
+m2022-12,City Market,Groceries,2,300,300
+m2022-12,Clothing shop,Shopping,1,200,200
+m2022-12,Corner Café,Eating out,1,50,50
+m2022-12,Fresh Market,Groceries,2,300,300
+m2022-12,Music app,Subscriptions,1,20,20
+m2022-12,Neighborhood Grocer,Groceries,2,300,300
+m2022-12,Scooter rides,Scooters,5,100,100
+m2022-12,Sushi Bar,Eating out,2,250,250
+m2022-12,Video streaming,Subscriptions,1,50,50
+m2023-01,Burger Joint,Eating out,3,250,250
+m2023-01,Bus pass top-up,Public transport,1,100,100
+m2023-01,City Market,Groceries,1,100,100
+m2023-01,Clothing shop,Shopping,1,200,200
+m2023-01,Corner Café,Eating out,1,150,150
+m2023-01,Electronics shop,Shopping,1,300,300
+m2023-01,Falafel Stand,Eating out,1,150,150
+m2023-01,Fresh Market,Groceries,4,700,700
+m2023-01,Music app,Subscriptions,1,20,20
+m2023-01,Neighborhood Grocer,Groceries,1,100,100
+m2023-01,Scooter rides,Scooters,7,140,140
+m2023-01,Video streaming,Subscriptions,1,50,50
+m2023-02,Burger Joint,Eating out,1,100,100
+m2023-02,Bus pass top-up,Public transport,1,100,100
+m2023-02,City Market,Groceries,2,300,300
+m2023-02,Clothing shop,Shopping,1,100,100
+m2023-02,Corner Café,Eating out,1,150,150
+m2023-02,Falafel Stand,Eating out,1,50,50
+m2023-02,Fresh Market,Groceries,2,300,300
+m2023-02,Music app,Subscriptions,1,20,20
+m2023-02,Neighborhood Grocer,Groceries,3,400,400
+m2023-02,Online store,Shopping,2,300,300
+m2023-02,Pizza Place,Eating out,3,350,350
+m2023-02,Scooter rides,Scooters,9,180,180
+m2023-02,Sushi Bar,Eating out,1,100,100
+m2023-02,Video streaming,Subscriptions,1,50,50
+m2023-03,Burger Joint,Eating out,2,150,150
+m2023-03,Bus pass top-up,Public transport,1,100,100
+m2023-03,City Market,Groceries,2,350,350
+m2023-03,Corner Café,Eating out,1,100,100
+m2023-03,Electronics shop,Shopping,1,500,500
+m2023-03,Falafel Stand,Eating out,1,50,50
+m2023-03,Fresh Market,Groceries,1,150,150
+m2023-03,Music app,Subscriptions,1,20,20
+m2023-03,Neighborhood Grocer,Groceries,4,550,550
+m2023-03,Pizza Place,Eating out,1,100,100
+m2023-03,Scooter rides,Scooters,6,120,120
+m2023-03,Sushi Bar,Eating out,1,50,50
+m2023-03,Video streaming,Subscriptions,1,50,50
+m2023-04,Burger Joint,Eating out,1,150,150
+m2023-04,Bus pass top-up,Public transport,1,100,100
+m2023-04,City Market,Groceries,3,400,400
+m2023-04,Corner Café,Eating out,1,100,100
+m2023-04,Electronics shop,Shopping,1,200,200
+m2023-04,Falafel Stand,Eating out,1,100,100
+m2023-04,Fresh Market,Groceries,2,300,300
+m2023-04,Music app,Subscriptions,1,20,20
+m2023-04,Neighborhood Grocer,Groceries,2,300,300
+m2023-04,Pizza Place,Eating out,1,100,100
+m2023-04,Scooter rides,Scooters,6,120,120
+m2023-04,Sushi Bar,Eating out,2,300,300
+m2023-04,Video streaming,Subscriptions,1,50,50
+m2023-05,Burger Joint,Eating out,1,100,100
+m2023-05,Bus pass top-up,Public transport,1,100,100
+m2023-05,City Market,Groceries,4,500,500
+m2023-05,Clothing shop,Shopping,1,100,100
+m2023-05,Falafel Stand,Eating out,1,150,150
+m2023-05,Fresh Market,Groceries,2,400,400
+m2023-05,Music app,Subscriptions,1,20,20
+m2023-05,Neighborhood Grocer,Groceries,1,100,100
+m2023-05,Pizza Place,Eating out,1,100,100
+m2023-05,Scooter rides,Scooters,7,140,140
+m2023-05,Sushi Bar,Eating out,3,250,250
+m2023-05,Video streaming,Subscriptions,1,50,50
+m2023-06,Burger Joint,Eating out,2,150,150
+m2023-06,Bus pass top-up,Public transport,1,100,100
+m2023-06,Corner Café,Eating out,1,100,100
+m2023-06,Electronics shop,Shopping,1,200,200
+m2023-06,Falafel Stand,Eating out,1,150,150
+m2023-06,Fresh Market,Groceries,5,700,700
+m2023-06,Music app,Subscriptions,1,20,20
+m2023-06,Neighborhood Grocer,Groceries,2,200,200
+m2023-06,Online store,Shopping,1,300,300
+m2023-06,Pizza Place,Eating out,1,50,50
+m2023-06,Scooter rides,Scooters,10,200,200
+m2023-06,Video streaming,Subscriptions,1,50,50
+m2023-07,Bus pass top-up,Public transport,1,100,100
+m2023-07,City Market,Groceries,1,200,200
+m2023-07,Clothing shop,Shopping,2,1000,1000
+m2023-07,Electronics shop,Shopping,1,200,200
+m2023-07,Falafel Stand,Eating out,3,400,400
+m2023-07,Fresh Market,Groceries,2,300,300
+m2023-07,Music app,Subscriptions,1,20,20
+m2023-07,Neighborhood Grocer,Groceries,4,500,500
+m2023-07,Pizza Place,Eating out,1,150,150
+m2023-07,Scooter rides,Scooters,11,220,220
+m2023-07,Sushi Bar,Eating out,2,100,100
+m2023-07,Video streaming,Subscriptions,1,50,50
+m2023-08,Bus pass top-up,Public transport,1,100,100
+m2023-08,City Market,Groceries,1,200,200
+m2023-08,Corner Café,Eating out,2,300,300
+m2023-08,Electronics shop,Shopping,2,300,300
+m2023-08,Fresh Market,Groceries,5,650,650
+m2023-08,Music app,Subscriptions,1,20,20
+m2023-08,Neighborhood Grocer,Groceries,1,150,150
+m2023-08,Online store,Shopping,1,200,200
+m2023-08,Pizza Place,Eating out,3,300,300
+m2023-08,Scooter rides,Scooters,10,200,200
+m2023-08,Sushi Bar,Eating out,3,350,350
+m2023-08,Video streaming,Subscriptions,1,50,50
+m2023-09,Burger Joint,Eating out,1,150,150
+m2023-09,Bus pass top-up,Public transport,1,100,100
+m2023-09,City Market,Groceries,2,350,350
+m2023-09,Clothing shop,Shopping,1,300,300
+m2023-09,Corner Café,Eating out,1,50,50
+m2023-09,Electronics shop,Shopping,1,300,300
+m2023-09,Fresh Market,Groceries,2,300,300
+m2023-09,Music app,Subscriptions,1,20,20
+m2023-09,Neighborhood Grocer,Groceries,2,350,350
+m2023-09,Online store,Shopping,1,100,100
+m2023-09,Pizza Place,Eating out,2,150,150
+m2023-09,Scooter rides,Scooters,11,220,220
+m2023-09,Sushi Bar,Eating out,3,400,400
+m2023-09,Video streaming,Subscriptions,1,50,50
+m2023-10,Burger Joint,Eating out,1,50,50
+m2023-10,Bus pass top-up,Public transport,1,100,100
+m2023-10,City Market,Groceries,3,400,400
+m2023-10,Clothing shop,Shopping,1,500,500
+m2023-10,Electronics shop,Shopping,2,400,400
+m2023-10,Falafel Stand,Eating out,3,450,450
+m2023-10,Fresh Market,Groceries,2,300,300
+m2023-10,Music app,Subscriptions,1,20,20
+m2023-10,Neighborhood Grocer,Groceries,1,200,200
+m2023-10,Pizza Place,Eating out,1,50,50
+m2023-10,Scooter rides,Scooters,9,180,180
+m2023-10,Sushi Bar,Eating out,2,150,150
+m2023-10,Video streaming,Subscriptions,1,50,50
+m2023-11,Bus pass top-up,Public transport,1,100,100
+m2023-11,City Market,Groceries,3,350,350
+m2023-11,Clothing shop,Shopping,3,1200,1200
+m2023-11,Corner Café,Eating out,1,150,150
+m2023-11,Falafel Stand,Eating out,2,150,150
+m2023-11,Fresh Market,Groceries,1,150,150
+m2023-11,Music app,Subscriptions,1,20,20
+m2023-11,Neighborhood Grocer,Groceries,2,350,350
+m2023-11,Pizza Place,Eating out,2,200,200
+m2023-11,Scooter rides,Scooters,12,240,240
+m2023-11,Sushi Bar,Eating out,1,50,50
+m2023-11,Video streaming,Subscriptions,1,50,50
+m2023-12,Burger Joint,Eating out,2,200,200
+m2023-12,Bus pass top-up,Public transport,1,100,100
+m2023-12,City Market,Groceries,4,600,600
+m2023-12,Clothing shop,Shopping,1,100,100
+m2023-12,Corner Café,Eating out,2,150,150
+m2023-12,Fresh Market,Groceries,1,150,150
+m2023-12,Music app,Subscriptions,1,20,20
+m2023-12,Neighborhood Grocer,Groceries,1,100,100
+m2023-12,Online store,Shopping,2,600,600
+m2023-12,Pizza Place,Eating out,1,100,100
+m2023-12,Scooter rides,Scooters,10,200,200
+m2023-12,Sushi Bar,Eating out,1,50,50
+m2023-12,Video streaming,Subscriptions,1,50,50
+m2024-01,Bus pass top-up,Public transport,1,100,100
+m2024-01,City Market,Groceries,1,150,150
+m2024-01,Corner Café,Eating out,3,300,300
+m2024-01,Falafel Stand,Eating out,3,200,200
+m2024-01,Music app,Subscriptions,1,20,20
+m2024-01,Neighborhood Grocer,Groceries,5,700,700
+m2024-01,Online store,Shopping,2,400,400
+m2024-01,Pizza Place,Eating out,1,50,50
+m2024-01,Scooter rides,Scooters,12,240,240
+m2024-01,Sushi Bar,Eating out,1,50,50
+m2024-01,Video streaming,Subscriptions,1,50,50
+m2024-02,Burger Joint,Eating out,3,300,300
+m2024-02,Bus pass top-up,Public transport,1,100,100
+m2024-02,City Market,Groceries,4,600,600
+m2024-02,Electronics shop,Shopping,1,500,500
+m2024-02,Falafel Stand,Eating out,2,200,200
+m2024-02,Fresh Market,Groceries,2,200,200
+m2024-02,Music app,Subscriptions,1,20,20
+m2024-02,Neighborhood Grocer,Groceries,2,350,350
+m2024-02,Pizza Place,Eating out,3,200,200
+m2024-02,Scooter rides,Scooters,12,240,240
+m2024-02,Sushi Bar,Eating out,2,250,250
+m2024-02,Video streaming,Subscriptions,1,50,50
+m2024-03,Burger Joint,Eating out,1,50,50
+m2024-03,Bus pass top-up,Public transport,1,100,100
+m2024-03,City Market,Groceries,1,200,200
+m2024-03,Corner Café,Eating out,1,50,50
+m2024-03,Falafel Stand,Eating out,4,500,500
+m2024-03,Fresh Market,Groceries,3,450,450
+m2024-03,Music app,Subscriptions,1,20,20
+m2024-03,Neighborhood Grocer,Groceries,2,250,250
+m2024-03,Online store,Shopping,1,100,100
+m2024-03,Pizza Place,Eating out,1,100,100
+m2024-03,Scooter rides,Scooters,12,240,240
+m2024-03,Sushi Bar,Eating out,3,150,150
+m2024-03,Video streaming,Subscriptions,1,50,50
+m2024-04,Burger Joint,Eating out,5,550,550
+m2024-04,Bus pass top-up,Public transport,1,100,100
+m2024-04,City Market,Groceries,3,400,400
+m2024-04,Corner Café,Eating out,2,100,100
+m2024-04,Electronics shop,Shopping,1,100,100
+m2024-04,Falafel Stand,Eating out,1,50,50
+m2024-04,Fresh Market,Groceries,1,100,100
+m2024-04,Music app,Subscriptions,1,20,20
+m2024-04,Neighborhood Grocer,Groceries,3,400,400
+m2024-04,Online store,Shopping,1,100,100
+m2024-04,Pizza Place,Eating out,2,100,100
+m2024-04,Scooter rides,Scooters,11,220,220
+m2024-04,Video streaming,Subscriptions,1,50,50
+m2024-05,Burger Joint,Eating out,3,350,350
+m2024-05,Bus pass top-up,Public transport,1,100,100
+m2024-05,City Market,Groceries,2,350,350
+m2024-05,Clothing shop,Shopping,2,400,400
+m2024-05,Corner Café,Eating out,4,350,350
+m2024-05,Falafel Stand,Eating out,1,50,50
+m2024-05,Fresh Market,Groceries,2,250,250
+m2024-05,Music app,Subscriptions,1,20,20
+m2024-05,Neighborhood Grocer,Groceries,2,300,300
+m2024-05,Pizza Place,Eating out,2,250,250
+m2024-05,Scooter rides,Scooters,10,200,200
+m2024-05,Video streaming,Subscriptions,1,50,50
+m2024-06,Burger Joint,Eating out,1,50,50
+m2024-06,Bus pass top-up,Public transport,1,100,100
+m2024-06,City Market,Groceries,4,700,700
+m2024-06,Corner Café,Eating out,2,150,150
+m2024-06,Electronics shop,Shopping,1,300,300
+m2024-06,Falafel Stand,Eating out,1,150,150
+m2024-06,Fresh Market,Groceries,2,300,300
+m2024-06,Music app,Subscriptions,1,20,20
+m2024-06,Neighborhood Grocer,Groceries,2,200,200
+m2024-06,Pizza Place,Eating out,2,250,250
+m2024-06,Scooter rides,Scooters,15,300,300
+m2024-06,Sushi Bar,Eating out,2,100,100
+m2024-06,Video streaming,Subscriptions,1,50,50
+m2024-07,Burger Joint,Eating out,2,200,200
+m2024-07,Bus pass top-up,Public transport,1,100,100
+m2024-07,City Market,Groceries,6,900,900
+m2024-07,Electronics shop,Shopping,1,100,100
+m2024-07,Falafel Stand,Eating out,1,100,100
+m2024-07,Fresh Market,Groceries,2,300,300
+m2024-07,Music app,Subscriptions,1,20,20
+m2024-07,Pizza Place,Eating out,4,500,500
+m2024-07,Scooter rides,Scooters,13,260,260
+m2024-07,Sushi Bar,Eating out,3,200,200
+m2024-07,Video streaming,Subscriptions,1,50,50
+m2024-08,Burger Joint,Eating out,2,300,300
+m2024-08,Bus pass top-up,Public transport,1,100,100
+m2024-08,City Market,Groceries,3,450,450
+m2024-08,Electronics shop,Shopping,1,300,300
+m2024-08,Fresh Market,Groceries,2,350,350
+m2024-08,Music app,Subscriptions,1,20,20
+m2024-08,Neighborhood Grocer,Groceries,2,350,350
+m2024-08,Pizza Place,Eating out,2,200,200
+m2024-08,Scooter rides,Scooters,13,260,260
+m2024-08,Sushi Bar,Eating out,5,550,550
+m2024-08,Video streaming,Subscriptions,1,50,50
+m2024-09,Burger Joint,Eating out,2,250,250
+m2024-09,Bus pass top-up,Public transport,1,100,100
+m2024-09,City Market,Groceries,3,550,550
+m2024-09,Corner Café,Eating out,3,150,150
+m2024-09,Electronics shop,Shopping,1,100,100
+m2024-09,Falafel Stand,Eating out,3,350,350
+m2024-09,Fresh Market,Groceries,2,350,350
+m2024-09,Music app,Subscriptions,1,20,20
+m2024-09,Neighborhood Grocer,Groceries,1,100,100
+m2024-09,Online store,Shopping,2,600,600
+m2024-09,Pizza Place,Eating out,2,250,250
+m2024-09,Scooter rides,Scooters,16,320,320
+m2024-09,Sushi Bar,Eating out,1,100,100
+m2024-09,Video streaming,Subscriptions,1,50,50
+m2024-10,Burger Joint,Eating out,2,300,300
+m2024-10,Bus pass top-up,Public transport,1,100,100
+m2024-10,City Market,Groceries,4,550,550
+m2024-10,Corner Café,Eating out,3,400,400
+m2024-10,Electronics shop,Shopping,2,700,700
+m2024-10,Fresh Market,Groceries,4,550,550
+m2024-10,Music app,Subscriptions,1,20,20
+m2024-10,Pizza Place,Eating out,1,100,100
+m2024-10,Scooter rides,Scooters,15,300,300
+m2024-10,Sushi Bar,Eating out,2,250,250
+m2024-10,Video streaming,Subscriptions,1,50,50
+m2024-11,Burger Joint,Eating out,2,200,200
+m2024-11,Bus pass top-up,Public transport,1,100,100
+m2024-11,Corner Café,Eating out,1,100,100
+m2024-11,Electronics shop,Shopping,1,200,200
+m2024-11,Falafel Stand,Eating out,2,250,250
+m2024-11,Fresh Market,Groceries,3,400,400
+m2024-11,Music app,Subscriptions,1,20,20
+m2024-11,Neighborhood Grocer,Groceries,3,450,450
+m2024-11,Online store,Shopping,1,500,500
+m2024-11,Pizza Place,Eating out,4,500,500
+m2024-11,Scooter rides,Scooters,13,260,260
+m2024-11,Sushi Bar,Eating out,1,150,150
+m2024-11,Video streaming,Subscriptions,1,50,50
+m2024-12,Burger Joint,Eating out,2,150,150
+m2024-12,Bus pass top-up,Public transport,1,100,100
+m2024-12,City Market,Groceries,1,100,100
+m2024-12,Clothing shop,Shopping,2,1000,1000
+m2024-12,Corner Café,Eating out,3,300,300
+m2024-12,Falafel Stand,Eating out,1,100,100
+m2024-12,Fresh Market,Groceries,2,350,350
+m2024-12,Music app,Subscriptions,1,20,20
+m2024-12,Neighborhood Grocer,Groceries,3,350,350
+m2024-12,Pizza Place,Eating out,1,100,100
+m2024-12,Scooter rides,Scooters,12,240,240
+m2024-12,Sushi Bar,Eating out,3,300,300
+m2024-12,Video streaming,Subscriptions,1,50,50
+m2025-01,Burger Joint,Eating out,1,50,50
+m2025-01,Bus pass top-up,Public transport,1,100,100
+m2025-01,City Market,Groceries,4,500,500
+m2025-01,Corner Café,Eating out,1,100,100
+m2025-01,Falafel Stand,Eating out,2,150,150
+m2025-01,Fresh Market,Groceries,2,200,200
+m2025-01,Music app,Subscriptions,1,20,20
+m2025-01,Neighborhood Grocer,Groceries,2,250,250
+m2025-01,Online store,Shopping,1,200,200
+m2025-01,Pizza Place,Eating out,5,600,600
+m2025-01,Scooter rides,Scooters,16,320,320
+m2025-01,Sushi Bar,Eating out,1,50,50
+m2025-01,Video streaming,Subscriptions,1,50,50
+m2025-02,Burger Joint,Eating out,3,350,350
+m2025-02,Bus pass top-up,Public transport,1,100,100
+m2025-02,City Market,Groceries,3,500,500
+m2025-02,Clothing shop,Shopping,1,100,100
+m2025-02,Corner Café,Eating out,1,150,150
+m2025-02,Falafel Stand,Eating out,2,150,150
+m2025-02,Fresh Market,Groceries,1,100,100
+m2025-02,Music app,Subscriptions,1,20,20
+m2025-02,Neighborhood Grocer,Groceries,2,350,350
+m2025-02,Online store,Shopping,1,200,200
+m2025-02,Pizza Place,Eating out,1,150,150
+m2025-02,Scooter rides,Scooters,13,260,260
+m2025-02,Sushi Bar,Eating out,2,150,150
+m2025-02,Video streaming,Subscriptions,1,50,50
+m2025-03,Burger Joint,Eating out,3,300,300
+m2025-03,Bus pass top-up,Public transport,1,100,100
+m2025-03,City Market,Groceries,2,300,300
+m2025-03,Clothing shop,Shopping,1,200,200
+m2025-03,Corner Café,Eating out,1,100,100
+m2025-03,Falafel Stand,Eating out,4,450,450
+m2025-03,Fresh Market,Groceries,2,250,250
+m2025-03,Music app,Subscriptions,1,20,20
+m2025-03,Neighborhood Grocer,Groceries,4,700,700
+m2025-03,Pizza Place,Eating out,1,50,50
+m2025-03,Scooter rides,Scooters,13,260,260
+m2025-03,Sushi Bar,Eating out,3,400,400
+m2025-03,Video streaming,Subscriptions,1,50,50
+m2025-04,Bus pass top-up,Public transport,1,100,100
+m2025-04,City Market,Groceries,4,650,650
+m2025-04,Clothing shop,Shopping,1,500,500
+m2025-04,Corner Café,Eating out,4,500,500
+m2025-04,Falafel Stand,Eating out,3,300,300
+m2025-04,Fresh Market,Groceries,3,450,450
+m2025-04,Music app,Subscriptions,1,20,20
+m2025-04,Pizza Place,Eating out,2,250,250
+m2025-04,Scooter rides,Scooters,15,300,300
+m2025-04,Sushi Bar,Eating out,2,200,200
+m2025-04,Video streaming,Subscriptions,1,50,50
+m2025-05,Burger Joint,Eating out,3,400,400
+m2025-05,Bus pass top-up,Public transport,1,100,100
+m2025-05,City Market,Groceries,2,350,350
+m2025-05,Corner Café,Eating out,2,200,200
+m2025-05,Electronics shop,Shopping,1,300,300
+m2025-05,Falafel Stand,Eating out,3,400,400
+m2025-05,Fresh Market,Groceries,2,250,250
+m2025-05,Music app,Subscriptions,1,20,20
+m2025-05,Neighborhood Grocer,Groceries,4,700,700
+m2025-05,Pizza Place,Eating out,1,100,100
+m2025-05,Scooter rides,Scooters,15,300,300
+m2025-05,Sushi Bar,Eating out,1,100,100
+m2025-05,Video streaming,Subscriptions,1,50,50
+m2025-06,Burger Joint,Eating out,2,100,100
+m2025-06,Bus pass top-up,Public transport,1,100,100
+m2025-06,City Market,Groceries,4,550,550
+m2025-06,Corner Café,Eating out,2,150,150
+m2025-06,Electronics shop,Shopping,1,200,200
+m2025-06,Falafel Stand,Eating out,1,100,100
+m2025-06,Fresh Market,Groceries,1,100,100
+m2025-06,Music app,Subscriptions,1,20,20
+m2025-06,Neighborhood Grocer,Groceries,2,200,200
+m2025-06,Online store,Shopping,1,500,500
+m2025-06,Pizza Place,Eating out,1,50,50
+m2025-06,Scooter rides,Scooters,17,340,340
+m2025-06,Sushi Bar,Eating out,3,350,350
+m2025-06,Video streaming,Subscriptions,1,50,50
+m2025-07,Bus pass top-up,Public transport,1,100,100
+m2025-07,City Market,Groceries,1,100,100
+m2025-07,Corner Café,Eating out,3,300,300
+m2025-07,Electronics shop,Shopping,1,100,100
+m2025-07,Falafel Stand,Eating out,4,300,300
+m2025-07,Fresh Market,Groceries,3,500,500
+m2025-07,Music app,Subscriptions,1,20,20
+m2025-07,Neighborhood Grocer,Groceries,4,550,550
+m2025-07,Pizza Place,Eating out,1,100,100
+m2025-07,Scooter rides,Scooters,16,320,320
+m2025-07,Sushi Bar,Eating out,2,200,200
+m2025-07,Video streaming,Subscriptions,1,50,50
+m2025-08,Burger Joint,Eating out,4,350,350
+m2025-08,Bus pass top-up,Public transport,1,100,100
+m2025-08,City Market,Groceries,1,150,150
+m2025-08,Corner Café,Eating out,1,50,50
+m2025-08,Falafel Stand,Eating out,2,150,150
+m2025-08,Fresh Market,Groceries,2,350,350
+m2025-08,Music app,Subscriptions,1,20,20
+m2025-08,Neighborhood Grocer,Groceries,3,350,350
+m2025-08,Online store,Shopping,2,600,600
+m2025-08,Pizza Place,Eating out,4,350,350
+m2025-08,Scooter rides,Scooters,16,320,320
+m2025-08,Sushi Bar,Eating out,1,150,150
+m2025-08,Video streaming,Subscriptions,1,50,50
+m2025-09,Burger Joint,Eating out,1,150,150
+m2025-09,Bus pass top-up,Public transport,1,100,100
+m2025-09,City Market,Groceries,2,200,200
+m2025-09,Clothing shop,Shopping,1,100,100
+m2025-09,Corner Café,Eating out,1,50,50
+m2025-09,Electronics shop,Shopping,1,200,200
+m2025-09,Falafel Stand,Eating out,5,500,500
+m2025-09,Fresh Market,Groceries,3,500,500
+m2025-09,Music app,Subscriptions,1,20,20
+m2025-09,Neighborhood Grocer,Groceries,2,350,350
+m2025-09,Online store,Shopping,1,200,200
+m2025-09,Pizza Place,Eating out,4,400,400
+m2025-09,Scooter rides,Scooters,19,380,380
+m2025-09,Sushi Bar,Eating out,2,150,150
+m2025-09,Video streaming,Subscriptions,1,50,50
+m2025-10,Burger Joint,Eating out,5,650,650
+m2025-10,Bus pass top-up,Public transport,1,100,100
+m2025-10,City Market,Groceries,3,400,400
+m2025-10,Corner Café,Eating out,3,350,350
+m2025-10,Fresh Market,Groceries,2,350,350
+m2025-10,Music app,Subscriptions,1,20,20
+m2025-10,Neighborhood Grocer,Groceries,2,250,250
+m2025-10,Online store,Shopping,1,100,100
+m2025-10,Scooter rides,Scooters,19,380,380
+m2025-10,Sushi Bar,Eating out,2,100,100
+m2025-10,Video streaming,Subscriptions,1,50,50
+m2025-11,Burger Joint,Eating out,1,150,150
+m2025-11,Bus pass top-up,Public transport,1,100,100
+m2025-11,City Market,Groceries,4,650,650
+m2025-11,Clothing shop,Shopping,1,300,300
+m2025-11,Corner Café,Eating out,3,200,200
+m2025-11,Falafel Stand,Eating out,3,400,400
+m2025-11,Fresh Market,Groceries,3,550,550
+m2025-11,Music app,Subscriptions,1,20,20
+m2025-11,Neighborhood Grocer,Groceries,1,200,200
+m2025-11,Pizza Place,Eating out,2,250,250
+m2025-11,Scooter rides,Scooters,19,380,380
+m2025-11,Sushi Bar,Eating out,4,350,350
+m2025-11,Video streaming,Subscriptions,1,50,50
+m2025-12,Burger Joint,Eating out,3,350,350
+m2025-12,Bus pass top-up,Public transport,1,100,100
+m2025-12,City Market,Groceries,4,700,700
+m2025-12,Clothing shop,Shopping,1,200,200
+m2025-12,Corner Café,Eating out,5,350,350
+m2025-12,Falafel Stand,Eating out,1,150,150
+m2025-12,Fresh Market,Groceries,3,550,550
+m2025-12,Music app,Subscriptions,1,20,20
+m2025-12,Neighborhood Grocer,Groceries,1,150,150
+m2025-12,Pizza Place,Eating out,2,100,100
+m2025-12,Scooter rides,Scooters,18,360,360
+m2025-12,Sushi Bar,Eating out,1,100,100
+m2025-12,Video streaming,Subscriptions,1,50,50
+m2026-01,Burger Joint,Eating out,1,100,100
+m2026-01,Bus pass top-up,Public transport,1,100,100
+m2026-01,City Market,Groceries,4,550,550
+m2026-01,Clothing shop,Shopping,1,100,100
+m2026-01,Corner Café,Eating out,3,200,200
+m2026-01,Falafel Stand,Eating out,2,150,150
+m2026-01,Music app,Subscriptions,1,20,20
+m2026-01,Neighborhood Grocer,Groceries,2,250,250
+m2026-01,Online store,Shopping,1,500,500
+m2026-01,Pizza Place,Eating out,2,200,200
+m2026-01,Scooter rides,Scooters,18,360,360
+m2026-01,Sushi Bar,Eating out,3,350,350
+m2026-01,Video streaming,Subscriptions,1,50,50
+m2026-02,Burger Joint,Eating out,2,250,250
+m2026-02,Bus pass top-up,Public transport,1,100,100
+m2026-02,City Market,Groceries,2,200,200
+m2026-02,Corner Café,Eating out,2,150,150
+m2026-02,Electronics shop,Shopping,3,700,700
+m2026-02,Fresh Market,Groceries,1,200,200
+m2026-02,Music app,Subscriptions,1,20,20
+m2026-02,Neighborhood Grocer,Groceries,3,400,400
+m2026-02,Pizza Place,Eating out,4,400,400
+m2026-02,Scooter rides,Scooters,19,380,380
+m2026-02,Sushi Bar,Eating out,3,150,150
+m2026-02,Video streaming,Subscriptions,1,50,50
+m2026-03,Burger Joint,Eating out,1,150,150
+m2026-03,Bus pass top-up,Public transport,1,100,100
+m2026-03,City Market,Groceries,3,550,550
+m2026-03,Clothing shop,Shopping,1,500,500
+m2026-03,Corner Café,Eating out,1,100,100
+m2026-03,Falafel Stand,Eating out,4,400,400
+m2026-03,Fresh Market,Groceries,2,350,350
+m2026-03,Music app,Subscriptions,1,20,20
+m2026-03,Neighborhood Grocer,Groceries,3,400,400
+m2026-03,Pizza Place,Eating out,1,50,50
+m2026-03,Scooter rides,Scooters,20,400,400
+m2026-03,Sushi Bar,Eating out,5,550,550
+m2026-03,Video streaming,Subscriptions,1,50,50
+m2026-04,Burger Joint,Eating out,1,50,50
+m2026-04,Bus pass top-up,Public transport,1,100,100
+m2026-04,City Market,Groceries,3,400,400
+m2026-04,Clothing shop,Shopping,1,100,100
+m2026-04,Corner Café,Eating out,4,300,300
+m2026-04,Falafel Stand,Eating out,1,150,150
+m2026-04,Fresh Market,Groceries,3,500,500
+m2026-04,Music app,Subscriptions,1,20,20
+m2026-04,Neighborhood Grocer,Groceries,2,250,250
+m2026-04,Online store,Shopping,2,200,200
+m2026-04,Pizza Place,Eating out,1,150,150
+m2026-04,Scooter rides,Scooters,19,380,380
+m2026-04,Sushi Bar,Eating out,5,400,400
+m2026-04,Video streaming,Subscriptions,1,50,50
+m2026-05,Burger Joint,Eating out,1,150,150
+m2026-05,Bus pass top-up,Public transport,1,100,100
+m2026-05,City Market,Groceries,5,700,700
+m2026-05,Corner Café,Eating out,2,200,200
+m2026-05,Electronics shop,Shopping,2,300,300
+m2026-05,Falafel Stand,Eating out,4,400,400
+m2026-05,Music app,Subscriptions,1,20,20
+m2026-05,Neighborhood Grocer,Groceries,3,400,400
+m2026-05,Online store,Shopping,1,100,100
+m2026-05,Pizza Place,Eating out,5,500,500
+m2026-05,Scooter rides,Scooters,19,380,380
+m2026-05,Sushi Bar,Eating out,2,150,150
+m2026-05,Video streaming,Subscriptions,1,50,50
+m2026-06,Burger Joint,Eating out,3,250,250
+m2026-06,Bus pass top-up,Public transport,1,100,100
+m2026-06,City Market,Groceries,3,450,450
+m2026-06,Clothing shop,Shopping,1,300,300
+m2026-06,Corner Café,Eating out,2,150,150
+m2026-06,Electronics shop,Shopping,1,500,500
+m2026-06,Falafel Stand,Eating out,3,250,250
+m2026-06,Fresh Market,Groceries,3,400,400
+m2026-06,Music app,Subscriptions,1,20,20
+m2026-06,Neighborhood Grocer,Groceries,2,200,200
+m2026-06,Online store,Shopping,1,500,500
+m2026-06,Pizza Place,Eating out,5,350,350
+m2026-06,Scooter rides,Scooters,21,420,420
+m2026-06,Video streaming,Subscriptions,1,50,50
+m2026-07,Burger Joint,Eating out,1,100,100
+m2026-07,Bus pass top-up,Public transport,1,100,100
+m2026-07,City Market,Groceries,1,200,200
+m2026-07,Clothing shop,Shopping,1,500,500
+m2026-07,Corner Café,Eating out,4,300,300
+m2026-07,Falafel Stand,Eating out,2,250,250
+m2026-07,Fresh Market,Groceries,3,600,600
+m2026-07,Music app,Subscriptions,1,20,20
+m2026-07,Neighborhood Grocer,Groceries,2,300,300
+m2026-07,Pizza Place,Eating out,2,150,150
+m2026-07,Scooter rides,Scooters,20,400,400
+m2026-07,Sushi Bar,Eating out,4,400,400
+m2026-07,Video streaming,Subscriptions,1,50,50
+m2026-08,Burger Joint,Eating out,3,250,250
+m2026-08,Bus pass top-up,Public transport,1,100,100
+m2026-08,City Market,Groceries,2,300,300
+m2026-08,Clothing shop,Shopping,2,800,800
+m2026-08,Corner Café,Eating out,3,350,350
+m2026-08,Electronics shop,Shopping,1,300,300
+m2026-08,Falafel Stand,Eating out,4,400,400
+m2026-08,Fresh Market,Groceries,2,300,300
+m2026-08,Music app,Subscriptions,1,20,20
+m2026-08,Neighborhood Grocer,Groceries,2,400,400
+m2026-08,Pizza Place,Eating out,1,50,50
+m2026-08,Scooter rides,Scooters,21,420,420
+m2026-08,Sushi Bar,Eating out,1,100,100
+m2026-08,Video streaming,Subscriptions,1,50,50
+m2026-09,Burger Joint,Eating out,4,450,450
+m2026-09,Bus pass top-up,Public transport,1,100,100
+m2026-09,City Market,Groceries,2,300,300
+m2026-09,Corner Café,Eating out,1,100,100
+m2026-09,Falafel Stand,Eating out,2,200,200
+m2026-09,Music app,Subscriptions,1,20,20
+m2026-09,Neighborhood Grocer,Groceries,4,650,650
+m2026-09,Online store,Shopping,1,300,300
+m2026-09,Pizza Place,Eating out,3,250,250
+m2026-09,Scooter rides,Scooters,21,420,420
+m2026-09,Sushi Bar,Eating out,3,350,350
+m2026-09,Video streaming,Subscriptions,1,50,50
+m2026-10,Burger Joint,Eating out,2,250,250
+m2026-10,Bus pass top-up,Public transport,1,100,100
+m2026-10,Corner Café,Eating out,1,100,100
+m2026-10,Fresh Market,Groceries,1,100,100
+m2026-10,Music app,Subscriptions,1,20,20
+m2026-10,Neighborhood Grocer,Groceries,1,200,200
+m2026-10,Online store,Shopping,1,300,300
+m2026-10,Scooter rides,Scooters,5,100,100
+m2026-10,Sushi Bar,Eating out,1,50,50
+m2026-10,Video streaming,Subscriptions,1,50,50

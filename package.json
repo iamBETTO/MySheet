@@ -1,0 +1,36 @@
+{
+  "name": "mysheet",
+  "private": true,
+  "version": "2.0.0-alpha.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "build": "tsc --noEmit && vite build && node scripts/artifact.mjs",
+    "e2e": "playwright test",
+    "check": "npm run test && npm run build && npm run e2e",
+    "compare": "node compare/build-v1.mjs && node scripts/compare.mjs",
+    "demo": "node scripts/build-demo.mjs",
+    "site": "node scripts/site.mjs"
+  },
+  "dependencies": {
+    "@preact/signals": "2.11.2",
+    "d3-array": "3.2.4",
+    "d3-scale": "4.0.2",
+    "d3-shape": "3.2.0",
+    "preact": "10.29.8"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1",
+    "@preact/preset-vite": "2.10.6",
+    "@types/d3-array": "3.2.2",
+    "@types/d3-scale": "4.0.9",
+    "@types/d3-shape": "3.2.0",
+    "axe-core": "4.10.2",
+    "d3": "7.9.0",
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "vitest": "4.1.11"
+  }
+}

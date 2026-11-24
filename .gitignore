@@ -1,0 +1,7 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+compare/out/
+compare/v1/index.html
+site/

@@ -1,0 +1,257 @@
+/* v2's own pieces in v1's look: the page, the tab bar at the bottom on phones (decision d36), the Undo message, the
+   editing sheets and forms, Settings and Import. v1's styles are in v1.css; tokens only (CLAUDE.md rule 10). */
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-padding-block: 96px 104px; }
+@media (min-width: 700px) { html { scroll-padding-block: 190px 24px; } }
+body {
+  margin: 0; min-height: 100vh; color: var(--color-fg); font-family: var(--font); font-size: 14px; line-height: 1.4; -webkit-text-size-adjust: 100%;
+  background-color: var(--color-bg);
+  background-image:
+    radial-gradient(60rem 40rem at 8% -10%, var(--glow-1), transparent 60%),
+    radial-gradient(50rem 36rem at 105% 10%, var(--glow-2), transparent 60%),
+    radial-gradient(60rem 40rem at 50% 110%, var(--glow-3), transparent 60%);
+  background-attachment: fixed;
+}
+#app { padding: 16px 16px 24px; }
+h1, h2, h3, p { margin: 0; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.rm-skip:focus-visible { transform: none; }
+.rm-wait { margin: 0; color: var(--color-fg-muted); font-size: 14px; }
+.rm-fail { min-height: 44px; }
+
+/* The header's frosted glass is drawn by a layer behind it, not by the header itself: a blur on the header would trap the
+   phone tab bar (position: fixed) inside the header instead of the screen. Looks the same as v1. */
+.rm-head { background: none; -webkit-backdrop-filter: none; backdrop-filter: none; isolation: isolate; }
+.rm-head::before { content: ""; position: absolute; inset: 0; z-index: -1; border-radius: inherit; background: color-mix(in srgb, var(--color-bg) 84%, transparent); -webkit-backdrop-filter: blur(18px) saturate(160%); backdrop-filter: blur(18px) saturate(160%); }
+@media (prefers-reduced-transparency: reduce), (prefers-contrast: more) { .rm-head::before { background: var(--color-bg); -webkit-backdrop-filter: none; backdrop-filter: none; } }
+/* The tab bar sits at the bottom on phones, floating over the page; from 700px it stays in the header as in v1. */
+@media (max-width: 699px) {
+  .rm-nav { position: fixed; z-index: 6; inset-inline: 12px; bottom: calc(10px + env(safe-area-inset-bottom)); }
+  .rm-main { padding-bottom: 92px; }
+}
+.rm-glance-body { display: grid; gap: 8px; } /* the card body already gives v1's 8px above */
+.rm-glance .rm-row-flat { border-top: 0; padding: 4px 0 0; }
+.rm-pace-track { display: block; }
+.rm-chips { display: contents; }
+.rm-import { flex: none; }
+.rm-tools .rm-count { flex: 1 1 auto; }
+.rm-tools .rm-selbar { flex: 1 1 100%; }
+.rm-empty-row { color: var(--color-fg-muted); }
+.rm td.desc .desc-note { display: block; color: var(--color-fg-muted); font-size: 12px; overflow: hidden; text-overflow: ellipsis; }
+.rm td.dt .dt-short { display: none; }
+@media (max-width: 560px) { .rm td.dt .dt-long { display: none; } .rm td.dt .dt-short { display: inline; } }
+.rm-day .amt-short { display: none; }
+@media (max-width: 560px) { .rm-day .amt-long { display: none; } .rm-day .amt-short { display: inline; } .rm-day .nt-text { display: none; } }
+.rm-daynote { font: inherit; font-size: 13px; color: var(--color-fg); background: color-mix(in srgb, var(--nc) 18%, var(--color-panel)); border: 0; border-inline-start: 4px solid var(--nc); border-radius: 8px; padding: 3px 11px; min-height: 32px; cursor: pointer; }
+.rm-lim-actions { display: flex; flex-wrap: wrap; gap: 0 16px; }
+/* Home's welcome box before the first import (plans/empty-screens.md): a title and two buttons, given room. */
+.rm-welcome .rm-lim-actions { margin-top: var(--gap-md); gap: var(--gap-sm); }
+.rm-move .move-pick { display: inline-flex; min-width: 0; max-width: 100%; }
+.rm-move .rm-select { max-width: 100%; }
+.rm-part-item { width: 100%; font: inherit; color: inherit; background: none; border-width: 1px 0 0; border-style: solid; border-color: var(--color-border-line); text-align: start; cursor: pointer; min-height: 44px; }
+.rm-part-item:first-of-type { border-top: 0; }
+.rm-caltitle { margin: 0; }
+.rm .m { white-space: nowrap; }
+
+/* ---- Undo message: a small dark glass pill above the tab bar ---- */
+.toast-zone { position: fixed; inset-inline: 12px; bottom: calc(88px + env(safe-area-inset-bottom)); z-index: 20; display: flex; justify-content: center; pointer-events: none; }
+@media (min-width: 700px) { .toast-zone { bottom: 24px; } }
+.toast { display: flex; align-items: center; gap: 8px; max-width: 560px; padding: 6px 6px 6px 16px; border-radius: 18px; background: color-mix(in srgb, var(--color-fg) 88%, transparent); color: var(--color-bg); -webkit-backdrop-filter: blur(18px); backdrop-filter: blur(18px); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), var(--glass-shadow); pointer-events: auto; font-size: 14px; }
+.toast-problem { background: var(--color-bad); color: #fff; }
+.toast-btn { min-height: 40px; min-width: 40px; padding: 0 12px; border: 0; border-radius: 999px; background: none; color: inherit; font: inherit; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.toast-close { text-decoration: none; opacity: .8; }
+
+/* ---- Sheets (dialogs) in v1's glass panel look ---- */
+.sheet { width: min(560px, 100%); max-width: 100%; max-height: min(92vh, 92dvh); margin: auto auto 0; padding: 0; border: 1px solid var(--glass-edge); border-radius: 24px 24px 0 0; background: var(--color-panel); color: var(--color-fg); box-shadow: var(--glass-shadow); animation: rm-pop .32s var(--spring); }
+.sheet::backdrop { background: rgb(0 0 0 / .35); }
+@media (min-width: 600px) { .sheet { margin: auto; border-radius: 24px; } }
+@media (prefers-reduced-motion: reduce) { .sheet { animation: none; } }
+.sheet-body { display: flex; flex-direction: column; max-height: inherit; }
+.sheet-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 12px 16px; border-bottom: 1px solid var(--color-border-line); }
+.sheet-head h2 { font-size: 17px; font-weight: 600; }
+.sheet-content { overflow: auto; padding: 16px; display: grid; gap: 16px; }
+.sheet-foot { display: flex; flex-wrap: wrap; gap: 8px; padding: 12px 16px calc(12px + env(safe-area-inset-bottom)); border-top: 1px solid var(--color-border-line); }
+
+/* ---- Buttons used by the sheets and Settings: v1's pills ---- */
+.actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 44px; padding: 0 16px; border-radius: 999px; border: 1px solid var(--glass-edge); background: var(--glass); color: var(--color-fg); font: inherit; font-size: 13px; font-weight: 500; cursor: pointer; box-shadow: var(--glass-shine), var(--glass-shadow); transition: transform .3s var(--spring); }
+.btn:active { transform: scale(.94); }
+.btn:disabled, .btn.is-disabled { opacity: .45; cursor: default; }
+.btn .icon { width: 18px; height: 18px; }
+.btn-primary { background: var(--color-fg); border-color: var(--color-fg); color: var(--color-bg); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 4px 14px rgba(15, 20, 40, .14); }
+.btn-danger { color: var(--color-bad); }
+.btn-small { min-height: 36px; padding: 0 12px; }
+.btn-wide { width: 100%; margin-top: 12px; }
+.btn:has(input:focus-visible) { outline: 2px solid var(--color-fg); outline-offset: 2px; }
+.icon-btn { display: inline-grid; place-items: center; width: 44px; height: 44px; border: 1px solid var(--glass-edge); border-radius: 50%; background: var(--glass); color: var(--color-fg); cursor: pointer; flex: none; }
+.icon { width: 20px; height: 20px; flex: none; }
+.link-btn { min-height: 44px; padding: 0 2px; border: 0; background: none; color: var(--color-fg); font: inherit; font-size: 13px; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.link-inline { min-height: 0; padding: 0; font-size: inherit; display: inline; }
+:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { .btn { transition: none; } }
+
+/* ---- Settings and the sheets' content: v1's cards, rows and notes ---- */
+.stack { display: grid; gap: 20px; }
+.stack > * { min-width: 0; }
+.card { background: var(--color-panel); border: 1px solid color-mix(in srgb, var(--color-fg) 7%, transparent); border-radius: 22px; padding: 16px; display: grid; gap: 12px; min-width: 0; box-shadow: var(--card-shadow); }
+@media (max-width: 560px) { .card { border-radius: 18px; padding: 14px; } }
+.card > * { min-width: 0; }
+.card h2 { font-size: 16px; font-weight: 600; }
+.card p { color: var(--color-fg-muted); font-size: 13px; }
+.card-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.hint { color: var(--color-fg-muted); font-size: 13px; font-weight: 400; }
+.lead { color: var(--color-fg); font-size: 15px; font-weight: 600; }
+.plain { margin: 0; padding-inline-start: 16px; color: var(--color-fg-muted); font-size: 13px; }
+.note { color: var(--color-fg); }
+.card .note-problem, .note-problem { color: var(--color-bad); }
+.welcome { border-color: color-mix(in srgb, var(--color-fg) 20%, transparent); }
+.confirm { display: grid; gap: 8px; padding: 12px; border-radius: 14px; background: color-mix(in srgb, var(--color-bad) 8%, var(--color-panel)); border: 1px solid color-mix(in srgb, var(--color-bad) 35%, var(--color-border-line)); }
+.card .confirm p { color: var(--color-fg); }
+.rows { list-style: none; margin: 0; padding: 0; }
+.rows > li + li { border-top: 1px solid var(--color-border-line); }
+.row { display: flex; align-items: center; gap: 12px; width: 100%; min-height: 52px; padding: 8px 0; border: 0; background: none; color: var(--color-fg); font: inherit; text-align: start; cursor: pointer; }
+.row-static { cursor: default; }
+.row-child { padding-inline-start: 24px; }
+.row-main { flex: 1; min-width: 0; display: grid; }
+.row-title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 15px; }
+/* The grey line under a row wraps rather than cutting off its most useful part (the date), found on a 360px phone. */
+.row-sub { color: var(--color-fg-muted); font-size: 12px; }
+.row-amount { font-weight: 600; text-align: end; }
+.row-count { color: var(--color-fg-muted); font-size: 13px; }
+.day-head { padding: 8px 0 4px; color: var(--color-fg-muted); font-size: 12px; font-weight: 600; }
+.kvs { margin: 0; display: grid; }
+.kv { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 44px; padding: 8px 0; }
+.kvs > .kv + .kv { border-top: 1px solid var(--color-border-line); }
+.kv dt { display: grid; min-width: 0; }
+.kv dd { margin: 0; }
+.kv-sub { color: var(--color-fg-muted); font-size: 12px; }
+.kv-value { font-weight: 600; text-align: end; white-space: nowrap; }
+.table-wrap { overflow-x: auto; }
+.table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.table th, .table td { padding: 6px 8px; border-bottom: 1px solid var(--color-border-line); text-align: end; white-space: nowrap; }
+.table th:first-child { text-align: start; font-weight: 500; }
+.table thead th { color: var(--color-fg-muted); font-weight: 500; font-size: 12px; }
+.table td.cell-text { max-width: 12rem; overflow: hidden; text-overflow: ellipsis; text-align: start; }
+.table-caption { caption-side: top; text-align: start; padding: 8px 0; color: var(--color-fg); font-weight: 600; }
+
+/* ---- Forms ---- */
+.form { display: grid; gap: 16px; }
+.form-row { display: grid; gap: 4px; font-size: 13px; font-weight: 500; }
+.form-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.field { width: 100%; min-height: 44px; padding: 8px 14px; border: 1px solid var(--glass-edge); border-radius: 14px; background: var(--color-bg); color: var(--color-fg); font: inherit; font-size: 15px; font-weight: 400; }
+textarea.field { resize: vertical; }
+.check { display: flex; align-items: flex-start; gap: 8px; font-size: 14px; cursor: pointer; min-height: 32px; }
+.check input { width: 22px; height: 22px; margin: 1px 0 0; flex: none; accent-color: var(--color-fg); }
+.fieldset { display: grid; gap: 8px; margin: 0; padding: 0; border: 0; }
+.fieldset legend { padding: 0 0 4px; font-size: 13px; font-weight: 500; }
+.swatches { display: flex; flex-wrap: wrap; gap: 8px 16px; }
+.swatch-choice { display: inline-flex; align-items: center; gap: 6px; min-height: 44px; font-size: 14px; cursor: pointer; }
+.swatch-choice input { width: 20px; height: 20px; margin: 0; accent-color: var(--color-fg); }
+.note-swatch { display: inline-block; width: 12px; height: 12px; flex: none; border-radius: 4px; }
+.tx-head { display: grid; gap: 4px; }
+.tx-amount { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; }
+.tx-meta, .tx-desc { color: var(--color-fg-muted); font-size: 13px; }
+.import-summary .kv { min-height: 40px; }
+
+/* ---- Demo (v1's Demo button) ---- */
+/* Phones: four round buttons leave no room for the period beside the title, so the period gets its own row under
+   it (the owner, 6 Nov 2026, option A). The row break is the title bar's ::after. */
+@media (max-width: 699px) {
+  .rm-titlebar { flex-wrap: wrap; row-gap: var(--gap-sm); }
+  .rm-actions { display: contents; }
+  .rm-titlebar > .rm-titleside { flex: 1 1 0; }
+  .rm-titlebar::after { content: ""; order: 2; flex-basis: 100%; }
+  #period-btn { order: 3; flex: none; }
+}
+
+/* ---- Computer layout (the owner, 6 Nov 2026) ---- */
+/* From 1100px wide the page is a grid of two columns: cards marked half sit side by side, everything else takes the
+   full width. Rows line up, so a shorter card stretches to match the one beside it. Phones and tablets keep v1's column. */
+@media (min-width: 1100px) {
+  .rm { max-width: 1240px; }
+  .rm-page { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .rm-page > * { grid-column: 1 / -1; }
+  .rm-page > .half { grid-column: auto; }
+  /* While arranging, the tiles sit inside .arrange (display: contents), so they need their own spans. */
+  .arrange > * { grid-column: 1 / -1; }
+  .arrange > .tile.half { grid-column: auto; }
+  /* Activity: a transaction being edited docks beside the list instead of covering it. */
+  .rm-page:has(> .sheet.docked) { grid-template-columns: minmax(0, 1fr) 420px; align-items: start; }
+  .rm-page:has(> .sheet.docked) > .rm-card { grid-column: 1; }
+}
+.sheet.docked { position: sticky; inset: auto; top: 190px; z-index: auto; grid-column: 2; grid-row: 1; width: auto; max-height: calc(100dvh - 210px); margin: 0; border-radius: 22px; }
+
+/* ---- Arranging a page (plans/arrange-pages.md) ---- */
+/* Each card sits in a tile; on wide screens a half tile takes one of the two columns and its card fills the row. */
+.tile { min-width: 0; display: grid; }
+.tile > .rm-card { min-width: 0; }
+.arrange { display: contents; }
+.arrange-bar { border-color: color-mix(in srgb, var(--color-fg) 22%, transparent); }
+.arrange-bar h2:focus { outline: none; }
+.arrange-tile { display: grid; gap: var(--gap-sm); align-content: start; min-width: 0; padding: var(--pad-md) var(--pad-lg); border: 2px dashed color-mix(in srgb, var(--color-fg) 22%, transparent); border-radius: 22px; background: var(--color-panel); }
+.arrange-head { display: flex; align-items: center; gap: var(--gap-sm); min-width: 0; }
+.arrange-name { margin: 0; font-size: 16px; font-weight: 600; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.arrange-actions { display: flex; flex-wrap: wrap; gap: var(--gap-sm); }
+.btn[aria-pressed="true"] { background: var(--color-fg); border-color: var(--color-fg); color: var(--color-bg); }
+.drag-handle { display: inline-grid; place-items: center; flex: none; width: 44px; height: 44px; border: 1px solid var(--glass-edge); border-radius: 12px; background: var(--color-bg); color: var(--color-fg); cursor: grab; touch-action: none; }
+.tile.dragging .arrange-tile { border-style: solid; border-color: var(--color-fg); box-shadow: var(--glass-shadow); }
+.tile.dragging .drag-handle { cursor: grabbing; }
+.arrange-open { margin: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0 4px; }
+.arrange-open .rm-note { margin: 0; }
+
+/* ---- Names cut short in their own direction (Hebrew testing, 6 Nov 2026) ---- */
+/* A name the person typed or imported sits in <bdi dir="auto">. Making that element the one that cuts with "…" lets a
+   Hebrew name keep its beginning and lose its end (on the left), while the column keeps its alignment. */
+.rm td.desc > bdi, .rm-bar .n > bdi, .row-title > bdi, .cell-text > bdi, .desc-note > bdi {
+  display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  /* Line up with the column, whatever the name's own direction. Chrome and Safari know the -webkit- spelling. */
+  text-align: -webkit-match-parent; text-align: match-parent;
+}
+
+/* ---- Large text on phones (Android font size, 6 Nov 2026) ---- */
+/* Below 340px (about 130% text on a 360px phone) the frame and tables tighten so nothing is cut or wraps oddly. */
+.amt-whole, .rm-day .amt-tiny, .rm-calhead .wd-short { display: none; }
+@media (max-width: 340px) {
+  .rm-titlebar > .rm-titleside { min-width: 0; }
+  .rm-head h1 { font-size: 20px; }
+  .rm-actions { gap: 4px; }
+  .rm-nav { inset-inline: 6px; }
+  .rm-nav button { padding-inline: 0; }
+  .rm td, .rm th { padding-inline: 3px; }
+  .rm th.desc { max-width: 0; }
+  .rm th.desc button { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  /* Same value without ".00"; screen readers still read the full amount. */
+  .amt-full { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  .amt-whole { display: inline; }
+  /* Budget's limit rows: the bar on its own line, the amount under it, so a long amount never widens the row. */
+  .rm-pace:not(.total) { grid-template-columns: minmax(0, 1fr); grid-template-areas: "h" "tr" "amt"; row-gap: 4px; }
+  .rm-pace:not(.total) .rm-pace-amt { white-space: normal; }
+  /* A day box is too narrow for "₪3.9k": the amount shows short ("350", "4k"), exact in the day's card below. */
+  .rm-day .amt-short { display: none; }
+  .rm-day .amt-tiny { display: inline; }
+  .rm-day .amt { letter-spacing: -0.03em; }
+}
+
+/* ---- Saved entries set aside on load (6 Nov 2026) ---- */
+.set-aside { border-color: color-mix(in srgb, var(--color-warn) 45%, var(--color-border-line)); }
+.set-aside-list { margin: 0 0 var(--gap-sm); color: var(--color-fg); }
+
+
+/* Very large text (a page under 260px wide): a little less padding around the calendar and one-letter weekdays,
+   so three-digit day amounts still fit (the owner, 6 Nov 2026). */
+@media (max-width: 260px) {
+  #app { padding-inline: 8px; }
+  #calendar-month { padding-inline: 6px; }
+  .rm-day { padding-inline: 1px; }
+  .rm-calhead .wd-long { display: none; }
+  .rm-calhead .wd-short { display: inline; }
+}
+
+/* The held tile floats above the others while it follows the finger (useDragOrder). */
+.tile.dragging { position: relative; z-index: 4; }
+.tile.dragging .arrange-tile { box-shadow: 0 12px 32px rgba(15, 20, 40, .22); }
+.arrange:has(.tile.dragging) { user-select: none; -webkit-user-select: none; }
+
+/* Right-to-left (plans/translation.md, step 4). Charts keep time and amounts running left to right, as Hebrew charts
+   do (Material Design, Wikimedia); each label still shows its own words the right way round. */
+svg.chart { direction: ltr; }

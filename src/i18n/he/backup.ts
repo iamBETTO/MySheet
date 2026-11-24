@@ -1,0 +1,36 @@
+// Hebrew texts: Backup (plans/translation.md, step 5). Drafted by Claude for the owner to check; keys match en/backup.ts.
+import type { Key } from '../text';
+import type { Message } from '../types';
+
+export const backup = {
+  "backup.saved": "הגיבוי נשמר.",
+  "backup.declined": "לא נשמר קובץ.",
+  "backup.unavailable": "שמירת קבצים לא זמינה בתצוגה הזו.",
+  "backup.failed": "לא ניתן היה ליצור את הגיבוי. אפשר לנסות שוב; אם זה ממשיך לקרות, כדאי לספר ל-Claude.",
+  "backup.accounts": { one: "חשבון אחד", other: "{n} חשבונות" },
+  "backup.transactions": { one: "תנועה אחת", other: "{n} תנועות" },
+  "backup.months": { one: "חודש אחד", two: "חודשיים", other: "{n} חודשים" },
+  "backup.describe": "בגיבוי הזה: {accounts}, {transactions}, לאורך {months}.",
+  "backup.describeFrom": "בגיבוי הזה מ-{date}: {accounts}, {transactions}, לאורך {months}.",
+  "backup.restored": "השחזור הושלם. הכול תואם עכשיו לגיבוי.",
+  "backup.restoreFailed": "השחזור לא הסתיים, ולכן הנתונים שלך נטענו מחדש כמו שהם עכשיו. אפשר לנסות שוב; אם זה ממשיך לקרות, כדאי לספר ל-Claude.",
+  "backup.undone": "בוטל. הנתונים שלך חזרו למצבם לפני השחזור.",
+  "backup.undoFailed": "הביטול לא הסתיים. אפשר לנסות שוב; אם זה ממשיך לקרות, כדאי לספר ל-Claude.",
+  "backup.title": "גיבוי",
+  "backup.text": "קובץ אחד עם כל מה ששמרת. אפשר לשמור אותו בכל מקום; שחזור שלו מחזיר הכול.",
+  "backup.last": "הגיבוי האחרון מהמכשיר הזה: {date}.",
+  "backup.none": "עדיין לא נשמר גיבוי מהמכשיר הזה.",
+  "backup.download": "הורדת גיבוי",
+  "backup.restore": "שחזור מגיבוי…",
+  "backup.replaceWarning": "שחזור מחליף את כל מה שיש לך עכשיו. אפשר לבטל אותו עד שטוענים מחדש את הדף.",
+  "backup.replace": "להחליף את הנתונים שלי בגיבוי הזה",
+  "backup.keep": "להשאיר את הנתונים שלי",
+  "backup.notJson": "הקובץ הזה הוא לא גיבוי של MySheet: לא ניתן היה לקרוא אותו כ-JSON.",
+  "backup.notBackup": "הקובץ הזה הוא לא גיבוי של MySheet.",
+  "backup.newer": "הגיבוי הזה מגרסה חדשה יותר של MySheet (פורמט {format}), ולכן עוד אי אפשר לשחזר אותו כאן.",
+  "backup.damaged": "הגיבוי הזה פגום, ולכן שום דבר לא השתנה. הבעיה הראשונה: {problem}.",
+  "backup.remindTitle": "גיבוי הנתונים",
+  "backup.remindNone": "הנתונים שלך שמורים רק במכשיר הזה, ועדיין אין גיבוי.",
+  "backup.remindLast": "הנתונים שלך שמורים רק במכשיר הזה. הגיבוי האחרון: {date}.",
+  "backup.remindLater": "לא עכשיו",
+} satisfies Partial<Record<Key, Message>>;

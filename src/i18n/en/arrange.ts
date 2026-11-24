@@ -1,0 +1,30 @@
+// English texts: arrange (plans/translation.md). Keys are "arrange.<what>".
+import type { Message } from '../types';
+
+export const arrange = {
+  "arrange.open": "Arrange {page}",
+  "arrange.hiddenCount": { one: "{n} card hidden", other: "{n} cards hidden" },
+  "arrange.position": "{card}: position {at} of {count}.",
+  "arrange.heading": "Arranging {page}",
+  "arrange.helpWide": "Drag a card by its handle, or use its buttons. Half-width cards sit side by side; phones show one column in the same order.",
+  "arrange.helpNarrow": "Drag a card by its handle, or use its buttons. On a computer you can also choose which cards sit side by side.",
+  "arrange.saved": "{page} arranged",
+  "arrange.reset": "Reset to original",
+  "arrange.resetSaid": "{page} is back to its original layout. Press Done to keep it.",
+  "arrange.move": "Move {card}",
+  "arrange.earlier": "Earlier",
+  "arrange.earlierLabel": "Move {card} earlier",
+  "arrange.later": "Later",
+  "arrange.laterLabel": "Move {card} later",
+  "arrange.fullWidth": "Full width",
+  "arrange.halfSaid": "{card}: half width.",
+  "arrange.fullSaid": "{card}: full width.",
+  "arrange.hide": "Hide",
+  "arrange.hideLabel": "Hide {card}",
+  "arrange.hiddenSaid": "{card} hidden. It's listed under Hidden cards.",
+  "arrange.hiddenCards": "Hidden cards",
+  "arrange.show": "Show",
+  "arrange.showLabel": "Show {card}",
+  "arrange.shownSaid": "{card} is shown again.",
+  "arrange.keys": "Press the up and down arrow keys to move the card, or drag it.",
+} satisfies Record<string, Message>;
