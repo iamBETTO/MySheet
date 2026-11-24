@@ -24,5 +24,6 @@ Claude account. Google Drive backup was considered and dropped ("way too early")
 - [x] 2. Downloads outside Claude (a normal file); the backup reminder on Home; checks.
 - [x] 3. Manifest, icon, service worker, registration outside Claude; screen test: the page opens offline after
        one visit.
-- [ ] 4. Make the repository public, turn on GitHub Pages from `gh-pages`; push the site; check it on a phone.
+- [x] 4. Make the repository public, turn on GitHub Pages from `gh-pages`; push the site. Live 24 Nov 2026.
+       Still to do: the owner checks it on a phone (add to home screen).
 - [ ] 5. Full suite, compare, publish the Claude page too; roadmap; DEVLOG.

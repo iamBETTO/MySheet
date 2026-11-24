@@ -10,7 +10,9 @@ Each entry names the roadmap card it belongs to.
   texts and tests are made up. The old "Roadmap text before 13 Oct 2026" archive was dropped.
 - History restarted from this clean copy, so no earlier version is public. The full old history is kept privately
   (project files, `mysheet-private-backup/`, and the bundle copy in the Claude store).
-- `scripts/site.mjs` now prepares the `gh-pages` branch; site address https://iambetto.github.io/MySheet/.
+- `scripts/site.mjs` now prepares the `gh-pages` branch; the site is live at https://iambetto.github.io/MySheet/.
+- Seen once in the full run: `website.spec.ts` "changes are saved on the device and survive a reload" failed
+  (setting not checked after reload), then passed 40 of 40 on repeat. Likely a timing race; watch it.
 
 ## 10 Nov 2026 — Offline App, steps 1–3 (`ms-v2-25`, decision ms-d63)
 - `plans/offline-app.md`. Moved from Someday into v0.3 so testers need no Claude account; Google Drive backup dropped.

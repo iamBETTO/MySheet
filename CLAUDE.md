@@ -11,7 +11,7 @@ _Read this first, every session. Read it with `DEVLOG.md` (the technical history
 - **Charts:** d3 modules (scales, shapes, formats), drawn inside components. Added when the first chart arrives.
 - **Tests:** Vitest for money maths and data (`src/**/*.test.ts`), Playwright for screens (`tests/e2e/`), axe-core for accessibility.
 - **Commands:** `npm run test` (unit), `npm run build` (typecheck, build, artifact page), `npm run e2e` (screens), `npm run check` (all three).
-- **History:** Git, pushed to the private GitHub repository `iamBETTO/mysheet` (since 6 Nov 2026) after every finished step. As a second copy, `git bundle create --all` is still saved base64-encoded in the MySheet v2 artifact's private store (`data/users/me/devbackup/parts/<n>`, up to 200 KB of text each) at the end of a session. To restore: attach the GitHub repository and clone it (or, without GitHub, read the parts, join, decode, then `git clone` the bundle).
+- **History:** Git, pushed to the GitHub repository `iamBETTO/MySheet` (public since 24 Nov 2026: never commit personal data) after every finished step. The website is the `gh-pages` branch (`npm run build && npm run site`), live at https://iambetto.github.io/MySheet/. As a second copy, `git bundle create --all` is still saved base64-encoded in the MySheet v2 artifact's private store (`data/users/me/devbackup/parts/<n>`, up to 200 KB of text each) at the end of a session. To restore: attach the GitHub repository and clone it (or, without GitHub, read the parts, join, decode, then `git clone` the bundle).
 - **npm:** `.npmrc` sets `legacy-peer-deps` because of an npm bug with vitest's optional peers; versions are pinned exactly.
 - All code uses this stack's normal patterns. Don't mix in another framework, language or style.
 
